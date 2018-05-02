@@ -1,3 +1,4 @@
+#!/usr/bin/python
 
 import re
 from gensim.models import TfidfModel
@@ -20,7 +21,7 @@ def neighborhood(input_file, M):
 			tokens = l.split('\t')
 			if tokens[0] not in ".,!@#$%^&*()[]{};:/?~`=+<>":
 				array.append((tokens[0], tokens[1].strip('\n')))
-	
+
 	#print(array)
 	nhoods = {}
 	keyword = ""
@@ -40,7 +41,7 @@ def neighborhood(input_file, M):
 			#print("NEW: ", len(n), count-i)
 			nhoods[keyword] = n
 
-		
+
 		keyword = ""
 		n = ""
 		i = count+1
@@ -59,7 +60,7 @@ def normalize(vector):
 	return norm
 
 """ Returns a list of sets of keyword and phrases
-Each set in the list describes one concept. Use KL-divergence with threshold T to 
+Each set in the list describes one concept. Use KL-divergence with threshold T to
 make decision whether to group two words or not.
 """
 def neighborhoodTfidfVectors(original_text, input_neighborhoods):
@@ -70,7 +71,7 @@ def neighborhoodTfidfVectors(original_text, input_neighborhoods):
 	tokens = tokenizer.tokenize(raw)
 	# stopped_tokens = [i for i in tokens if not i in stopwords.words('english') and len(i)>1]    # REMOVES ENGLISH STOP WORDS AND WORDS WITH ONLY ONE CHAR, LIKE '1', '0' AND 'X'
 	fullText = [p_stemmer.stem(i) for i in tokens]
-	
+
 	tokdict = {}
 	# nhoods = []
 	for k in input_neighborhoods:

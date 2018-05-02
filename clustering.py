@@ -1,37 +1,52 @@
+#!/usr/bin/python2
+
+import sys
+if len(sys.argv) < 2:
+  print("No input file specified")
+  sys.exit()
+
 from sklearn.cluster import KMeans
 from sklearn.metrics import mean_squared_error
 import json
-import numpy as np 
+import numpy as np
 
-
-
+NCLUSTERS = 20
 
 """ Used sklearn's Kmeans clustering to cluster concept keywords, K = number of clusters,
 T = minimum similarity threshold between two vectors in the same cluster.
 """
 def clusters(keywordVecDict, K, T):
-	# Number of clusters
-	kmeans = KMeans(n_clusters=K)
-	# Fitting the input data
-	kmeans = kmeans.fit(np.array(keywordVecDict.values()))
-	# Getting the cluster labels
-	labels = kmeans.predict(np.array(keywordVecDict.values()))
-	print labels
-	# Centroid values
-	centroids = kmeans.cluster_centers_
-	clustersOfKeywords = []
+  # Number of clusters
+  kmeans = KMeans(n_clusters=K)
+  # Fitting the input data
+  kmeans = kmeans.fit(np.array(keywordVecDict.values()))
+  # Getting the cluster labels
+  labels = kmeans.predict(np.array(keywordVecDict.values()))
+  # print(labels)
+  # Centroid values
+  centroids = kmeans.cluster_centers_
+  # clustersOfKeywords = []
 
-	for v in centroids:
-		clustersOfKeywords = []
-		for k in keywordVecDict:
-			if mean_squared_error(keywordVecDict[k], v)< T:
-				clustersOfKeywords[v].append(k)
+  # for v in centroids:
+  #   clustersOfKeywords = []
+  #   for k in keywordVecDict:
+  #     if mean_squared_error(keywordVecDict[k], v)< T:
+  #       clustersOfKeywords[v].append(k)
 
-	return centroids
+  kclusters = [[] for _ in range(0,NCLUSTERS)]
+  for i,k in enumerate(keywordVecDict.keys()):
+    # print("{0} : {1}".format(k,labels[i]))
+    kclusters[labels[i]].append(k)
 
-with open('distributions.json', 'r') as fp:
+  for i in range(0,NCLUSTERS):
+    print("Cluster {0}".format(i))
+    for item in kclusters[i]:
+      print("  {0}".format(item.encode("utf-8")))
+
+  return centroids
+
+with open(sys.argv[1], 'r') as fp:
     data = json.loads(fp.read())
+    # print(data)
 
-# print data.keys()
-
-C = clusters(data, 10, 0.7)
+C = clusters(data, NCLUSTERS, 0.7)
