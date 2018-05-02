@@ -43,7 +43,9 @@ def clusters(keywordVecDict, K, T):
     for item in kclusters[i]:
       print("  {0}".format(item.encode("utf-8")))
 
-  return centroids
+  with open('clusters.json','w') as fp:
+    json.dump(kclusters, fp)
+  return kclusters
 
 with open(sys.argv[1], 'r') as fp:
     data = json.loads(fp.read())
