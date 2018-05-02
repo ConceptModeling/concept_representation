@@ -112,12 +112,6 @@ def neighborhoodTfidfVectors(original_text, input_neighborhoods):
 	# print(wordDistDict)
 	return wordDistDict
 
-""" Used sklearn's Kmeans clustering to cluster concept keywords, K = number of clusters,
-T = minimum similarity threshold between two vectors in the same cluster.
-"""
-def clusters(keywordVecDict, K, T):
-	return
-
 
 if (__name__ == "__main__"):
     nhoods = neighborhood(sys.argv[1],int(sys.argv[2]))
