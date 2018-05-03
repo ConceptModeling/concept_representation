@@ -1,0 +1,705 @@
+acceptance criterion
+activation function
+active constraint
+AdaBoost
+adaline
+adaptive rejection sampling
+Akaike information criterion
+ancestral sampling
+annular ﬂow
+arc
+assumed density filtering
+autoassociative networks
+automatic relevance determination
+autoregressive hidden Markov model
+autoregressive model
+autoregressive moving average
+back-tracking
+backgammon
+backpropagation
+bagging
+basis function
+batch training
+Baum-Welch algorithm
+Bayes’ theorem
+Bayes
+Bayesian analysis
+hierarchical
+model averaging
+Bayesian information criterion
+Bayesian model comparison
+Bayesian network
+Bayesian probability
+belief propagation
+Bernoulli distribution
+mixture model
+Bernoulli
+beta distribution
+beta recursion
+between-class covariance
+bias
+bias parameter
+bias-variance trade-off
+binary entropy
+binomial distribution
+biological sequence
+bipartite graph
+bits
+blind source separation
+blocked path
+Boltzmann distribution
+Boltzmann
+Boolean logic
+boosting
+bootstrap
+bootstrap filter
+box constraints
+Box-Muller method
+C4.5
+calculus of variations
+canonical correlation analysis
+canonical link function
+Cauchy distribution
+causality
+central differences
+central limit theorem
+chain graph
+chaining
+Chapman-Kolmogorov equations
+child node
+Cholesky decomposition
+chunking
+classical probability
+classification
+classification and regression trees
+clique
+clustering
+clutter problem
+co-parents
+code-book vectors
+combining models
+committee
+complete data set
+completing the square
+computational learning theory
+concave function
+concentration parameter
+condensation algorithm
+conditional entropy
+conditional expectation
+conditional independence
+conditional probability
+conjugate prior
+convex duality
+convex function
+convolutional neural network
+correlation matrix
+cost function
+covariance
+between-class
+within-class
+diagonal
+isotropic
+partitioned
+positive definite
+Cox’s axioms
+credit assignment
+cross-entropy error function
+cross-validation
+cumulative distribution function
+curse of dimensionality
+curve fitting
+d-separation
+DAGSVM
+data augmentation
+data compression
+decision boundary
+decision region
+decision theory
+decision tree
+decomposition methods
+degrees of freedom
+degrees-of-freedom parameter
+density estimation
+density network
+dependency map
+descendant node
+design matrix
+differential entropy
+digamma function
+directed acyclic graph
+directed cycle
+directed factorization
+Dirichlet distribution
+Dirichlet
+discriminant function
+discriminative model
+distortion measure
+distributive law of multiplication
+DNA
+document retrieval
+dual representation
+dual-energy gamma densitometry
+dynamic programming
+dynamical system
+early stopping
+edge
+effective number of observations
+effective number of parameters
+elliptical K-means
+emission probability
+energy function
+entropy
+conditional
+differential
+relative
+equality constraint
+equivalent kernel
+erf function
+error function
+error-correcting output codes
+Euler
+Euler-Lagrange equations
+evidence approximation
+evidence function
+expectation
+expectation conditional maximization
+expectation maximization
+Gaussian mixture
+generalized
+sampling methods
+expectation propagation
+expectation step
+explaining away
+exploitation
+exploration
+exponential distribution
+exponential family
+extensive variables
+face detection
+face tracking
+factor analysis
+mixture model
+factor graph
+factor loading
+factorial hidden Markov model
+factorized distribution
+feature extraction
+feature map
+feature space
+Fisher information matrix
+Fisher kernel
+Fisher’s linear discriminant
+forward kinematics
+forward problem
+forward propagation
+forward-backward algorithm
+fractional belief propagation
+frequentist probability
+fuel system
+function interpolation
+functional
+derivative
+gamma densitometry
+gamma distribution
+gamma function
+gating function
+Gauss
+Gaussian
+conditional
+marginal
+maximum likelihood
+mixture
+sequential estimation
+sufficient statistics
+wrapped
+Gaussian kernel
+Gaussian process
+Gaussian random field
+Gaussian-gamma distribution
+Gaussian-Wishart distribution
+generalization
+generalized linear model
+generative model
+generative topographic mapping
+directional curvature
+magnification factor
+geodesic distance
+Gibbs sampling
+blocking
+Gibbs
+Gini index
+global minimum
+gradient descent
+Gram matrix
+graph-cut algorithm
+graphical model
+bipartite
+directed
+factorization
+fully connected
+inference
+tree
+treewidth
+triangulated
+undirected
+Green’s function
+Hamilton
+Hamiltonian dynamics
+Hamiltonian function
+Hammersley-Clifford theorem
+handwriting recognition
+handwritten digit
+head-to-head path
+head-to-tail path
+Heaviside step function
+Hellinger distance
+Hessian matrix
+diagonal approximation
+exact evaluation
+fast multiplication
+inverse
+outer product approximation
+heteroscedastic
+hidden Markov model
+autoregressive
+factorial
+forward-backward algorithm
+input-output
+left-to-right
+maximum likelihood
+scaling factor
+sum-product algorithm
+switching
+variational inference
+hidden unit
+hidden variable
+hierarchical Bayesian model
+hierarchical mixture of experts
+hinge error function
+Hinton diagram
+histogram density estimation
+hold-out set
+homogeneous ﬂow
+homogeneous kernel
+homogeneous Markov chain
+Hooke’s law
+hybrid Monte Carlo
+hyperparameter
+hyperprior
+ID3
+identifiability
+image de-noising
+importance sampling
+importance weights
+improper prior
+imputation step
+imputation-posterior algorithm
+inactive constraint
+incomplete data set
+independence map
+independent component analysis
+independent factor analysis
+independent identically distributed
+independent variables
+independent
+induced factorization
+inequality constraint
+inference
+information criterion
+information geometry
+information theory
+input-output hidden Markov model
+intensive variables
+intrinsic dimensionality
+invariance
+inverse gamma distribution
+inverse kinematics
+inverse problem
+inverse Wishart distribution
+Ising model
+isomap
+isometric feature map
+iterated conditional modes
+iterative reweighted least squares
+Jacobian matrix
+Jensen’s inequality
+join tree
+junction tree algorithm
+K nearest neighbours
+K-means clustering algorithm
+K-medoids algorithm
+Kalman filter
+extended
+Kalman gain matrix
+Kalman smoother
+Karhunen-Lo`eve transform
+Karush-Kuhn-Tucker conditions
+kernel density estimator
+kernel function
+Fisher
+Gaussian
+homogeneous
+nonvectorial inputs
+stationary
+kernel PCA
+kernel regression
+kernel substitution
+kernel trick
+kinetic energy
+Kullback-Leibler divergence
+Lagrange multiplier
+Lagrange
+Lagrangian
+laminar ﬂow
+Laplace approximation
+Laplace
+lasso
+latent class analysis
+latent trait model
+latent variable
+lattice diagram
+leapfrog discretization
+learning
+learning rate parameter
+least-mean-squares algorithm
+leave-one-out
+likelihood function
+likelihood weighted sampling
+linear discriminant
+Fisher
+linear dynamical system
+inference
+linear independence
+linear regression
+EM
+mixture model
+variational
+linear smoother
+linear-Gaussian model
+linearly separable
+link
+link function
+Liouville’s Theorem
+local minimum
+local receptive field
+locally linear embedding
+location parameter
+log odds
+logic sampling
+logistic regression
+Bayesian
+mixture model
+multiclass
+logistic sigmoid
+logit function
+loopy belief propagation
+loss function
+loss matrix
+lossless data compression
+lossy data compression
+lower bound
+macrostate
+Mahalanobis distance
+manifold
+margin
+error
+soft
+marginal likelihood
+marginal probability
+Markov blanket
+Markov chain
+homogeneous
+second order
+Markov chain Monte Carlo
+Markov model
+homogeneous
+Markov random field
+max-sum algorithm
+maximal clique
+maximal spanning tree
+maximization step
+maximum likelihood
+Gaussian mixture
+singularities
+maximum posterior
+mean
+mean field theory
+mean value theorem
+measure theory
+memory-based methods
+message passing
+pending message
+schedule
+variational
+Metropolis algorithm
+Metropolis-Hastings algorithm
+microstate
+minimum risk
+Minkowski loss
+missing at random
+missing data
+mixing coefficient
+mixture component
+mixture density network
+mixture model
+conditional
+linear regression
+logistic regression
+symmetries
+mixture of experts
+mixture of Gaussians
+MNIST data
+model comparison
+model evidence
+model selection
+moment matching
+momentum variable
+Monte Carlo EM algorithm
+Monte Carlo sampling
+moralization
+multidimensional scaling
+multilayer perceptron
+multimodality
+multinomial distribution
+multiplicity
+mutual information
+naive Bayes model
+nats
+natural language modelling
+natural parameters
+nearest-neighbour methods
+neural network
+convolutional
+regularization
+relation to Gaussian process
+Newton-Raphson
+node
+noiseless coding theorem
+nonidentifiability
+noninformative prior
+nonparametric methods
+normal equations
+normal-gamma distribution
+normal-Wishart distribution
+novelty detection
+object recognition
+observed variable
+Occam factor
+oil ﬂow data
+Old Faithful data
+one-versus-one classifier
+one-versus-the-rest classifier
+ordered over-relaxation
+Ornstein-Uhlenbeck process
+orthogonal least squares
+outlier
+outliers
+over-fitting
+over-relaxation
+PAC-Bayesian framework
+parameter shrinkage
+parent node
+particle filter
+partition function
+Parzen window
+pending message
+perceptron
+convergence theorem
+hardware
+perceptron criterion
+perfect map
+periodic variable
+phase space
+photon noise
+plate
+polynomial curve fitting
+polytree
+position variable
+positive definite covariance
+positive definite matrix
+positive semidefinite covariance
+positive semidefinite matrix
+posterior probability
+posterior step
+potential energy
+potential function
+power EP
+power method
+precision matrix
+precision parameter
+predictive distribution
+preprocessing
+principal component analysis
+Bayesian
+EM algorithm
+Gibbs sampling
+mixture distribution
+physical analogy
+principal curve
+principal subspace
+principal surface
+prior
+conjugate
+consistent
+improper
+noninformative
+probabilistic PCA
+probability
+Bayesian
+classical
+density
+frequentist
+mass function
+prior
+product rule
+sum rule
+theory
+probably approximately correct
+probit function
+probit regression
+product rule of probability
+proposal distribution
+protected conjugate gradients
+protein sequence
+pseudo-inverse
+pseudo-random numbers
+quadratic discriminant
+quality parameter
+radial basis function
+Rauch-Tung-Striebel equations
+regression
+regression function
+regularization
+Tikhonov
+regularized least squares
+reinforcement learning
+reject option
+rejection sampling
+relative entropy
+relevance vector
+relevance vector machine
+responsibility
+ridge regression
+Robbins-Monro algorithm
+robot arm
+robustness
+root node
+root-mean-square error
+Rosenblatt
+rotation invariance
+running intersection property
+sample mean
+sample variance
+sampling-importance-resampling
+scale invariance
+scale parameter
+scaling factor
+self-organizing map
+sequential data
+sequential estimation
+sequential gradient descent
+sequential learning
+sequential minimal optimization
+serial message passing schedule
+Shannon
+shared parameters
+shrinkage
+Shur complement
+simplex
+single-class support vector machine
+singular value decomposition
+sinusoidal data
+skip-layer connection
+slack variable
+slice sampling
+smoother matrix
+smoothing parameter
+soft margin
+soft weight sharing
+softmax function
+sparsity
+sparsity parameter
+spectrogram
+speech recognition
+sphereing
+spline functions
+standard deviation
+standardizing
+state space model
+switching
+stationary kernel
+ing theory
+steepest descent
+Stirling’s approximation
+stochastic
+stochastic EM
+stochastic gradient descent
+stochastic process
+stratified ﬂow
+Student’s t-distribution
+subsampling
+sufficient statistics
+sum rule of probability
+sum-of-squares error
+sum-product algorithm
+for hidden Markov model
+supervised learning
+support vector
+support vector machine
+for regression
+multiclass
+survival of the fittest
+switching hidden Markov model
+switching state space model
+synthetic data sets
+tail-to-tail path
+tangent distance
+tangent propagation
+tapped delay line
+target vector
+test set
+threshold parameter
+tied parameters
+Tikhonov regularization
+time warping
+tomography
+training
+training set
+transition probability
+translation invariance
+tree-reweighted message passing
+treewidth
+triangulated graph
+uniform distribution
+uniform sampling
+uniquenesses
+unsupervised learning
+utility function
+validation set
+Vapnik-Chervonenkis dimension
+variance
+variational inference
+for Gaussian mixture
+for hidden Markov model
+local
+vector quantization
+visualization
+Viterbi algorithm
+von Mises distribution
+wavelets
+weak learner
+weight decay
+weight parameter
+weight sharing
+soft
+weight vector
+weight-space symmetry
+weighted least squares
+well-determined parameters
+whitening
+Wishart distribution
+within-class covariance
+Woodbury identity
+wrapped distribution
+Yellowstone National Park

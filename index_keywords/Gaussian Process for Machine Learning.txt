@@ -1,0 +1,245 @@
+cokriging
+consistency
+function
+set
+predictive
+ANOVA
+compact support
+dot product
+exponential
+alignment
+anisotropy
+determination
+autoregressive moving-average process
+noise model
+autoregressive process
+Bayes classifier
+Bayes’ theorem
+Bayesian committee machine
+inductive
+binary classification
+bits
+Bochner’s theorem
+Brownian bridge
+canonical hyperplane
+Cholesky decomposition
+Christ
+classification
+binary
+least-squares
+probabilistic
+multi-class
+probabilistic
+Gibbs
+predictive
+inhomogeneous polynomial
+Mat´ern
+neural network
+Ornstein-Uhlenbeck
+periodic
+polynomial
+piecewise
+rational quadratic
+squared exponential
+covariance matrix
+Cromwell’s dictum
+cross-validation
+generalized
+leave-one-out
+C. E. Rasmussen & C. K. I. Williams
+robot
+USPS
+decision region
+decision surface
+degrees of freedom
+derivative observations
+Dirichlet process
+discriminative approach
+eigenfunction
+eigenvalue
+entropy
+equivalent kernel
+generalization
+hinge
+error-reject curve
+errors-in-variables regression
+expectation propagation
+optimal
+factor analysis
+feature space
+Fisher information matrix
+Fisher kernel
+Fourier transform
+fractal
+gamma distribution
+Gaussian distribution
+Gaussian Markov process
+Gaussian process
+Gaussian process classification
+Gaussian process latent variable model
+Gaussian process regression
+generalization error
+generative approach
+generative topographic mapping
+geostatistics
+Gram matrix
+Green’s function
+hidden Markov model
+hinge error function
+hyperparameters
+canonical
+index set
+informative vector machine
+integrals
+intrinsic random function
+invariances
+isotropy
+iteratively reweighted least squares
+jitter
+bag-of-characters
+degenerate
+equivalent
+Fisher
+k-spectrum
+nondegenerate
+positive definite
+string
+tangent of posterior odds
+kernel classifier
+kernel PCA
+kernel smoother
+kernel trick
+kriging
+Kullback-Leibler divergence
+Laplace approximation
+latent variable model
+learning curve
+learning
+C. E. Rasmussen & C. K. I. Williams
+least-squares classification
+leave-one-out
+leave-one-out cross-validation
+length-scale
+likelihood
+mean square continuity
+mean square differentiability
+mean standardized log loss
+mean-field approximation
+measure
+Mercer’s theorem
+mixture of experts
+non-parametric
+parametric
+semi-parametric
+Moore-Aronszajn theorem
+multi-class classification
+multi-task learning
+multiple outputs
+Nadaraya-Watson estimator
+nats
+neural network
+Newton’s method
+noise model
+correlated
+heteroscedastic
+Frobenius
+null space
+Nystr¨om approximation
+Nystr¨om method
+Occam’s razor
+one-versus-rest
+operator
+optimal experimental design
+outputs
+McAllester
+Seeger
+penalized maximum likelihood estimate
+positive definite matrix
+positive semidefinite matrix
+logistic
+multiple-logistic
+non-Gaussian
+probit
+linear classifier
+linear regression
+link function
+log odds ratio
+logistic function
+logistic regression
+negative log probability
+squared
+zero-one
+loss function
+loss matrix
+functional
+geometrical
+marginal likelihood
+marginalization property
+Markov chain Monte Carlo
+Markov random field
+covariance
+Fisher information
+Gram
+inversion lemma
+loss
+partitioned inversion of
+positive definite
+positive semidefinite
+penalized
+mean function
+C. E. Rasmussen & C. K. I. Williams
+stationarity
+stochastic differential equation
+Student’s t process
+subset of datapoints
+subset of regressors
+supervised learning
+support vector
+support vector machine
+soft margin
+support vector regression
+tangent of posterior odds kernel
+transduction
+type II maximum likelihood
+uncertain inputs
+upcrossing rate
+USPS dataset
+weight function
+weight vector
+Wiener process
+integrated
+tied-down
+Wiener-Khintchine theorem
+Yule-Walker equations
+posterior process
+averaged
+MAP
+probabilistic classification
+probabilistic least-squares classification
+probabilistic one nearest neighbour
+conditional
+joint
+marginal
+probit regression
+projected process approximation
+pseudo-likelihood
+quadratic form
+quadratic programming
+errors-in-variables
+Gaussian process
+linear
+polynomial
+ridge
+kernel
+regularization
+regularization network
+reject option
+relevance vector machine
+representer theorem
+reproducing kernel Hilbert space
+response function
+risk
+scale mixture
+softmax
+splines
+standardized mean squared error

@@ -1,0 +1,343 @@
+ATP
+attractor
+autoassociator
+axon
+Action
+action potential
+action space
+action-value function
+activation
+activation function
+selection of
+adaptive linear neuron
+adaptive resonance theory
+agent
+algorithm
+amacrine cell
+approximation
+ART-2
+ART-2A
+ART-3
+artificial intelligence
+associative data storage
+backpropagation
+second order
+backpropagation of error
+recurrent
+bar
+basis
+bias neuron
+binary threshold function
+bipolar cell
+black box
+brain
+brainstem
+capability to learn
+of a ROLF neuron
+of a SOM neuron
+of an RBF neuron
+distance to the
+central nervous system
+cerebellum
+cerebral cortex
+cerebrum
+change in weight
+cluster analysis
+clusters
+codebook vector
+complete linkage
+compound eye
+concentration gradient
+cone function
+connection
+context-based search
+continuous
+visual
+cortical field
+association
+primary
+cylinder function
+deep networks
+Delta
+delta rule
+dendrite
+tree
+depolarization
+digital filter
+digitization
+discrete
+Euclidean
+squared
+dynamical system
+early stopping
+electronic brain
+Elman network
+environment
+episode
+epoch
+epsilon-nearest neighboring
+specific
+total
+error function
+specific
+error vector
+evolutionary algorithms
+exploitation approach
+exploration approach
+exteroceptor
+fastprop
+fault tolerance
+feedforward
+Fermi function
+function approximation
+universal
+ganglion cell
+Gauss-Markov model
+Gaussian bell
+generalization
+glial cell
+gradient
+gradient descent
+problems
+grid
+gridworld
+Hebbian rule
+generalized form
+heteroassociator
+Hinton diagram
+history of development
+Hopfield networks
+continuous
+horizontal cell
+hyperbolic tangent
+hyperpolarization
+hypothalamus
+input dimension
+input patterns
+input vector
+interbrain
+internodes
+interoceptor
+precise
+ion
+iris
+Jordan network
+k-means clustering
+k-nearest neighboring
+hidden
+input
+output
+learnability
+oﬄine
+online
+reinforcement
+supervised
+unsupervised
+learning rate
+variable
+learning strategy
+learning vector quantization
+lens
+linear separability
+linearer associator
+locked-in syndrome
+temperature parameter
+LVQ1
+LVQ2
+LVQ3
+Mark I perceptron
+membrane
+memorized
+metric
+Mexican hat function
+momentum
+momentum term
+Monte Carlo method
+Moore-Penrose pseudo inverse
+moving average procedure
+myelin sheath
+nabla operator
+Neocognitron
+nervous system
+network input
+neural gas
+growing
+multi-
+neural network
+recurrent
+neuron
+accepting
+binary
+context
+Fermi
+identity
+information processing
+input
+RBF
+output
+ROLF
+self-organizing map
+tanh
+winner
+neurotransmitters
+nodes of Ranvier
+oligodendrocytes
+OLVQ
+one-step-ahead prediction
+heterogeneous
+open loop learning
+optimal brain damage
+order of activation
+random order
+randomly permuted order
+topological order
+synchronous
+output dimension
+output function
+output vector
+parallelism
+pattern recognition
+perceptron
+multilayer
+recurrent
+singlelayer
+perceptron convergence theorem
+perceptron learning algorithm
+period
+peripheral nervous system
+Anderson, James A
+Anguita
+Carpenter, Gail
+Elman
+Fukushima
+Girosi
+Grossberg, Stephen
+Hebb, Donald O
+Hinton
+Hoff, Marcian E
+Hopfield, John . . . . . . . . . . . 11 f.,
+Ito
+Jordan
+Kohonen, Teuvo
+Lashley, Karl
+MacQueen, J
+Martinetz, Thomas
+Miyake
+Nilsson, Nils
+Papert, Seymour
+Parker, David
+Poggio
+Pythagoras
+Riedmiller, Martin
+Rosenblatt, Frank
+Rumelhart
+Steinbuch, Karl
+Tesauro, Gerald
+von der Malsburg, Christoph
+Werbos, Paul
+Widrow, Bernard
+Wightman, Charles
+Williams
+Zuse, Konrad
+pinhole eye
+pole balancer
+policy
+closed loop
+evaluation
+greedy
+improvement
+open loop
+pons
+propagation function
+pruning
+pupil
+Q learning
+quantization
+quickpropagation
+RBF network
+growing
+receptive field
+receptor cell
+photo-
+primary
+secondary
+recurrence
+direct
+indirect
+lateral
+refractory period
+regional and online learnable fields
+reinforcement learning
+repolarization
+representability
+resilient backpropagation
+resonance
+retina
+return
+reward
+avoidance strategy
+pure delayed
+pure negative
+root mean square
+saltatory conductor
+Schwann cell
+self-fulfilling prophecy
+self-organizing feature maps
+self-organizing map
+multi-
+sensory adaptation
+sensory transduction
+shortcut connections
+silhouette coeﬃcient
+single lense eye
+Single Shot Learning
+situation
+situation space
+situation tree
+Snark
+sodium-potassium pump
+soma
+spin
+spinal cord
+stability / plasticity dilemma
+state
+state space forecasting
+state-value function
+stimulus
+stimulus-conducting apparatus
+surface, perceptive
+swing up an inverted pendulum
+symmetry breaking
+chemical
+electrical
+synapses
+synaptic cleft
+target
+TD gammon
+teacher forcing
+teaching input
+temporal difference learning
+thalamus
+weighted sum
+winner-takes-all scheme
+threshold potential
+threshold value
+time concept
+time horizon
+time series
+time series prediction
+topological defect
+topology
+topology function
+training pattern
+set of
+training set
+two-step-ahead prediction
+direct
+unfolding in time
+voronoi diagram
+weight
+weight matrix
+bottom-up
+top-down
+weight vector

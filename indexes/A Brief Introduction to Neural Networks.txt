@@ -1,0 +1,601 @@
+100-step rule . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+ATP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+attractor . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+autoassociator. . . . . . . . . . . . . . . . . . . . .131
+axon. . . . . . . . . . . . . . . . . . . . . . . . . . . .18, 23
+
+A
+Action . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+action potential . . . . . . . . . . . . . . . . . . . . 21
+action space . . . . . . . . . . . . . . . . . . . . . . . 195
+action-value function . . . . . . . . . . . . . . 203
+activation . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+activation function . . . . . . . . . . . . . . . . . 36
+selection of . . . . . . . . . . . . . . . . . . . . . 98
+ADALINE . . see adaptive linear neuron
+adaptive linear element . . . see adaptive
+
+linear neuron
+
+adaptive linear neuron. . . . . . . . . . . . . .10
+adaptive resonance theory . . . . . 11, 165
+agent. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .194
+algorithm. . . . . . . . . . . . . . . . . . . . . . . . . . .50
+amacrine cell . . . . . . . . . . . . . . . . . . . . . . . 28
+approximation. . . . . . . . . . . . . . . . . . . . .110
+ART . . . . see adaptive resonance theory
+ART-2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+ART-2A. . . . . . . . . . . . . . . . . . . . . . . . . . .168
+ART-3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+artiﬁcial intelligence . . . . . . . . . . . . . . . . 10
+associative data storage . . . . . . . . . . . 157
+
+B
+backpropagation. . . . . . . . . . . . . . . . . . . .88
+second order . . . . . . . . . . . . . . . . . . . 95
+backpropagation of error. . . . . . . . . . . .84
+recurrent . . . . . . . . . . . . . . . . . . . . . . 125
+bar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+bias neuron. . . . . . . . . . . . . . . . . . . . . . . . .44
+binary threshold function . . . . . . . . . . 37
+bipolar cell . . . . . . . . . . . . . . . . . . . . . . . . . 27
+black box. . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+brain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+brainstem . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+C
+capability to learn . . . . . . . . . . . . . . . . . . . 4
+center
+
+of a ROLF neuron . . . . . . . . . . . . 176
+of a SOM neuron. . . . . . . . . . . . . .146
+
+219
+
+Index
+
+dkriesel.com
+
+of an RBF neuron. . . . . . . . . . . . .104
+distance to the . . . . . . . . . . . . . . 107
+central nervous system . . . . . . . . . . . . . 14
+cerebellum . . . . . . . . . . . . . . . . . . . . . . . . . 15
+cerebral cortex . . . . . . . . . . . . . . . . . . . . . 14
+cerebrum . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+change in weight. . . . . . . . . . . . . . . . . . . .64
+cluster analysis . . . . . . . . . . . . . . . . . . . . 171
+clusters . . . . . . . . . . . . . . . . . . . . . . . . . . . 171
+CNS . . . . . . . see central nervous system
+codebook vector . . . . . . . . . . . . . . 138, 172
+complete linkage. . . . . . . . . . . . . . . . . . . .39
+compound eye . . . . . . . . . . . . . . . . . . . . . . 26
+concentration gradient. . . . . . . . . . . . . .19
+cone function. . . . . . . . . . . . . . . . . . . . . .150
+connection. . . . . . . . . . . . . . . . . . . . . . . . . .34
+context-based search . . . . . . . . . . . . . . 157
+continuous . . . . . . . . . . . . . . . . . . . . . . . . 137
+cortex . . . . . . . . . . . . . . see cerebral cortex
+visual . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+cortical ﬁeld . . . . . . . . . . . . . . . . . . . . . . . . 14
+association . . . . . . . . . . . . . . . . . . . . . 15
+primary . . . . . . . . . . . . . . . . . . . . . . . . 15
+cylinder function . . . . . . . . . . . . . . . . . . 150
+
+D
+Dartmouth Summer Research Project9
+deep networks . . . . . . . . . . . . . . . . . . 93, 97
+Delta. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .79
+delta rule. . . . . . . . . . . . . . . . . . . . . . . . . . .79
+dendrite . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+depolarization . . . . . . . . . . . . . . . . . . . . . . 21
+diencephalon . . . . . . . . . . . . see interbrain
+diﬀerence vector . . . . . . . see error vector
+digital ﬁlter . . . . . . . . . . . . . . . . . . . . . . . 183
+
+digitization. . . . . . . . . . . . . . . . . . . . . . . .138
+discrete . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+discretization . . . . . . . . . see quantization
+distance
+
+Euclidean . . . . . . . . . . . . . . . . . 56, 171
+squared. . . . . . . . . . . . . . . . . . . .76, 171
+dynamical system . . . . . . . . . . . . . . . . . 119
+
+E
+early stopping . . . . . . . . . . . . . . . . . . . . . . 59
+electronic brain . . . . . . . . . . . . . . . . . . . . . . 9
+Elman network . . . . . . . . . . . . . . . . . . . . 121
+environment. . . . . . . . . . . . . . . . . . . . . . .193
+episode. . . . . . . . . . . . . . . . . . . . . . . . . . . .196
+epoch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+epsilon-nearest neighboring . . . . . . . . 173
+error
+
+speciﬁc . . . . . . . . . . . . . . . . . . . . . . . . . 56
+total . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+error function . . . . . . . . . . . . . . . . . . . . . . 75
+speciﬁc . . . . . . . . . . . . . . . . . . . . . . . . . 75
+error vector . . . . . . . . . . . . . . . . . . . . . . . . 53
+evolutionary algorithms . . . . . . . . . . . 125
+exploitation approach . . . . . . . . . . . . . 197
+exploration approach . . . . . . . . . . . . . . 197
+exteroceptor. . . . . . . . . . . . . . . . . . . . . . . .24
+
+F
+fastprop . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+fault tolerance . . . . . . . . . . . . . . . . . . . . . . . 4
+feedforward. . . . . . . . . . . . . . . . . . . . . . . . .39
+Fermi function . . . . . . . . . . . . . . . . . . . . . 37
+ﬂat spot elimination . . . . . . . . . . . . . . . . 95
+
+220
+
+D. Kriesel – A Brief Introduction to Neural Networks (ZETA2-EN)
+
+dkriesel.com
+
+Index
+
+fudging . . . . . . . see ﬂat spot elimination
+function approximation . . . . . . . . . . . . . 98
+function approximator
+
+universal . . . . . . . . . . . . . . . . . . . . . . . 82
+
+G
+ganglion cell. . . . . . . . . . . . . . . . . . . . . . . .27
+Gauss-Markov model . . . . . . . . . . . . . . 111
+Gaussian bell. . . . . . . . . . . . . . . . . . . . . .149
+generalization . . . . . . . . . . . . . . . . . . . . 4, 49
+glial cell . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+gradient . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+gradient descent . . . . . . . . . . . . . . . . . . . . 59
+problems . . . . . . . . . . . . . . . . . . . . . . . 60
+grid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+gridworld. . . . . . . . . . . . . . . . . . . . . . . . . .192
+
+H
+Heaviside function see binary threshold
+
+function
+
+Hebbian rule . . . . . . . . . . . . . . . . . . . . . . . 64
+generalized form. . . . . . . . . . . . . . . .65
+heteroassociator . . . . . . . . . . . . . . . . . . . 132
+Hinton diagram . . . . . . . . . . . . . . . . . . . . 34
+history of development. . . . . . . . . . . . . . .8
+Hopﬁeld networks . . . . . . . . . . . . . . . . . 127
+continuous . . . . . . . . . . . . . . . . . . . . 134
+horizontal cell . . . . . . . . . . . . . . . . . . . . . . 28
+hyperbolic tangent . . . . . . . . . . . . . . . . . 37
+hyperpolarization. . . . . . . . . . . . . . . . . . .21
+hypothalamus . . . . . . . . . . . . . . . . . . . . . . 15
+
+I
+individual eye . . . . . . . . see ommatidium
+input dimension . . . . . . . . . . . . . . . . . . . . 48
+input patterns . . . . . . . . . . . . . . . . . . . . . . 50
+input vector . . . . . . . . . . . . . . . . . . . . . . . . 48
+interbrain . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+internodes . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+interoceptor . . . . . . . . . . . . . . . . . . . . . . . . 24
+interpolation
+
+precise . . . . . . . . . . . . . . . . . . . . . . . . 110
+ion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+iris . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+J
+Jordan network. . . . . . . . . . . . . . . . . . . .120
+
+K
+k-means clustering . . . . . . . . . . . . . . . . 172
+k-nearest neighboring. . . . . . . . . . . . . .172
+
+L
+layer
+
+hidden . . . . . . . . . . . . . . . . . . . . . . . . . 39
+input. . . . . . . . . . . . . . . . . . . . . . . . . . .39
+output . . . . . . . . . . . . . . . . . . . . . . . . . 39
+learnability . . . . . . . . . . . . . . . . . . . . . . . . . 97
+learning
+
+D. Kriesel – A Brief Introduction to Neural Networks (ZETA2-EN)
+
+221
+
+Index
+
+dkriesel.com
+
+batch. . . . . . . . . .see learning, oﬄine
+oﬄine . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+online . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+reinforcement . . . . . . . . . . . . . . . . . . 51
+supervised. . . . . . . . . . . . . . . . . . . . . .51
+unsupervised . . . . . . . . . . . . . . . . . . . 50
+learning rate . . . . . . . . . . . . . . . . . . . . . . . 89
+variable . . . . . . . . . . . . . . . . . . . . . . . . 90
+learning strategy . . . . . . . . . . . . . . . . . . . 39
+learning vector quantization . . . . . . . 137
+lens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+linear separability . . . . . . . . . . . . . . . . . . 81
+linearer associator . . . . . . . . . . . . . . . . . . 11
+locked-in syndrome . . . . . . . . . . . . . . . . . 16
+logistic function . . . . see Fermi function
+temperature parameter . . . . . . . . . 37
+LVQ . . see learning vector quantization
+LVQ1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+LVQ2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+LVQ3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+
+M
+M-SOM . see self-organizing map, multi
+Mark I perceptron . . . . . . . . . . . . . . . . . . 10
+Mathematical Symbols
+
+(t) . . . . . . . . . . . . . . . see time concept
+A(S) . . . . . . . . . . . . . see action space
+Ep . . . . . . . . . . . . . . . . see error vector
+G . . . . . . . . . . . . . . . . . . . . see topology
+N . . see self-organizing map, input
+
+dimension
+
+P . . . . . . . . . . . . . . . . . see training set
+Q∗
+Π(s, a) . see action-value function,
+QΠ(s, a) . see action-value function
+Rt . . . . . . . . . . . . . . . . . . . . . . see return
+
+optimal
+
+optimal
+
+S . . . . . . . . . . . . . . see situation space
+T . . . . . . see temperature parameter
+V ∗
+Π(s) . . . . . see state-value function,
+VΠ(s) . . . . . see state-value function
+W . . . . . . . . . . . . . . see weight matrix
+∆wi,j . . . . . . . . see change in weight
+Π . . . . . . . . . . . . . . . . . . . . . . . see policy
+Θ. . . . . . . . . . . . . .see threshold value
+α . . . . . . . . . . . . . . . . . . see momentum
+β . . . . . . . . . . . . . . . . see weight decay
+δ . . . . . . . . . . . . . . . . . . . . . . . . see Delta
+η . . . . . . . . . . . . . . . . .see learning rate
+η↑ . . . . . . . . . . . . . . . . . . . . . . see Rprop
+η↓ . . . . . . . . . . . . . . . . . . . . . . see Rprop
+ηmax . . . . . . . . . . . . . . . . . . . .see Rprop
+ηmin . . . . . . . . . . . . . . . . . . . . see Rprop
+ηi,j . . . . . . . . . . . . . . . . . . . . . see Rprop
+∇ . . . . . . . . . . . . . . see nabla operator
+ρ . . . . . . . . . . . . . see radius multiplier
+Err . . . . . . . . . . . . . . . . see error, total
+Err(W) . . . . . . . . . see error function
+Errp . . . . . . . . . . . . . see error, speciﬁc
+Errp(W)see error function, speciﬁc
+ErrWD . . . . . . . . . . . see weight decay
+at . . . . . . . . . . . . . . . . . . . . . . see action
+c. . . . . . . . . . . . . . . . . . . . . . . .see center
+of an RBF neuron, see neuron,
+self-organizing map, center
+
+m . . . . . . . . . . . see output dimension
+n . . . . . . . . . . . . . see input dimension
+p . . . . . . . . . . . . . see training pattern
+rh . . . see center of an RBF neuron,
+
+distance to the
+
+rt . . . . . . . . . . . . . . . . . . . . . . see reward
+st . . . . . . . . . . . . . . . . . . . . see situation
+t . . . . . . . . . . . . . . . see teaching input
+wi,j . . . . . . . . . . . . . . . . . . . . see weight
+x . . . . . . . . . . . . . . . . . see input vector
+y . . . . . . . . . . . . . . . . see output vector
+
+222
+
+D. Kriesel – A Brief Introduction to Neural Networks (ZETA2-EN)
+
+dkriesel.com
+
+Index
+
+fact . . . . . . . . see activation function
+fout . . . . . . . . . . . see output function
+membrane . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+-potential . . . . . . . . . . . . . . . . . . . . . . 19
+memorized . . . . . . . . . . . . . . . . . . . . . . . . . 54
+metric. . . . . . . . . . . . . . . . . . . . . . . . . . . . .171
+Mexican hat function. . . . . . . . . . . . . .150
+MLP. . . . . . . .see perceptron, multilayer
+momentum . . . . . . . . . . . . . . . . . . . . . . . . . 94
+momentum term. . . . . . . . . . . . . . . . . . . .94
+Monte Carlo method . . . . . . . . . . . . . . 201
+Moore-Penrose pseudo inverse . . . . . 110
+moving average procedure . . . . . . . . . 184
+myelin sheath . . . . . . . . . . . . . . . . . . . . . . 23
+
+N
+nabla operator. . . . . . . . . . . . . . . . . . . . . .59
+Neocognitron . . . . . . . . . . . . . . . . . . . . . . . 12
+nervous system . . . . . . . . . . . . . . . . . . . . . 13
+network input . . . . . . . . . . . . . . . . . . . . . . 35
+neural gas . . . . . . . . . . . . . . . . . . . . . . . . . 159
+growing . . . . . . . . . . . . . . . . . . . . . . . 162
+multi- . . . . . . . . . . . . . . . . . . . . . . . . . 161
+neural network . . . . . . . . . . . . . . . . . . . . . 34
+recurrent . . . . . . . . . . . . . . . . . . . . . . 119
+neuron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+accepting . . . . . . . . . . . . . . . . . . . . . 177
+binary. . . . . . . . . . . . . . . . . . . . . . . . . .71
+context. . . . . . . . . . . . . . . . . . . . . . . .120
+Fermi . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+identity . . . . . . . . . . . . . . . . . . . . . . . . 71
+information processing . . . . . . . . . 71
+input. . . . . . . . . . . . . . . . . . . . . . . . . . .71
+RBF . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+output . . . . . . . . . . . . . . . . . . . . . . 104
+ROLF. . . . . . . . . . . . . . . . . . . . . . . . .176
+
+self-organizing map. . . . . . . . . . . .146
+tanh . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+winner . . . . . . . . . . . . . . . . . . . . . . . . 148
+neuron layers. . . . . . . . . . . . . . . . .see layer
+neurotransmitters . . . . . . . . . . . . . . . . . . 17
+nodes of Ranvier . . . . . . . . . . . . . . . . . . . 23
+
+O
+oligodendrocytes . . . . . . . . . . . . . . . . . . . 23
+OLVQ. . . . . . . . . . . . . . . . . . . . . . . . . . . . .141
+on-neuron . . . . . . . . . . . . . see bias neuron
+one-step-ahead prediction . . . . . . . . . 183
+heterogeneous . . . . . . . . . . . . . . . . . 187
+open loop learning. . . . . . . . . . . . . . . . .125
+optimal brain damage . . . . . . . . . . . . . . 96
+order of activation . . . . . . . . . . . . . . . . . . 45
+
+asynchronous
+
+ﬁxed order . . . . . . . . . . . . . . . . . . . 47
+random order . . . . . . . . . . . . . . . . 46
+randomly permuted order . . . . 46
+topological order . . . . . . . . . . . . . 47
+synchronous . . . . . . . . . . . . . . . . . . . . 46
+output dimension. . . . . . . . . . . . . . . . . . .48
+output function. . . . . . . . . . . . . . . . . . . . .38
+output vector. . . . . . . . . . . . . . . . . . . . . . .48
+
+P
+parallelism . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+pattern . . . . . . . . . . . see training pattern
+pattern recognition . . . . . . . . . . . . 98, 131
+perceptron . . . . . . . . . . . . . . . . . . . . . . . . . 71
+multilayer . . . . . . . . . . . . . . . . . . . . . . 82
+recurrent. . . . . . . . . . . . . . . . . . . .119
+
+D. Kriesel – A Brief Introduction to Neural Networks (ZETA2-EN)
+
+223
+
+Index
+
+dkriesel.com
+
+singlelayer. . . . . . . . . . . . . . . . . . . . . .72
+perceptron convergence theorem . . . . 73
+perceptron learning algorithm . . . . . . 73
+period. . . . . . . . . . . . . . . . . . . . . . . . . . . . .119
+peripheral nervous system . . . . . . . . . . 13
+Persons
+
+Anderson . . . . . . . . . . . . . . . . . . . . 206 f.
+Anderson, James A. . . . . . . . . . . . . 11
+Anguita . . . . . . . . . . . . . . . . . . . . . . . . 37
+Barto . . . . . . . . . . . . . . . . . . . 191, 206 f.
+Carpenter, Gail. . . . . . . . . . . .11, 165
+Elman . . . . . . . . . . . . . . . . . . . . . . . . 120
+Fukushima . . . . . . . . . . . . . . . . . . . . . 12
+Girosi . . . . . . . . . . . . . . . . . . . . . . . . . 103
+Grossberg, Stephen . . . . . . . . 11, 165
+Hebb, Donald O. . . . . . . . . . . . . 9, 64
+Hinton . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Hoﬀ, Marcian E. . . . . . . . . . . . . . . . 10
+Hopﬁeld, John . . . . . . . . . . . 11 f., 127
+Ito . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Jordan . . . . . . . . . . . . . . . . . . . . . . . . 120
+Kohonen, Teuvo . 11, 137, 145, 157
+Lashley, Karl . . . . . . . . . . . . . . . . . . . . 9
+MacQueen, J. . . . . . . . . . . . . . . . . . 172
+Martinetz, Thomas. . . . . . . . . . . .159
+McCulloch, Warren . . . . . . . . . . . . 8 f.
+Minsky, Marvin . . . . . . . . . . . . . . . . 9 f.
+Miyake . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Nilsson, Nils. . . . . . . . . . . . . . . . . . . .10
+Papert, Seymour . . . . . . . . . . . . . . . 10
+Parker, David . . . . . . . . . . . . . . . . . . 95
+Pitts, Walter . . . . . . . . . . . . . . . . . . . 8 f.
+Poggio . . . . . . . . . . . . . . . . . . . . . . . . 103
+Pythagoras. . . . . . . . . . . . . . . . . . . . .56
+Riedmiller, Martin . . . . . . . . . . . . . 90
+Rosenblatt, Frank . . . . . . . . . . 10, 69
+Rumelhart . . . . . . . . . . . . . . . . . . . . . 12
+Steinbuch, Karl . . . . . . . . . . . . . . . . 10
+Sutton . . . . . . . . . . . . . . . . . . 191, 206 f.
+Tesauro, Gerald . . . . . . . . . . . . . . . 205
+
+von der Malsburg, Christoph . . . 11
+Werbos, Paul . . . . . . . . . . . 11, 84, 96
+Widrow, Bernard. . . . . . . . . . . . . . .10
+Wightman, Charles. . . . . . . . . . . . .10
+Williams . . . . . . . . . . . . . . . . . . . . . . . 12
+Zuse, Konrad. . . . . . . . . . . . . . . . . . . .9
+pinhole eye . . . . . . . . . . . . . . . . . . . . . . . . . 26
+PNS . . . . see peripheral nervous system
+pole balancer . . . . . . . . . . . . . . . . . . . . . . 206
+policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 196
+closed loop . . . . . . . . . . . . . . . . . . . . 197
+evaluation. . . . . . . . . . . . . . . . . . . . .200
+greedy . . . . . . . . . . . . . . . . . . . . . . . . 197
+improvement . . . . . . . . . . . . . . . . . . 200
+open loop . . . . . . . . . . . . . . . . . . . . . 197
+pons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+propagation function . . . . . . . . . . . . . . . 35
+pruning . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+pupil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+Q
+Q learning . . . . . . . . . . . . . . . . . . . . . . . . 204
+quantization. . . . . . . . . . . . . . . . . . . . . . .137
+quickpropagation . . . . . . . . . . . . . . . . . . . 95
+
+R
+RBF network. . . . . . . . . . . . . . . . . . . . . .104
+growing . . . . . . . . . . . . . . . . . . . . . . . 115
+receptive ﬁeld . . . . . . . . . . . . . . . . . . . . . . 27
+receptor cell . . . . . . . . . . . . . . . . . . . . . . . . 24
+photo-. . . . . . . . . . . . . . . . . . . . . . . . . .27
+primary . . . . . . . . . . . . . . . . . . . . . . . . 24
+secondary . . . . . . . . . . . . . . . . . . . . . . 24
+
+224
+
+D. Kriesel – A Brief Introduction to Neural Networks (ZETA2-EN)
+
+dkriesel.com
+
+Index
+
+recurrence . . . . . . . . . . . . . . . . . . . . . 40, 119
+direct . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+indirect . . . . . . . . . . . . . . . . . . . . . . . . 41
+lateral. . . . . . . . . . . . . . . . . . . . . . . . . .42
+refractory period . . . . . . . . . . . . . . . . . . . 23
+regional and online learnable ﬁelds 175
+reinforcement learning. . . . . . . . . . . . .191
+repolarization . . . . . . . . . . . . . . . . . . . . . . 21
+representability. . . . . . . . . . . . . . . . . . . . .97
+resilient backpropagation . . . . . . . . . . . 90
+resonance . . . . . . . . . . . . . . . . . . . . . . . . . 166
+retina. . . . . . . . . . . . . . . . . . . . . . . . . . .27, 71
+return . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+reward . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+avoidance strategy . . . . . . . . . . . . 199
+pure delayed . . . . . . . . . . . . . . . . . . 198
+pure negative . . . . . . . . . . . . . . . . . 198
+RMS . . . . . . . . . . . . see root mean square
+ROLFs. . . . . . . . .see regional and online
+
+learnable ﬁelds
+
+root mean square . . . . . . . . . . . . . . . . . . . 56
+Rprop . . . see resilient backpropagation
+
+S
+saltatory conductor. . . . . . . . . . . . . . . . .23
+Schwann cell . . . . . . . . . . . . . . . . . . . . . . . 23
+self-fulﬁlling prophecy . . . . . . . . . . . . . 189
+self-organizing feature maps . . . . . . . . 11
+self-organizing map. . . . . . . . . . . . . . . .145
+multi- . . . . . . . . . . . . . . . . . . . . . . . . . 161
+sensory adaptation . . . . . . . . . . . . . . . . . 25
+sensory transduction. . . . . . . . . . . . . . . .24
+shortcut connections. . . . . . . . . . . . . . . .39
+silhouette coeﬃcient. . . . . . . . . . . . . . .175
+single lense eye . . . . . . . . . . . . . . . . . . . . . 27
+Single Shot Learning . . . . . . . . . . . . . . 130
+
+situation . . . . . . . . . . . . . . . . . . . . . . . . . . 194
+situation space . . . . . . . . . . . . . . . . . . . . 195
+situation tree. . . . . . . . . . . . . . . . . . . . . .198
+SLP . . . . . . . . see perceptron, singlelayer
+Snark . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+SNIPE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .vi
+sodium-potassium pump. . . . . . . . . . . .20
+SOM . . . . . . . . . . see self-organizing map
+soma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+spin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+spinal cord . . . . . . . . . . . . . . . . . . . . . . . . . 14
+stability / plasticity dilemma . . . . . . 165
+state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194
+state space forecasting. . . . . . . . . . . . .183
+state-value function . . . . . . . . . . . . . . . 200
+stimulus . . . . . . . . . . . . . . . . . . . . . . . 21, 147
+stimulus-conducting apparatus. . . . . .24
+surface, perceptive. . . . . . . . . . . . . . . . .176
+swing up an inverted pendulum. . . .206
+symmetry breaking . . . . . . . . . . . . . . . . . 98
+synapse
+
+chemical . . . . . . . . . . . . . . . . . . . . . . . 17
+electrical . . . . . . . . . . . . . . . . . . . . . . . 17
+synapses. . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+synaptic cleft . . . . . . . . . . . . . . . . . . . . . . . 17
+
+T
+target . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+TD gammon . . . . . . . . . . . . . . . . . . . . . . 205
+TD learning. . . .see temporal diﬀerence
+
+learning
+
+teacher forcing . . . . . . . . . . . . . . . . . . . . 125
+teaching input . . . . . . . . . . . . . . . . . . . . . . 53
+telencephalon . . . . . . . . . . . . see cerebrum
+temporal diﬀerence learning . . . . . . . 202
+thalamus . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+D. Kriesel – A Brief Introduction to Neural Networks (ZETA2-EN)
+
+225
+
+Index
+
+dkriesel.com
+
+weighted sum. . . . . . . . . . . . . . . . . . . . . . .35
+Widrow-Hoﬀ rule . . . . . . . . see delta rule
+winner-takes-all scheme. . . . . . . . . . . . .42
+
+threshold potential . . . . . . . . . . . . . . . . . 21
+threshold value . . . . . . . . . . . . . . . . . . . . . 36
+time concept . . . . . . . . . . . . . . . . . . . . . . . 33
+time horizon . . . . . . . . . . . . . . . . . . . . . . 196
+time series . . . . . . . . . . . . . . . . . . . . . . . . 181
+time series prediction. . . . . . . . . . . . . .181
+topological defect. . . . . . . . . . . . . . . . . .154
+topology . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+topology function . . . . . . . . . . . . . . . . . 148
+training pattern . . . . . . . . . . . . . . . . . . . . 53
+set of. . . . . . . . . . . . . . . . . . . . . . . . . . .53
+training set. . . . . . . . . . . . . . . . . . . . . . . . .50
+transfer functionsee activation function
+truncus cerebri . . . . . . . . . . see brainstem
+two-step-ahead prediction . . . . . . . . . 185
+direct . . . . . . . . . . . . . . . . . . . . . . . . . 185
+
+U
+unfolding in time . . . . . . . . . . . . . . . . . . 123
+
+V
+voronoi diagram . . . . . . . . . . . . . . . . . . . 138
+
+W
+weight. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+weight matrix . . . . . . . . . . . . . . . . . . . . . . 34
+bottom-up . . . . . . . . . . . . . . . . . . . . 166
+top-down. . . . . . . . . . . . . . . . . . . . . .165
+weight vector . . . . . . . . . . . . . . . . . . . . . . . 34
+
+226
+
+D. Kriesel – A Brief Introduction to Neural Networks (ZETA2-EN)
+
+

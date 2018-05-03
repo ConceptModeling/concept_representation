@@ -1,0 +1,365 @@
+Absolute value rectification
+Accuracy
+Activation function
+Active constraint
+AdaGrad
+Adversarial example
+Affine
+Almost everywhere
+Almost sure convergence
+Approximate Bayesian computation
+Approximate inference
+Artificial intelligence
+Bag of words
+Bagging
+Bayes error
+Bayes’ rule
+Bayesian hyperparameter optimization
+Bayesian probability
+Bayesian statistics
+Bernoulli distribution
+BFGS
+Bias parameter
+Biased importance sampling
+Bigram
+Binary relation
+Block Gibbs sampling
+Boltzmann distribution
+Broadcasting
+Burn-in
+Asymptotically unbiased
+Automatic speech recognition
+Back-propagation
+Back-propagation through time
+Calculus of variations
+Centering trick (DBM)
+Central limit theorem
+Chain rule (calculus)
+Chain rule of probability
+Chess
+Chord
+Chordal graph
+Class-based language models
+Classical dynamical system
+Classification
+Collaborative Filtering
+Color images
+Complex cell
+Computational graph
+Computer vision
+Concept drift
+Condition number
+ture
+Conditional probability
+Conditional RBM
+Connectionism
+Connectionist temporal classification
+Content-based addressing
+Content-based recommender systems
+Context-specific independence
+Contextual bandits
+Continuation methods
+Contractive autoencoder
+Contrast
+Convex optimization
+Convolutional network
+Correlation
+Covariance matrix
+Coverage
+Critical temperature
+Cross-correlation
+Cross-entropy
+Cross-validation
+Curriculum learning
+Curse of dimensionality
+Cyc
+D-separation
+Data generating process
+Data parallelism
+Dataset
+Decoder
+Deep Blue
+Denoising score matching
+Density estimation
+Derivative
+Design matrix
+Detector layer
+Diagonal matrix
+Dirac delta function
+Directional derivative
+Discriminative RBM
+Domain adaptation
+Double backprop
+Doubly block circulant matrix
+DropConnect
+Dynamic structure
+E-step
+Effective capacity
+Eigendecomposition
+Eigenvalue
+Eigenvector
+Embedding
+Empirical distribution
+Empirical risk
+Empirical risk minimization
+Encoder
+Energy function
+Ensemble methods
+Epoch
+Equality constraint
+Equivariance
+Euclidean norm
+Euler-Lagrange equation
+Example
+Expectation
+Expectation maximization
+Exploitation
+Exploration
+Exponential distribution
+F-score
+Factor (graphical model)
+Factor analysis
+Factor graph
+Factors of variation
+Feature
+Feature selection
+Feedforward neural network
+Fine-tuning
+Finite differences
+Forget gate
+Forward propagation
+Fovea
+FPCD
+Freebase
+Frequentist probability
+Frequentist statistics
+Frobenius norm
+Fully-visible Bayes network
+Functional derivatives
+FVBN
+Gabor function
+Gated recurrent unit
+tion
+Gaussian kernel
+GeneOntology
+Generalization
+Generalized Lagrangian
+Generative moment matching networks
+Generator network
+Gibbs distribution
+Global contrast normalization
+Gradient
+Graphics processing unit
+Greedy algorithm
+Greedy supervised pretraining
+Grid search
+tanh 195
+Harmony theory
+bound
+Hessian
+Heteroscedastic
+Hidden layer
+Hill climbing
+Hyperparameter optimization
+Identity matrix
+Challenge
+Immorality
+Importance weighted autoencoder
+Independent component analysis
+Independent subspace analysis
+Inequality constraint
+Information retrieval
+Initialization
+Invariance
+Isotropic
+Joint probability
+Karush–Kuhn–Tucker
+Kernel machine
+Kernel trick
+Krylov methods
+Kullback-Leibler divergence
+Label smoothing
+LAPGAN
+Latent variable
+Layer (neural network)
+Leaky ReLU
+Leaky units
+Learning rate
+Linear combination
+Linear dependence
+Linear factor models
+Link prediction
+Lipschitz constant
+Lipschitz continuous
+Liquid state machine
+Local contrast normalization
+Loop
+Loopy belief propagation
+Lp norm
+M-step
+Machine learning
+Machine translation
+Main diagonal
+Manifold
+Manifold hypothesis
+Manifold learning
+Manifold tangent classifier
+Marginal probability
+Markov chain
+Markov chain Monte Carlo
+Matrix inverse
+Matrix product
+Max norm
+Max pooling
+Maximum likelihood
+Mean squared error
+Measure theory
+Measure zero
+Minibatch
+Missing inputs
+Mixture density networks
+Mixture distribution
+Model averaging
+Model compression
+Model identifiability
+Model parallelism
+Moment matching
+Moralized graph
+MRF (Markov Random Field)
+Multi-modal learning
+Multi-prediction DBM
+Multilayer perception
+Multilayer perceptron
+Multinomial distribution
+Multinoulli distribution
+n-gram
+NADE
+Naive Bayes
+Nat
+Natural image
+Natural language processing
+Nearest neighbor regression
+Negative definite
+Nesterov momentum
+Neural network
+Neural Turing machine
+Neuroscience
+No free lunch theorem
+Noise-contrastive estimation
+Non-parametric model
+Normalized initialization
+Object detection
+Object recognition
+Objective function
+One-shot learning
+Operation
+Orthogonal matrix
+Orthogonality
+Parallel distributed processing
+Parametric model
+Parametric ReLU
+Partial derivative
+trick
+Point estimator
+Policy
+Positive definite
+Precision
+Predictive sparse decomposition
+Preprocessing
+Primary visual cortex
+Prior probability distribution
+Probabilistic max pooling
+Probability density function
+Probability distribution
+Probability mass function
+Probability mass function estimation
+Product of experts
+Pseudolikelihood
+Quadrature pair
+Radial basis function
+Random search
+Random variable
+Ratio matching
+RBF
+Recall
+Receptive field
+Recommender Systems
+Recurrent network
+Recurrent neural network
+Regression
+Regularizer
+REINFORCE
+Relational database
+Relations
+Reparametrization trick
+Representation learning
+Representational capacity
+Risk
+Saddle points
+Sample mean
+Second derivative
+Second derivative test
+Self-information
+Semantic hashing
+Semi-supervised learning
+Separable convolution
+Separation (probabilistic modeling)
+Shortlist
+Sigmoid belief network
+Simple cell
+Singular value
+Slow feature analysis
+Spam detection
+Spearmint
+Spectral radius
+chine
+Square matrix
+Standard deviation
+Standard error
+Statistic
+Statistical learning theory
+Stochastic pooling
+Structure learning
+Sum rule of probability
+Sum-product network
+Supervised learning
+Support vector machine
+Surrogate loss function
+Tangent distance
+Tangent plane
+Tangent prop
+Tempering
+Template matching
+Test set
+Tiled convolution
+Toeplitz matrix
+Topographic ICA
+Trace operator
+Training error
+Transcription
+Transfer learning
+Triangle inequality
+Trigram
+Zero-shot learning
+Unbiased
+Undirected model
+Uniform distribution
+Unigram
+Unit norm
+Unit vector
+Universal approximation theorem
+Universal approximator
+Unnormalized probability distribution
+Unsupervised pretraining
+V1
+Vapnik-Chervonenkis dimension
+Virtual adversarial examples
+Visible layer
+Weight space symmetry
+Weights
+Whitening
+Wikibase
+Wikibase
+Word embedding
+Word-sense disambiguation
+WordNet

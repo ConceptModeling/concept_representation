@@ -1,0 +1,364 @@
+ABC, 118
+abstract type, 18, 58
+Anaconda, viii
+Approximate Bayesian Computa-
+
+tion, 118
+
+arrival rate, 89
+Axtell, Robert, 26
+
+bacteria, 167
+Bayes factor, 46, 125, 127, 128, 136
+Bayes’s theorem, 3
+
+derivation, 3
+odds form, 44
+
+Bayesian framework, 13
+Behavioral Risk Factor Surveillance
+
+System, 110
+
+belly button, 167
+Bernoulli process, 71
+beta distribution, 38, 168
+Beta object, 39, 183
+biased coin, 125
+binomial coefﬁcient, 177
+binomial distribution, 134, 160, 161
+binomial likelihood function, 39
+biodiversity, 167
+bogus, 113, 126
+Boston, 81
+Boston Bruins, 69
+BRFSS, 110, 118
+bucket, 152
+bus stop problem, 78
+
+cache, 117, 151
+calibration, 138
+Campbell-Ricketts, Tom, 159
+
+carcinoma, 149
+causation, 159, 164
+CDC, 110
+Cdf, 28, 54, 61, 86, 186
+Centers for Disease Control, 110
+central credible interval, 104
+classical estimation, 111
+clone, vii
+coefﬁcient of variation, 110
+coin toss, 1
+collectively exhaustive, 6
+College Board, 132
+complementary CDF, 190
+concrete type, 18, 58
+conditional distribution, 103, 106,
+
+148, 152, 157, 188
+conditional probability, 1
+conjoint probability, 2
+conjugate prior, 39
+conjunction, 3
+continuous distribution, 39
+contributors, ix
+convergence, 36, 40
+cookie problem, 3, 12, 44
+cookie.py, 13
+correlated random value, 155
+coverage, 188, 190
+crank science, 109
+credible interval, 27, 102
+Cromwell’s rule, 41
+Cromwell, Oliver, 41
+cumulative distribution function, 28,
+
+86
+
+cumulative probability, 155, 186
+
+Index
+
+cumulative sum, 177
+
+Davidson-Pilon, Cameron, 56
+decision analysis, 56, 64, 68, 93
+degree of belief, 1
+density, 57, 59, 63, 111
+dependence, 2, 103, 104
+diachronic interpretation, 5
+dice, 11, 21
+Dice problem, 21
+dice problem, 24
+Dirichlet distribution, 168, 184
+distribution, 11, 54, 68
+
+operations, 47
+
+divide-and-conquer, 10
+doubling time, 146
+Dungeons and Dragons, 21, 47
+
+efﬁcacy, 136
+enumeration, 47, 49
+error, 60
+ESP, 129
+Euro problem, 33, 40, 118, 125
+evidence, 5, 35, 45, 46, 102, 109, 125–
+
+129, 131
+exception, 114
+exponential distribution, 71, 75, 146
+exponentiation, 49
+extra-sensory perception, 129
+
+fair coin, 125
+fork, vii
+forward problem, 160
+
+gamma distribution, 173, 177
+Gaussian distribution, 57, 58, 61, 70,
+110, 118, 121, 133, 138, 139,
+154
+
+Gaussian PDF, 58
+Gee, Steve, 56
+Geiger counter problem, 159, 164
+generator, 154, 155, 186
+German tank problem, 22, 30
+
+193
+
+Git, vii
+GitHub, vii
+growth rate, 154
+
+heart attack, 1
+height, 110
+Heuer, Andreas, 71
+hierarchical model, 162, 164, 170
+Hoag, Dirk, 77
+hockey, 69
+horse racing, 44
+Horsford, Eben Norton, 109
+Hume, David, 130
+hypothesis testing, 125
+
+implementation, 18, 58
+independence, 2, 7, 48, 50, 103, 104,
+
+143, 149, 168
+informative prior, 30
+insect sampling problem, 78
+installation, viii
+inter-quartile range, 121
+interface, 18, 58
+intuition, 9
+inverse problem, 160
+IQR, 121
+item response theory, 137
+iterative modeling, 76
+iterator, 150
+
+Jaynes, E. T., 159
+Joint, 102, 103, 105, 106, 111
+joint distribution, 102, 106, 111, 143,
+
+151, 153, 157, 168, 185, 187
+
+Joint object, 188
+Joint pmf, 98
+
+KDE, 57, 59
+kernel density estimation, 57, 59
+Kidney tumor problem, 145
+
+least squares ﬁt, 153
+light bulb problem, 78
+
+194
+
+Index
+
+Likelihood, 14
+likelihood, 5, 60, 62, 63, 88, 99, 101,
+
+111, 124, 127, 161
+
+likelihood function, 23
+likelihood ratio, 46, 127, 128, 136
+linspace, 112
+lions and tigers and bears, 168
+locomotive problem, 22, 30, 118
+log scale, 152
+log transform, 114
+log-likelihood, 116, 176, 177
+logarithm, 114
+
+M and M problem, 6, 17
+MacKay, David, 33, 45, 95, 125
+MakeMixture, 74, 75, 85, 92, 138, 183
+marginal distribution, 102, 106, 169
+matplotlib, viii
+maximum, 49
+maximum likelihood, 27, 35, 68, 105,
+
+113, 115, 168
+
+mean squared error, 24
+Meckel, Johann, 109
+median, 35
+memoization, 117
+meta-Pmf, 74, 75, 85, 92, 138, 183
+meta-Suite, 162, 170
+microbiome, 167
+mixture, 52, 73–75, 85, 92, 146, 183
+modeling, vi, 30, 40, 76, 123, 131, 147,
+
+148
+
+modeling error, 136, 154, 157
+Monty Hall problem, 8, 15
+Mosteller, Frederick, 22
+Mult, 13
+multinomial coefﬁcient, 172
+multinomial distribution, 168, 172,
+
+176
+
+mutually exclusive, 6
+
+National Hockey League, 70
+navel, 167
+
+NHL, 70
+non-linear, 92
+normal distribution, 58
+normalize, 64
+normalizing constant, 5, 8, 44, 163
+nuisance parameter, 142
+NumPy, viii
+numpy, 59, 61, 65, 70, 90, 112, 138,
+169, 173, 175, 176, 178, 180,
+187
+
+objectivity, 30
+observer bias, 83, 93
+odds, 43
+Olin College, 81
+Oliver’s blood problem, 45
+operational taxonomic unit, 181
+optimization, 37, 116, 117, 163, 174
+OTU, 181
+overtime, 75
+
+Paintball problem, 97
+parameter, 39
+PDF, 40, 70
+Pdf, 57
+PEP 8, viii
+percentile, 28, 153, 156
+Pmf, 54, 57
+Pmf class, 11
+Pmf methods, 12
+Poisson distribution, 71, 73, 88, 161
+Poisson process, vi, 69, 71, 75, 78, 82,
+
+159
+posterior, 5
+posterior distribution, 13, 35
+power law, 26
+predictive distribution, 78, 87, 89, 92,
+
+141, 184
+
+prevalence, 167, 170, 182
+Price is Right, 55
+prior, 5
+prior distribution, 13, 25
+
+195
+
+suite, 6
+Suite class, 16
+summary statistic, 68, 121, 124
+swamping the priors, 36, 40
+switch, 9
+
+table method, 7
+template method pattern, 18
+total probability, 6
+triangle distribution, 36, 128
+trigonometry, 99
+tumor type, 154
+tuple, 38
+
+uncertainty, 91
+underﬂow, 114, 176
+uniform distribution, 174
+uniform distribution, 34, 52, 84
+uninformative prior, 30
+Unseen Species problem, 167
+Update, 14
+
+Vancouver Canucks, 69
+Variability Hypothesis, 109
+Veterans’ Beneﬁt Administration,
+
+148
+volume, 150
+
+Weibull distribution, 79
+word frequency, 11
+
+Index
+
+Prob, 12
+probability, 57
+
+conditional, 1
+conjoint, 2
+
+probability density, 57
+probability density function, 40, 57,
+
+70
+
+probability mass function, 11
+process, 71
+pseudocolor plot, 152
+pyrosequencing, 167
+
+radioactive decay, 159
+random sample, 173, 187
+rarefaction curve, 185, 188
+raw score, 134
+rDNA, 167
+Red Line problem, 81
+Reddit, 41, 145
+regression testing, vii, 177, 179
+renormalize, 13
+repository, vii
+robust estimation, 121
+
+sample bias, 181
+sample statistics, 119
+SAT, 131
+scaled score, 132
+SciPy, viii
+scipy, 58, 59, 116
+serial correlation, 154, 156
+Showcase, 55
+simulation, 47, 49, 52, 148, 150, 184
+Sivia, D.S., 97
+species, 167, 181
+sphere, 150, 154
+standardized test, 131
+stick, 9
+straﬁng speed, 100
+subjective prior, 6
+subjectivity, 30
+sudden death, 75
+
+

@@ -1,0 +1,472 @@
+absolute error
+accuracy
+Adaline
+additive model
+admissible transformation
+agreement
+AID criterion
+Alexander's inequality
+ancestral rule
+a posteriori probability
+approximation error
+arrangement
+arrangement classifier
+association inequality
+asymptotic optimality
+back propagation
+Bahadur-Lazarsfeld expansion
+Barron network
+basis function
+complete orthonormal
+Haar
+Hermite
+Laguerre
+Legendre
+Rademacher
+Rademacher-Walsh
+trigonometric
+Walsh
+Bayes classifier (or rule)
+Bayes error
+estimation of
+Bayes problem
+Bennett's inequality
+Beppo-Levy theorem
+Bernstein perceptron
+Bernstein polynomial
+Bernstein's inequality
+beta distribution
+Bhattacharyya affinity
+bias
+binary space partition tree
+balanced
+raw
+binomial distribution
+binomial theorem
+boolean classification
+Borel-Cantelli lemma
+bracketing metric entropy
+branch-and-bound method
+CART
+Catalan number
+Cauchy-Schwarz inequality
+central limit theorem
+channel
+characteristic function
+Chebyshev-Cantelli inequality
+Chebyshev'sinequality
+Chernoff's affinity
+Chernoff's bounding method
+x2-divergence
+class-conditional density
+class-conditional distribution
+classifier selection
+lower bounds for
+class probability
+clustering
+committee machine
+complexity penalty
+complexity regularization
+confidence
+consistency
+definition of
+of Fourier series rule
+of generalized linear rules
+of kernel rules
+of maximum likelihood
+of nearest neighbor rules
+of neural network classifiers
+of partitioning rules
+of skeleton estimates
+of squared error minimization
+tie breaking
+weak
+convex hull
+Cover-Hart inequality
+of a class of classifiers
+of a class of functions
+empirical
+simple empirical
+covering lemma
+covering number
+cross-validation
+curse of dimensionality
+decision with rejection
+in L 1
+in L 2
+in Lp
+with respect to the supremum norm
+density estimation
+density of a class of sets
+diamond
+dimension
+reduction of
+data-based
+empirical
+Euclidean
+generalized
+Lp
+rotation-invariant
+beta
+binomial
+class-conditional
+exponential
+gamma
+geometric
+hypergeometric
+Maxwell
+multinomial
+normal
+Rayleigh
+strictly separable
+distribution function
+class-conditional
+empirical
+dominated convergence theorem
+inequality
+elementary cut
+embedding
+empirical error
+empirically optimal classifier
+empirical measure
+empirical risk minimization
+bias of
+rotation
+smoothed
+estimation error
+Euclidean norm
+Euler's theorem
+exponential distribution
+exponential family
+Fano's inequality
+Fatou's lemma
+f-divergence
+feature extraction
+entropy
+Em-optimality
+error estimation
+bootstrap
+complexity penalized
+double bootstrap
+EO estimator
+error counting
+holdout
+leave-one-out
+variance of
+posterior probability
+randomized bootstrap
+resubstitution
+F -error
+fingering
+fingering dimension
+Fisher linear discriminant
+flexible grid
+Fourier series classifier
+Fourier series density estimation
+Fubini's theorem
+fundamental rule
+Gabriel graph
+Gabriel neighbor
+gamma distribution
+gaussian noise
+geometric distribution
+Gessaman's rule
+ghost sample
+Giniindex
+Glivenko-Cantelli theorem
+gradient optimization
+Grenander's method of sieves
+grid complexity
+group method of data handling
+Hamming distance
+ham-sandwich theorem
+Hart's rule
+Hellinger distance
+Hellinger integral
+histogram density estimation
+histogram rule
+cubic
+data-dependent
+lazy
+randomized
+Hoeffding's inequality
+HOlder's inequality
+hypergeometric distribution
+imperfect training
+impurity function
+Cover-Hart
+Fano's
+Hoeffding's
+HOlder's
+Jensen's
+Khinchine's
+large deviation
+LeCam's
+Markov's
+McDiarmid's
+Pinsker's
+Rogers-Wagner
+Vapnik-Chervonenkis
+Jeffreys' divergence
+Jensen's inequality
+Alexander's
+association
+Bennett's
+Bernstein's
+Cauchy-Schwarz
+Chebyshev-Cantelli
+Chebyshev's
+Karhunen-Loeve expansion
+k-d tree
+chronological
+deep
+well-populated
+kernel
+Cauchy
+Deheuvels'
+de la Vallee-Poussin
+devilish
+Epanechniko~ 148
+exponential
+gaussian
+Hermite
+multiparameter
+naive
+negative valued
+polynomial
+product
+regular
+star-shaped
+kernel complexity
+kernel density estimation
+kernel rule
+automatic
+variable
+Khinchine's inequality
+k-local rule
+k-means clustering
+Kolmogorov-Lorentz network
+Kolmogorov-Lorentz representation
+Kolmogorov-Smirnov distance
+generalized
+Kolmogorov-Smirnov statistic
+Kolmogorov variational distance
+k-spacing rule
+Kullback-Leibler divergence
+L]  consistency
+L] convergence
+L] distance
+L] error
+L2  consistency
+L2erro~ 104
+large deviation inequality
+learning
+algorithm
+supervised
+with a teacher
+learning vector quantization
+Lebesgue's density theorem
+LeCam's inequality
+likelihood product
+linear classifier
+generalized
+linear independence
+linear ordering by inclusion
+Lloyd-Max algorithm
+local average estimator
+logistic discrimination
+log-linear model
+L p  error
+Mahalanobis distance
+majority vote
+Markov's inequality
+martingale
+martingale difference sequence
+Matushita error
+maximum likelihood
+distribution format
+regression format
+set format
+Maxwell distribution
+McDiarmid's inequality
+median tree
+theoretical
+method of bounded differences
+metric entropy
+minimax lower bound
+minimum description length principle
+minimum distance estimation
+moment generating function
+monomial
+monotone layer
+moving window rule
+multinomial discrimination
+multinomial distribution
+nearest neighbor clustering
+nearest neighbor density estimation
+nearest neighbor error
+I-NN
+admissibility of the  1-NN rule
+rule
+automatic
+condensed
+edited
+k-NN
+layered
+prototype
+recursive
+relabeling
+selective
+variable metric
+weighted
+neural network
+natural classifier
+nearest neighbor
+classifier
+multilayer
+with one hidden layer
+with two hidden layers
+Neyman-Pearson lemma
+normal distribution
+order statistics
+overfitting
+packing number
+Padaline
+parameter estimation
+parametric classification
+Parseval's identity
+partition
+complexity of a family of
+cubic
+data-dependent
+E -effective cardinality of
+family of
+perceptron
+perceptron criterion
+pigeonhole principle
+Pinsker's inequality
+planar graph
+plug-in decision
+polynomial discriminant function
+polynomial network
+potential function rule
+principal component analysis
+probabilistic method
+projection pursuit
+pseudo dimension
+pseudo probability of error
+quadratic discrimination rule
+quadtree
+chronological
+deep
+quantization
+radial basis function
+Radon-Nikodym derivative
+Radon-Nikodym theorem
+rate of convergence
+Rayleigh distribution
+record
+recursive kernel rule
+regression function
+estimation
+relative stability
+Rogers-Wagner inequality
+Royall's rule
+sample complexity
+sample scatter
+sampling without replacement
+sc~ing
+scatter matrix
+Scheffe's theorem
+search tree
+balanced
+shatter coefficient
+shattering
+sieve method
+sigmoid
+arctan
+gaussian
+piecewise polynomial
+standard
+threshold
+signed measure
+skeleton estimate
+smart rule
+smoothing factor
+data-dependent
+spacing
+splitting criterion
+splitting function
+splitting the data
+squared error
+statistically equivalent blocks
+Stirling's formula
+stochastic approximation
+expansion of
+sampling of
+Stoller split
+empirical
+theoretical
+Stoller's rule
+Stone's lemma
+Stone's theorem
+Stone-Weierstrass theorem
+strictly separable distribution
+strong consistency
+definition of
+of Fourier series rule
+of kernel rules
+of nearest neighbor rules
+of neural network classifiers
+of partitioning rules
+strong universal consistency
+of complexity regularization
+definition of
+of generalized linear rules
+of kernel rules
+of nearest neighbor rules
+of neural network classifiers
+of partitioning rules
+sufficient statistics
+superclassifier
+support
+symmetric rule
+symmetrization
+tennis rule
+testing sequence
+total boundedness
+total positivity
+total variation
+transformation invariance
+a-balanced
+binary
+classifier
+depth of
+expression
+greedy
+height of
+Horton-Strahler number of
+ordered
+ordinary
+perpendicular splitting
+sphere
+trimming of
+unbiased estimator
+uniform marginal transformation
+universal consistency
+of complexity regularization
+definition of
+of generalized linear rules
+ofkemel rules
+of nearest neighbor rules
+of neural network classifiers
+of partitioning rules
+Vapnik-Chervonenkis inequality
+variation
+vc class
+vc dimension
+Voronoi cell
+Voronoi partition
+weighted average estimator
+uniform laws of large numbers
+X-property

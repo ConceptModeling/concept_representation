@@ -1,0 +1,1605 @@
+absolute orientation
+orthogonal Procrustes
+Absolute orientation
+Active appearance model (AAM)
+Active contours
+Active illumination
+Active rangefinding
+Active shape model (ASM)
+Activity recognition
+Adaptive smoothing
+Affine transforms
+Affinities (segmentation)
+normalizing
+Algebraic multigrid
+Aliasing
+opacity
+pre-multiplied
+Alpha matte
+Ambient illumination
+Analog to digital conversion (ADC)
+Anisotropic diffusion
+Anisotropic filtering
+Anti-aliasing filter
+Aperture
+Aperture problem
+Applications
+augmented reality
+automotive safety
+background replacement
+biometrics
+colorization
+de-interlacing
+digital heritage
+document scanning
+edge editing
+facial animation
+frame interpolation
+gaze correction
+head tracking
+hole filling
+image restoration
+image search
+industrial
+intelligent photo editing
+Internet photos
+location recognition
+machine inspection
+match move
+medical imaging
+morphing
+mosaic-based video compression
+non-photorealistic rendering
+Optical character recognition (OCR)
+panography
+performance-driven animation
+photo pop-up
+Photo Tourism
+Photomontage
+planar pattern tracking
+rotoscoping
+scene completion
+scratch removal
+single view reconstruction
+tonal adjustment
+video denoising
+video stabilization
+video summarization
+video-based walkthroughs
+VideoMouse
+view morphing
+visual effects
+whiteboard scanning
+z-keying
+Arc length parameterization of a curve
+Architectural reconstruction
+Area statistics
+mean (centroid)
+perimeter
+second moment (inertia)
+Aspect ratio
+Augmented reality
+Auto-calibration
+Automatic gain control (AGC)
+Axis/angle representation of rotations
+B-snake
+B-spline
+cubic
+multilevel
+octree
+Background plate
+Background subtraction (maintenance)
+Bag of words (keypoints)
+distance metrics
+Band-pass filter
+Bayer pattern (RGB sensor mosaic)
+demosaicing
+Bayes’ rule
+posterior distribution
+Bayesian modeling
+MAP estimate
+matting
+posterior distribution
+prior distribution
+uncertainty
+Belief propagation (BP)
+update rule
+Bias
+Bilateral filter
+joint
+range kernel
+tone mapping
+Bilinear blending
+Bilinear kernel
+Biometrics
+Bipartite problem
+Blind image deconvolution
+Blocks world
+Blue screen matting
+Blur kernel
+estimation
+Blur removal
+Body color
+Boltzmann distribution
+Boosting
+AdaBoost algorithm
+decision stump
+weak learner
+Border (boundary) effects
+Boundary detection
+Box filter
+Boxlet
+BRDF
+intrinsic
+optical blur
+patterns
+photometric
+plumb-line method
+point spread function
+radial distortion
+radiometric
+rotational motion
+slant edge
+vanishing points
+vignetting
+Camera matrix
+Catadioptric optics
+Category-level recognition
+bag of words
+data sets
+part-based
+segmentation
+surveys
+CCD
+blooming
+anisotropic
+isotropic
+recovery
+spatially varying (SVBRDF)
+Brightness
+Brightness constancy
+Brightness constancy constraint
+Bundle adjustment
+Calibration matrix
+Camera calibration
+accuracy
+aliasing
+extrinsic
+Central difference
+Chained transformations
+Chamfer matching
+Characteristic function
+Characteristic polynomial
+Chirality
+Cholesky factorization
+algorithm
+incomplete
+sparse
+Chromatic aberration
+Chromaticity coordinates
+Circle of confusion
+agglomerative
+cluster analysis
+divisive
+CMOS
+Co-vector
+Coefficient matrix
+Collineation
+Color
+balance
+camera
+demosaicing
+fringing
+hue
+L*a*b*
+L*u*v*
+primaries
+profile
+ratios
+RGB
+transform
+twist
+XYZ
+YIQ
+YUV
+Color filter array (CFA)
+Color line model
+ColorChecker chart
+Colorization
+Compositing
+image stitching
+opacity
+over operator
+surface
+transparency
+Compression
+Computational photography
+active illumination
+high dynamic range
+references
+tone mapping
+Concentric mosaic
+CONDENSATION
+Condition number
+Conditional random field (CRF)
+Confusion matrix (table)
+Conic section
+Conjugate gradient descent (CG)
+algorithm
+non-linear
+preconditioned
+Connected components
+Constellation model
+Content based image retrieval (CBIR)
+Continuation method
+arc length parameterization
+chain code
+matching
+smoothing
+Contrast
+Controlled-continuity spline
+Convolution
+kernel
+mask
+superposition
+Coring
+Correlation
+windowed
+Correspondence map
+Cramer–Rao lower bound
+Hough transform
+image stitching
+selectivity
+arc length parameterization
+evolution
+matching
+smoothing
+Discrete cosine transform (DCT)
+Discrete Fourier transform (DFT)
+Discriminative random field (DRF)
+Disparity
+Disparity map
+Cylindrical coordinates
+multiple
+Data energy (term)
+Data sets and test databases
+recognition
+De-interlacing
+Decimation
+bicubic
+binomial
+QMF
+windowed sinc
+Demosaicing (Bayer)
+Depth from defocus
+Depth of field
+Di-chromatic reﬂection model
+Difference matting (keying)
+Difference of Gaussians (DoG)
+Difference of low-pass (DOLP)
+Diffuse reﬂection
+anisotropic
+Digital camera
+color
+color filter array (CFA)
+compression
+Direct current (DC)
+Direct linear transform (DLT)
+Direct sparse matrix techniques
+Directional derivative
+Disparity space image (DSI)
+generalized
+Displaced frame difference (DFD)
+Displacement field
+Distance from face space (DFFS)
+Distance in face space (DIFS)
+Distance transform
+Euclidean
+image stitching
+Manhattan (city block)
+signed
+Domain (of a function)
+Domain scaling law
+Dynamic programming (DP)
+monotonicity
+ordering constraint
+scanline optimization
+Dynamic snake
+Dynamic texture
+Earth mover’s distance (EMD)
+Edge detection
+boundary detection
+Canny
+chain code
+color
+Difference of Gaussian
+edgel (edge element)
+hysteresis
+Laplacian of Gaussian
+linking
+marching cubes
+scale selection
+steerable filter
+zero crossing
+Eigenface
+Eigenvalue decomposition
+Eigenvector
+Elastic deformations
+image registration
+Elastic nets
+Elliptical weighted average (EWA)
+Environment map
+Environment matte
+Epanechnikov kernel
+Epipolar constraint
+Epipolar geometry
+pure rotation
+pure translation
+Epipolar line
+Epipolar plane
+image (EPI)
+Epipolar volume
+Epipole
+accuracy (ACC)
+false negative (FN)
+false positive (FP)
+positive predictive value (PPV)
+precision
+recall
+ROC curve
+true negative (TN)
+true positive (TP)
+Errors-in-variable model
+heteroscedastic
+Essential matrix
+eight-point algorithm
+re-normalization
+seven-point algorithm
+twisted pair
+Estimation theory
+Euclidean transformation
+Euler angles
+Expectation maximization (EM)
+Exponential twist
+Exposure bracketing
+Exposure value (EV)
+F-number (stop)
+Face detection
+boosting
+cascade of classifiers
+clustering and PCA
+data sets
+neural networks
+support vector machines
+Face modeling
+Face recognition
+active appearance model
+data sets
+eigenface
+elastic bunch graph matching
+local binary patterns (LBP)
+local feature analysis
+Face transfer
+Facial motion capture
+Factor graph
+Factorization
+missing data
+projective
+Fast Fourier transform (FFT)
+Fast marching method (FMM)
+Feature descriptor
+bias and gain normalization
+GLOH
+patch
+PCA-SIFT
+performance (evaluation)
+quantization
+SIFT
+steerable filter
+Feature detection
+Adaptive non-maximal suppression
+affine invariance
+auto-correlation
+F¨orstner
+Harris
+Laplacian of Gaussian
+MSER
+region
+repeatability
+rotation invariance
+scale invariance
+Feature matching
+densification
+efficiency
+error rates
+hashing
+indexing structure
+k-d trees
+locality sensitive hashing
+nearest neighbor
+strategy
+verification
+Feature tracking
+affine
+learning
+Feature tracks
+Feature-based alignment
+iterative
+Jacobian
+least squares
+match verification
+RANSAC
+robust
+Field of Experts (FoE)
+Fill factor
+Fill-in
+adaptive
+band-pass
+bilateral
+directional derivative
+edge-preserving
+Laplacian of Gaussian
+median
+moving average
+non-linear
+separable
+steerable
+Filter coefficients
+Finite element analysis
+stiffness matrix
+Finite impulse response (FIR) filter
+Fisher information matrix
+Fisher’s linear discriminant (FLD)
+Fisheye lens
+Flash and non-ﬂash merging
+Flash matting
+Flip-book animation
+Flying spot scanner
+Focal length
+Focus
+shape-from
+Focus of expansion (FOE)
+Form factor
+Forward warping
+Fourier transform
+discrete
+examples
+magnitude (gain)
+pairs
+Parseval’s Theorem
+phase (shift)
+power spectrum
+properties
+two-dimensional
+Fourier-based motion estimation
+rotations and scale
+Frame interpolation
+Free-viewpoint video
+Fundamental matrix
+Fundamental radiometric relation
+Gain
+Gamma
+Gamma correction
+Gap closing (image stitching)
+Garbage matte
+Gaussian kernel
+Gaussian pyramid
+Gaussian scale mixtures (GSM)
+Gaze correction
+Geman–McClure function
+Generalized cylinders
+Geodesic active contour
+Geodesic distance (segmentation)
+Geometric image formation
+Geometric lens aberrations
+Geometric primitives
+homogeneous coordinates
+lines
+normal vector
+normal vectors
+planes
+points
+affine
+bilinear
+calibration matrix
+collineation
+Euclidean
+forward warping
+hierarchy
+homography
+inverse warping
+perspective
+projections
+projective
+rigid body
+scaled rotation
+similarity
+translation
+Geometry image
+Gesture recognition
+Gibbs distribution
+Gibbs sampler
+Gimbal lock
+Gist (of a scene)
+Global illumination
+Global optimization
+GPU algorithms
+Graduated non-convexity (GNC)
+MRF inference
+normalized cuts
+Graph-based segmentation
+Grassfire transform
+Ground control points
+Hammersley–Clifford theorem
+Hann window
+Head tracking
+active appearance model (AAM)
+Helmholtz reciprocity
+Hessian
+eigenvalues
+image
+inverse
+local
+patch-based
+rank-deficient
+reduced motion
+sparse
+Heteroscedastic
+Hidden Markov model (HMM)
+Hierarchical motion estimation
+High dynamic range (HDR) imaging
+formats
+tone mapping
+Highest confidence first
+Highest confidence first (HCF)
+Hilbert transform pair
+Histogram equalization
+locally adaptive
+Histogram intersection
+Histogram of oriented gradients (HOG)
+History of computer vision
+Hole filling
+Homogeneous coordinates
+Homography
+Hough transform
+cascaded
+cube map
+generalized
+Human body shape modeling
+Human motion tracking
+activity recognition
+adaptive shape modeling
+background subtraction
+initialization
+kinematic models
+particle filtering
+probabilistic models
+Hyper-Laplacian
+Ideal points
+Ill-posed (ill-conditioned) problems
+Illusions
+feature-based
+intensity-based
+intensity-based vs. feature-based
+Image analogies
+feathering
+GIST
+gradient domain
+image stitching
+Poisson
+pyramid
+Image compression
+Image decimation
+Image filtering
+geometric
+photometric
+Image gradient
+constraint
+Image interpolation
+Image matting
+Image processing
+textbooks
+Image pyramid
+Image resampling
+test images
+Image restoration
+blur removal
+deblocking
+inpainting
+noise removal
+using MRFs
+Image search
+Image statistics
+Image stitching
+automatic
+bundle adjustment
+compositing
+coordinate transformations
+cube map
+cylindrical
+de-ghosting
+direct vs. feature-based
+exposure compensation
+feathering
+gap closing
+global alignment
+homography
+motion models
+panography
+parallax removal
+photogrammetry
+pixel selection
+planar perspective motion
+recognizing panoramas
+rotational motion
+seam selection
+spherical
+up vector selection
+Image warping
+Image-based modeling
+Image-based rendering
+concentric mosaic
+environment matte
+impostors
+layered depth image
+layers
+light field
+Lumigraph
+modeling vs. rendering continuum
+sprites
+surface light field
+unstructured Lumigraph
+view interpolation
+view-dependent texture maps
+Image-based visual hull
+ImageNet
+Implicit surface
+Impulse response
+motion estimation
+Incremental rotation
+Indexing structure
+Indicator function
+Industrial applications
+Infinite impulse response (IIR) filter
+Inﬂuence function
+Information matrix
+Inpainting
+Instance recognition
+algorithm
+data sets
+geometric alignment
+inverted index
+large scale
+match verification
+query expansion
+stop list
+visual words
+vocabulary tree
+Integrability constraint
+Integral image
+Integrating sphere
+Intelligent scissors
+Interaction potential
+Interactive computer vision
+International Color Consortium (ICC)
+Internet photos
+Interpolation
+bicubic
+bilinear
+binomial
+sinc
+spline
+Intrinsic camera calibration
+Intrinsic images
+Inverse kinematics (IK)
+Inverse problems
+Inverse warping
+ISO setting
+Iterated closest point (ICP)
+Iterated conditional modes (ICM)
+Iterative back projection (IBP)
+Iterative feature-based alignment
+Iterative sparse matrix techniques
+conjugate gradient
+Jacobian
+image
+motion
+sparse
+Joint bilateral filter
+Joint domain (feature space)
+K-d trees
+K-means
+Kalman snakes
+Kanade–Lucas–Tomasi (KLT) tracker
+Karhunen–Lo`eve transform
+Kernel
+bilinear
+Gaussian
+low-pass
+Sobel operator
+unsharp mask
+Kernel basis function
+Kernel density estimation
+Kinematic model (chain)
+Kruppa equations
+L1 norm
+L∞ norm
+Lambertian reﬂection
+Laplacian matting
+Laplacian of Gaussian (LoG) filter
+Laplacian pyramid
+blending
+perfect reconstruction
+Latent Dirichlet process (LDP)
+Layered depth image (LDI)
+Layered depth panorama
+Layered motion estimation
+transparent
+image-based rendering
+Layout consistent random field
+Learning in computer vision
+Least median of squares (LMS)
+iterative solvers
+linear
+non-linear
+sparse
+total
+weighted
+compound
+nodal point
+thin
+Lens distortions
+calibration
+decentering
+radial
+spline-based
+tangential
+Lens law
+Level of detail (LOD)
+Level sets
+fast marching method
+geodesic active contour
+Levenberg–Marquardt
+higher dimensional
+light slab
+ray space
+rendering
+surface
+Lightness
+Line at infinity
+Line detection
+Hough transform
+RANSAC
+simplification
+successive approximation
+Line equation
+Line fitting
+uncertainty
+Line labeling
+Line process
+Line spread function (LSF)
+Line-based structure from motion
+Linear algebra
+least squares
+matrix decompositions
+references
+Linear blend
+Linear discriminant analysis (LDA)
+Linear filtering
+Linear operator
+superposition
+Linear shift invariant (LSI) filter
+Live-wire
+Local distance functions
+Local operator
+Locality sensitive hashing (LSH)
+Locally adaptive histogram equalization
+Location recognition
+Loopy belief propagation (LBP)
+Low-pass filter
+sinc
+Lumigraph
+unstructured
+Luminance
+Lumisphere
+M-estimator
+Mahalanobis distance
+Manifold mosaic
+Markov chain Monte Carlo (MCMC)
+Markov random field
+cliques
+directed edges
+dynamic
+layout consistent
+learning parameters
+line process
+neighborhood
+order
+random walker
+stereo matching
+Marr’s framework
+computational theory
+hardware implementation
+representations and algorithms
+Match move
+Matrix decompositions
+Cholesky
+eigenvalue (ED)
+QR
+singular value (SVD)
+square root
+Matte reﬂection
+Matting
+alpha matte
+Bayesian
+blue screen
+difference
+GrabCut
+Laplacian
+natural
+optimization-based
+Poisson
+shadow
+smoke
+triangulation
+trimap
+two screen
+video
+Maximum a posteriori (MAP) estimate
+Mean absolute difference (MAD)
+Mean average precision
+Mean shift
+bandwidth selection
+Mean square error (MSE)
+Measurement equation (model)
+Measurement matrix
+Medial axis transform (MAT)
+Median absolute deviation (MAD)
+Median filter
+weighted
+Medical image registration
+Medical image segmentation
+Membrane
+Mesh-based warping
+Metamer
+Metric learning
+Metric tree
+MIP-mapping
+trilinear
+Mixture of Gaussians
+color model
+expectation maximization (EM)
+mixing coefficient
+soft assignment
+Model selection
+Model-based reconstruction
+architecture
+heads and faces
+human body
+Model-based stereo
+Bayesian
+forward
+physically based
+physics-based
+probabilistic
+Modular eigenspace
+Modulation transfer function (MTF)
+body
+face
+multidimensional
+Morphing
+automated
+facial feature
+feature-based
+video textures
+view morphing
+Morphological operator
+closing
+dilation
+erosion
+opening
+Morphology
+motion models
+video compression
+whiteboard and document scanning
+Motion compensation
+Motion estimation
+affine
+aperture problem
+compositional
+Fourier-based
+frame interpolation
+hierarchical
+incremental refinement
+layered
+learning
+linear appearance variation
+optical ﬂow
+parametric
+patch-based
+phase correlation
+quadtree spline-based
+reﬂections
+spline-based
+translational
+transparent
+uncertainty modeling
+Motion field
+learned
+Motion segmentation
+Motion stereo
+Motion-based user interaction
+Moving least squares (MLS)
+MRF inference
+alpha expansion
+belief propagation
+dynamic programming
+expansion move
+gradient descent
+graph cuts
+highest confidence first
+highest confidence first (HCF)
+iterated conditional modes
+linear programming (LP)
+loopy belief propagation
+Markov chain Monte Carlo
+simulated annealing
+stochastic gradient descent
+swap move (alpha-beta)
+Swendsen–Wang
+volumetric
+voxel coloring
+Multigrid
+algebraic (AMG)
+Multiple hypothesis tracking
+Multiple-center-of-projection images
+Multiresolution representation
+Mutual information
+Natural image matting
+distance ratio (NNDR)
+Negative posterior log likelihood
+Neighborhood operator
+Neural networks
+Nintendo Wii
+Nodal point
+sensor
+Multi-frame motion estimation
+Multi-pass transforms
+Multi-perspective panoramas
+Multi-perspective plane sweep (MPPS)
+Multi-view stereo
+epipolar plane image
+evaluation
+initialization requirements
+reconstruction algorithm
+scene representation
+shape priors
+silhouettes
+space carving
+spatio-temporally shiftable window
+taxonomy
+visibility
+Noise level function (NLF)
+Noise removal
+Non-linear filter
+seeLeast squares
+Non-parametric density modeling
+Non-photorealistic rendering (NPR)
+Non-rigid motion
+Normal equations
+Normal map (geometry image)
+Normal vector
+Normalized cross-correlation (NCC)
+Normalized cuts
+intervening contour
+total variation
+Normalized device coordinates (NDC)
+L1
+L∞
+Nyquist rate / frequency
+Object detection
+car
+face
+part-based
+pedestrian
+Object-centered projection
+Occluding contours
+Octree reconstruction
+Octree spline
+Omnidirectional vision systems
+Opacity
+linearity
+Optical center
+Optical ﬂow
+anisotropic smoothness
+evaluation
+fusion move
+global and local
+Markov random field
+multi-frame
+normal ﬂow
+patch-based
+region-based
+regularization
+robust regularization
+smoothness
+Optical ﬂow constraint equation
+Optical illusions
+Optical transfer function (OTF)
+Optical triangulation
+Optics
+chromatic aberration
+Seidel aberrations
+vignetting
+Optimal motion estimation
+Oriented particles (points)
+Orthogonal Procrustes
+Orthographic projection
+Osculating circle
+Over operator
+Overview
+Padding
+Panography
+Panorama with depth
+Para-perspective projection
+Parallel tracking and mapping (PTAM)
+Parameter sensitive hashing
+Parametric motion estimation
+Parametric surface
+Parametric transformation
+Part-based recognition
+constellation model
+Particle filtering
+Parzen window
+Patch-based motion estimation
+Peak signal-to-noise Ratio (PSNR)
+Pedestrian detection
+Penumbra
+Performance-driven animation
+Perspective n-point problem (PnP)
+Perspective projection
+Perspective transform (2D)
+Phase correlation
+Phong shading
+Photo pop-up
+Photo Tourism
+Photo-mosaic
+Photoconsistency
+Photometric image formation
+calibration
+global illumination
+lighting
+optics
+radiosity
+reﬂectance
+shading
+Photometric stereo
+Photometry
+Photomontage
+Physically based models
+Physics-based vision
+Pictorial structures
+Pixel transform
+Pl¨ucker coordinates
+Planar pattern tracking
+Plane at infinity
+Plane equation
+Plane plus parallax
+Plane sweep
+Plane-based structure from motion
+Plenoptic function
+Plenoptic modeling
+Plumb-line calibration method
+Point distribution model
+Point operator
+Point process
+Point spread function (PSF)
+estimation
+Point-based representations
+Points at infinity
+blending
+equations
+matting
+noise
+surface reconstruction
+Polar coordinates
+Polar projection
+Polyphase filter
+Pop-out effect
+Pose estimation
+iterative
+Power spectrum
+mean average
+Preconditioning
+Principal component analysis (PCA)
+face modeling
+generalized
+missing data
+Prior energy (term)
+Profile curves
+Progressive mesh (PM)
+object-centered
+orthographic
+para-perspective
+perspective
+Projective (uncalibrated) reconstruction
+Projective depth
+Projective disparity
+Projective space
+Pyramid
+blending
+Gaussian
+half-octave
+Laplacian
+motion estimation
+octave
+radial frequency implementation
+steerable
+Pyramid match kernel
+QR factorization
+Quadratic form
+Quadrature mirror filter (QMF)
+Quadric equation
+motion estimation
+restricted
+Quaternions
+antipodal
+multiplication
+Query by image content (QBIC)
+Query expansion
+Quincunx sampling
+Radial basis function
+Radial distortion
+barrel
+calibration
+parameters
+pincushion
+Radiance map
+Radiometric image formation
+Radiometric response function
+Radiometry
+Radiosity
+Random walker
+Range (of a function)
+alignment
+large scenes
+merging
+registration
+segmentation
+volumetric
+Range sensing (rangefinding)
+coded pattern
+light stripe
+shadow stripe
+spacetime stereo
+stereo
+texture pattern (checkerboard)
+time of ﬂight
+inliers
+preemptive
+progressive (PROSAC)
+RAW image format
+Ray space (light field)
+Ray tracing
+Rayleigh quotient
+area under the curve (AUC)
+mean average precision
+ROC curve
+Recognition
+category (class)
+color similarity
+context
+contour-based
+data sets
+face
+instance
+large scale
+learning
+part-based
+scene understanding
+segmentation
+shape context
+Rectangle detection
+Rectification
+standard rectified geometry
+Recursive filter
+Reference plane
+Reﬂectance
+Reﬂectance map
+Reﬂectance modeling
+di-chromatic
+diffuse
+specular
+merging
+splitting
+feature-based
+intensity-based
+medical image
+Regularization
+robust
+Robust least squares
+iteratively reweighted
+Robust penalty function
+Robust regularization
+Robust statistics
+inliers
+M-estimator
+Rodriguez’s formula
+Root mean square error (RMS)
+Rotations
+Euler angles
+axis/angle
+exponential twist
+incremental
+interpolation
+quaternions
+Rodriguez’s formula
+Sampling
+Scale invariant feature transform (SIFT)
+Scale-space
+Scatter matrix
+between-class
+within-class
+Scattered data interpolation
+Scene completion
+Scene ﬂow
+Scene understanding
+Regularization parameter
+Residual error
+Rigid body transformation
+gist
+scene alignment
+Schur complement
+Scratch removal
+image stitching
+stereo
+structure from motion
+Segmentation
+active contours
+affinities
+binary MRF
+CONDENSATION
+connected components
+energy-based
+for recognition
+geodesic active contour
+geodesic distance
+GrabCut
+graph cuts
+graph-based
+hierarchical
+intelligent scissors
+joint feature space
+k-means
+level sets
+mean shift
+medical image
+merging
+mixture of Gaussians
+Mumford–Shah
+non-parametric
+normalized cuts
+probabilistic aggregation
+random walker
+snakes
+splitting
+stereo matching
+thresholding
+tobogganing
+watershed
+weighted aggregation (SWA)
+Seidel aberrations
+Self-calibration
+bundle adjustment
+Kruppa equations
+Sensing
+aliasing
+color
+color balance
+gamma
+pipeline
+sampling
+sampling pitch
+Sensor noise
+amplifier
+dark current
+shot noise
+Separable filtering
+Shading
+equation
+shape-from
+Shadow matting
+Shape context
+focus
+photometric stereo
+profiles
+shading
+silhouettes
+specularities
+stereo
+texture
+Shape parameters
+Shape-from-X
+focus
+photometric stereo
+shading
+texture
+Shift invariance
+Shiftable multi-scale transform
+Shutter speed
+Signed distance function
+Silhouette-based reconstruction
+octree
+visual hull
+Similarity transform
+Simulated annealing
+interpolation
+low-pass
+windowed
+Single view metrology
+Singular value decomposition (SVD)
+Skeletal set
+Skeleton
+Skew
+Skin color detection
+Slant edge calibration
+Slippery spring
+Smoke matting
+Smoothness constraint
+Smoothness penalty
+Snakes
+ballooning
+dynamic
+internal energy
+Kalman
+shape priors
+slippery spring
+Soft assignment
+Software
+multi-view stereo
+Spacetime stereo
+Sparse ﬂexible model
+Sparse matrices
+compressed sparse row (CSR)
+skyline storage
+direct
+iterative
+Spatial pyramid matching
+Spectral response function
+Spectral sensitivity
+Specular ﬂow
+Specular reﬂection
+Spherical coordinates
+Spherical linear interpolation
+Spin image
+volumetric
+controlled continuity
+octree
+quadtree
+thin plate
+Spline-based motion estimation
+image-based rendering
+motion estimation
+video
+video compression
+with depth
+Statistical decision theory
+Steerable filter
+Steerable pyramid
+Steerable random field
+Stereo
+aggregation methods
+coarse-to-fine
+cooperative algorithms
+correspondence
+curve-based
+dense correspondence
+depth map
+dynamic programming
+edge-based
+epipolar geometry
+feature-based
+global optimization
+graph cut
+layers
+local methods
+model-based
+multi-view
+non-parametric similarity measures
+photoconsistency
+plane sweep
+rectification
+region-based
+scanline optimization
+seed and grow
+segmentation-based
+semi-global optimization
+shiftable window
+similarity measure
+spacetime
+sparse correspondence
+sub-pixel refinement
+support region
+taxonomy
+uncertainty
+window-based
+winner-take-all (WTA)
+Stereo-based head tracking
+Stiffness matrix
+Stochastic gradient descent
+Structural Similarity (SSIM) index
+Structure from motion
+affine
+bas-relief ambiguity
+bundle adjustment
+constrained
+factorization
+feature tracks
+iterative factorization
+line-based
+multi-frame
+non-rigid
+orthographic
+plane-based
+projective factorization
+seed and grow
+self-calibration
+skeletal set
+two-frame
+uncertainty
+Subdivision surface
+subdivision connectivity
+Subspace learning
+Sum of absolute differences (SAD)
+Sum of squared differences (SSD)
+bias and gain
+Fourier-based computation
+normalized
+surface
+weighted
+windowed
+Summed area table
+Super-resolution
+example-based
+faces
+hallucination
+prior
+Superposition principle
+Superquadric
+Support vector machine (SVM)
+Surface element (surfel)
+Surface interpolation
+Surface light field
+Surface representations
+non-parametric
+parametric
+point-based
+simplification
+splines
+subdivision surface
+symmetry-seeking
+triangle mesh
+Surface simplification
+Swendsen–Wang algorithm
+Telecentric lens
+Temporal derivative
+Temporal texture
+TextonBoost
+shape-from
+Texture addressing mode
+recovery
+view-dependent
+anisotropic filtering
+MIP-mapping
+multi-pass
+trilinear interpolation
+Texture synthesis
+by numbers
+hole filling
+image quilting
+non-parametric
+transfer
+Thin lens
+Thin-plate spline
+Thresholding
+Through-the-lens camera control
+Tobogganing
+Tonal adjustment
+Tone mapping
+adaptive
+bilateral filter
+global
+gradient domain
+halos
+interactive
+local
+scale selection
+Total least squares (TLS)
+Total variation
+feature
+head
+human motion
+multiple hypothesis
+planar pattern
+PTAM
+Translational motion estimation
+bias and gain
+Transparency
+Travelling salesman problem (TSP)
+Tri-chromatic sensing
+Tri-stimulus values
+Triangulation
+Trimap (matting)
+Trust region method
+Two-dimensional Fourier transform
+Uncanny valley
+correspondence
+modeling
+weighting
+Unsharp mask
+detection
+Hough
+least squares
+modeling
+uncertainty
+Variable reordering
+minimum degree
+multi-frontal
+nested dissection
+animating pictures
+sprites
+video texture
+virtual viewpoint video
+walkthroughs
+VideoMouse
+View correlation
+View interpolation
+View morphing
+View-based eigenspace
+View-dependent texture maps
+Vignetting
+mechanical
+natural
+Virtual viewpoint video
+Visual hull
+image-based
+Visual illusions
+Visual odometry
+Visual words
+Vocabulary tree
+Volumetric 3D reconstruction
+Variable state dimension filter (VSDF)
+Variational method
+Volumetric representations
+Voronoi diagram
+motion compensated
+Video compression (coding)
+Video denoising
+Video matting
+Video objects (coding)
+Video sprites
+Video stabilization
+Video texture
+Video-based animation
+Video-based rendering
+multi-view stereo
+Watershed
+basins
+oriented
+Wavelets
+compression
+lifting
+overcomplete
+second generation
+self-inverting
+tight frame
+weighted
+Weaving wall
+Weighted least squares (WLS)
+Weighted prediction (bias and gain)
+White balance
+Whitening transform
+Wiener filter
+Wire removal
+Wrapping mode
+Zippering

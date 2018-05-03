@@ -1,0 +1,844 @@
+absolute conic
+relation to orthogonality
+absolute dual quadric
+absolute dual quadric
+extracting the rectifying transform
+properties
+simple properties
+adjoint matrix
+affine camera
+counting arguments
+decomposition
+definition
+definition
+error in employing
+estimation of
+hierarchy of
+more properties
+affine fundamental matrix
+algebraic derivation
+derivation
+geometric derivation
+geometric interpretation
+Gold Standard algorithm
+linear algorithm
+minimal configuration
+properties
+singularity constraint
+affine geometry.
+affine imaging
+affine imaging conditions
+affine imaging model
+affine matrix
+affine matrix
+computation
+affine properties
+affine properties of reconstruction
+recovery from image
+affine reconstruction
+affine reconstruction by alternation
+affine transformation
+algebraic distance
+comparison with geometric distance
+minimizing
+algebraic minimization
+limitations
+auto-calibration
+ambiguity
+affine
+auto-calibration
+bas-relief
+examples
+forD cameras
+forD cameras
+for three views
+Necker reversal
+of auto-calibration
+for a sequence
+projective
+single view
+two views
+between two lines in image
+between two planes
+between two rays
+between two scene lines
+of rotation
+angle-axis parametrization
+augmentation
+auto-calibration
+ambiguities
+critical motion sequences
+from planar motion
+implementation
+iterative methods
+limitations of absolute dual quadric method
+metric from affine
+numbers of views needed
+of stereo rig
+problems if Q∗∞ not positive-definite
+removing ambiguity
+removing the ambiguity
+linear
+non-linear
+non-linear
+typical ambiguities
+using Q∗∞
+varying parameters
+auto-epipolar
+axis planes of camera
+of conics
+of lines
+of points to rays
+banded data
+bas-relief ambiguity
+bias
+dependency on parametrization
+lessons
+bundle adjustment
+bundle adjustment
+banded structure
+incremental
+initial solution
+sparse methods
+with missing data
+calibrating conic
+orthogonality
+calibration constraints
+known internal parameters
+same camera in all images
+calibration matrix
+internal
+what does it give?
+camera anatomy
+camera calibration
+camera centre
+moving
+compatible with two fundamental matrices
+computation from F
+computed from three fundamental matrices
+uniqueness
+canonical form
+computation
+decomposition
+in projective space
+recovering it
+camera orientation
+camera parameters
+covariance
+degenerate configurations
+from five points
+minimal solution
+over-determined solution
+camera rotation
+camera translation
+camera translation
+affine
+at infinity
+basic pinhole model
+calibrated
+CCD
+centre
+general projective
+known orientation
+line
+pinhole model
+projective
+action on points
+pushbroom
+resection ambiguity
+rotation
+rotation and translation
+as points
+Carlsson–Weinshall duality
+Carlsson–Weinshall map
+definition
+caution
+central projection
+central projection
+change of coordinates
+change of coordinates
+Chasles’ theorem
+solving
+Cholesky factorization
+choosing the depths
+circular points
+circular points
+cofactor matrix
+collineation
+column vector
+column vector
+compatibility conditions
+from point and line correspondence
+from three point correspondences
+computing vanishing lines
+concurrent lines
+concurrent lines
+condition number
+conic
+conic fitting
+affine classification
+analog for fundamental matrix
+classification
+defined by points
+degenerate
+dual
+dual to circular points
+projective normal form
+projective normal form of
+tangent lines
+transformations of
+conjugacy
+conjugacy relation
+conjugate configurations
+consistency conditions
+from internal parameters
+from same amera
+from scene orthogonality
+contour
+contour generator
+contour generator
+apparent
+occluding
+convex hull
+coordinate orientation
+coordinates.
+coplanarity constraint
+correlation
+correlation
+of curves and surfaces
+of lines
+determining
+corridor scene
+corridor scene
+cosine formula
+cost function
+cost function
+heuristic
+Huber
+least squares
+non-convex
+performance
+properties
+robust
+squared error
+statistically based
+asymptotically linear
+linear
+robust
+summary
+counting argument
+counting argument
+covariance estimation
+camera resectioning
+backward propagation
+over-parametrized case
+estimation
+forward propagation
+matrix
+of epipolar lines
+use in point transfer
+Cram´er-Rao lower bound
+critical configurations
+examples
+critical motion sequences
+critical set
+definition
+forD cameras 535
+for three views
+cross product
+cross ratio
+cross ratio
+deficient-rank systems.
+degeneracy
+degeneracy
+of triangulation
+transfer
+for resectioning
+for transfer
+degenerate configurations
+degenerate homographies
+degrees of freedom (dof)
+of trifocal tensor
+trifocal
+depth of points
+computation
+determining the correct convergence of an algorithm
+determining the intersection
+direct metric reconstruction using (cid:2)
+direct motion estimation
+direct solution for structure and translation
+distance ratio
+on a line
+distortion correction
+distortion function
+choice
+computing
+correction
+DLT
+non-invariance
+using line correspondences
+assuming zero skew
+limitations
+with constrained parameters
+equivalence to calibration
+linear solution
+specifying linear constraints
+dual circular points
+dual conic
+dual conic
+dual image of the absolute conic
+definition
+dual quadric
+dual reconstruction algorithm
+dual reconstruction algorithm
+justification
+of circular points
+duality
+duality
+duality principle
+Jacobi’s method
+elation
+elliptic quartic
+epipolar distance
+epipolar envelope
+epipolar line
+epipolar line
+epipolar line correspondence
+epipolar line homography
+affine
+epipolar lines
+affine cameras
+degeneracies
+epipoles
+as parameters
+as tensors
+for affine cameras
+retrieval from trifocal tensor
+retrieving
+algebraic
+camera resectioning
+geometric interpretation
+geometric
+in both images
+in one image
+minimizing algebraic
+minimizing geometric
+reproduction
+reprojection
+residual
+transfer
+essential matrix
+computation of
+definition
+extraction of cameras from
+four solutions
+properties
+estimation error
+estimation problem
+estimator
+Euclidean and affine interpretations
+euclidean geometry.
+extending the baseline
+exterior orientation
+exterior orientation of camera
+extracting the fundamental matrices
+factorization
+non-rigid
+feature detection
+Fisher information matrix
+of Euclidean transformation
+focal length
+forward projection
+forward projection
+of lines
+of quadrics
+Frobenius norm
+algebraic derivation
+algorithm results and recommendations
+both epipoles as parameters
+computation
+connection to quadrics
+from seven points
+from two planes
+Gold Standard algorithm
+Maximum likelihood
+condition for point correspondence
+consistency conditions
+covariance
+definition
+no translation
+points on a plane
+points on a ruled quadric
+derivation from four planes
+epipolar parametrization
+extraction of canonical cameras
+computation of
+form of
+computation of
+form of
+geometric derivation
+geometric derivation
+iterative estimation
+over-parametrization
+parametrization of
+over-parametrization
+projective ambiguity given F
+projective invariance of
+properties
+reduced
+computation of
+Sampson method for estimation
+singularity constraint
+symmetric part
+gauge freedom
+distribution
+isotropic
+error
+noise
+general motion
+general position
+general position
+of quadric
+geometric distance
+camera resectioning
+invariance to coordinate transforms
+geometric interpretation
+geometric interpretation
+of estimation
+geometric minimization
+geometric representation
+Givens rotation
+Gold Standard algorithm
+for affine fundamental matrix
+for affine homography
+for fundamental matrix
+for homography
+for trifocal tensor
+gradient descent
+ground truth
+groups of projectivities
+guided matching
+Hessian
+hierarchical merging
+homogeneity.
+homogeneous representation
+of lines
+of points
+homogeneous scaling
+homogeneous vector
+what do they say about the camera matrices?
+approximate solution
+conic analogue
+degenerate configurations
+DLT
+error in both images
+error in one image
+errors in world points
+experimental evaluation
+from noisy points
+function specification
+Gold Standard algorithm
+inhomogeneous solution
+initialization
+iterative methods
+linear cost function
+over-determined solution
+parametrization
+symmetric transfer error
+using RANSAC
+compatible with epipolar geometry
+degenerate
+induced by a plane
+parametrization of
+planar harmonic
+horopter
+horopter
+Householder matrix
+Huber cost function
+hyperboloid
+advantage over DIAC
+ideal point
+image of the absolute conic
+connection to calibration
+moving it
+definition
+incidence relations
+for lines
+independently moving objects.
+infinite homography
+infinite homography
+relationship to Kruppa equations
+definition
+inhomogeneous method
+for camera resectioning
+interest points
+internal parameters
+of lines
+of parallel lines
+invariance to image coordinate transformations
+invariants
+invariants
+of a transformation
+isometries
+weighted
+iterative algorithms
+iterative methods
+iterative minimization
+Jacobi’s method
+Jacobian
+Erlangen Program
+known principal point
+Kruppa equations
+relationship to infinite homography
+least squares
+least squares solution
+least-squares problems
+least-squares solution
+of constrained systems
+using normal equations
+weighted
+full rank case
+length ratios
+Levenberg-Marquardt
+covariance
+implementation
+justification
+sparse
+line at infinity
+line at infinity
+line correspondences
+line estimation
+definition
+line reconstruction
+line transfer
+line transfer
+systems of unknown rank
+linear solution
+concurrent
+parallel
+representation
+transformations of
+distance
+norm
+using trifocal tensor
+Euclidean
+norm-preserving properties
+skew-symmetric part
+symmetric
+symmetric part
+Maximum likelihood estimate
+robust
+robust
+reduced
+metric calibration
+metric properties
+metric properties of reconstruction
+recovery from images
+via the infinite homography
+metric rectification
+metric rectification
+metric structure
+metric
+of a stereo rig
+minimal solution
+iterative
+modulus constraint
+modulus constraint
+affine
+Necker reversal
+Necker reversal ambiguity
+Newton iteration
+newton’s method and the hessian.
+non-collinearity conditions
+non-rigid factorization
+non-zero skew
+in vector space
+normal equations
+normalization
+for camera resectioning
+for trifocal tensor
+why is it essential?
+normalized coordinates
+for calibrated camera
+normalizing transformation
+note.
+null-space
+numbers of equations generated.
+orientation
+norm-preserving properties
+orthogonal regression
+orthogonal regression
+orthogonality and (cid:2)
+orthogonality in the image
+orthogonality relationships
+orthographic projection
+over-parametrization
+over-parametrization
+parallax
+induced by a plane
+parallel lines
+parallel projection
+parameter minimization
+parameter space
+constant internal
+limit range
+parametrization
+epipolar
+ofD rotations 624
+of homogeneous vectors
+of homology
+of the n-sphere
+what makes a good one?
+coordinates
+line coordinates
+line representation
+matrix
+planar harmonic homology
+planar harmonic homology
+parametrization
+definition
+plane at infinity
+computation
+methods of finding
+plane induced parallax
+plane induced parallax
+plane plus parallax
+counting arguments
+defined by three points
+homogeneous vector representation
+recommended method
+using fundamental matrix
+using trifocal tensor
+defined by three planes
+points on a plane
+polarity
+pole–polar relationship
+positive definite matrix
+symmetric
+preserve the convex hull
+principal axis vector
+principal axis vector
+principal plane
+principal plane
+of camera
+principal point
+principal point
+principal point offset
+probability density function
+of a surface
+programming hint
+orthographic
+parallel
+scaled orthographic
+weak perspective
+projective ambiguity
+action on conics
+action on lines
+action on planes
+definition
+projective depth
+projective depth
+normalizing image coordinates
+normalizing the weights
+what is being minimized
+projective plane model
+model
+topology
+dual algorithm
+from reduced cameras matrices
+from seven points in n views
+from six points
+from six points in n views
+projective transformation
+decomposition of
+definition
+pseudo-inverse
+QR decomposition
+quadric
+ruled
+definition
+quadrics
+classification of
+quadrifocal tensor
+derivation from four planes
+quartic
+definition
+two-dimensional
+algorithm
+bounds on (cid:0)∞
+quaternions
+quaternions
+radial distortion
+estimating
+RANSAC
+adaptive
+application domain
+distance threshold
+forD homography 124
+for homography
+number of samples
+run details
+size of consensus set
+definition
+realization
+definition
+strong
+definition
+non-equivalent
+oppositely oriented
+recommendations
+affine
+affine properties
+from affine camera
+from scene constraints
+from translation
+Euclidean
+metric
+metric properties
+projective
+quasi-affine
+rectifying homography
+reduced camera matrix
+definition
+reduced measurement matrix
+reduced measurement matrix
+bilinear
+quadrilinear
+trilinear
+reprojection error
+both images
+geometric interpretation
+resection
+resectioning
+covariance estimation
+degenerate configuration
+initialization
+normalization
+residuals
+retrieving the camera matrices
+robust algorithms
+robust methods
+Rodrigues formula
+in n dimensions
+in dimensions 583
+row vector
+row vector
+Sampson approximation
+Sampson distance
+Sampson error
+scaled orthographic projection
+isotropic
+non-isotropic
+with points near infinity
+on a line
+parallel lines
+scene orthogonality
+screw axis
+screw decomposition of a rigid motion
+similarity matrix
+similarity transformation
+Singular Value Decomposition
+computational complexity
+implementation
+relation to eigenvalues
+singularity constraint
+singularity constraint
+skew-symmetric part
+skyline structure
+over-determined
+space curve
+span representation
+solution
+special points
+stability
+stereo correspondence
+stereo correspondence
+stereo rectification
+affine
+algorithm outline
+mapping the epipole to infinity
+matching transforms
+metric calibration
+stratification
+stratification
+affine
+metric
+affine
+metric
+projective
+subspaces and tensors
+symmetric epipolar distance
+symmetric linear equations
+sparse
+symmetric matrices
+symmetric part
+symmetric transfer error
+synthetic data
+to conic
+tensor notation
+pictorial representation
+terminology
+topology of IP1
+total least squares
+transfer
+degenerate configurations
+transformation invariance
+transformation invariance
+of DLT
+transformation rule
+of conic
+of conics
+of lines
+projective
+similarity
+translational motion
+triangulation
+triangulation
+DLT method
+evaluation on real images
+for affine cameras
+for affine cameras
+inhomogenous method
+local minima
+minimizing the cost function
+problem formulation
+trifocal tensor
+affine
+algebraic properties
+computation from camera matrices
+from points
+Gold Standard algorithm
+iterative
+reprojection error
+results and recommendations
+Sampson distance
+specifying lines
+using algebraic minimization
+constraints
+definition
+definition
+derivation from four planes
+geometrically valid
+line relations
+parametrization
+picture
+point and line relations
+point relations
+reduced
+relation to two views
+transformation rule
+trilinearities
+twisted cubic
+properties
+twisted pair
+vanishing lines
+vanishing lines
+vanishing points
+vanishing points
+computing
+variance
+vector geometry
+vector space norms
+weak perspective
+zero skew
+zero skew

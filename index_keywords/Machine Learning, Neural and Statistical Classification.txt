@@ -1,0 +1,493 @@
+Accuracy
+ACE
+function approximation
+instance-based
+symbolic learning
+ALLOC80
+Alternating Conditional Expectation
+Analysis of results
+AOCDL
+AQ
+Aq
+AQ11
+Architectures
+Assistant
+Attribute coding
+Attribute entropy
+Attribute noise
+Attribute reduction
+Attribute types
+Attribute vector
+Attributes
+Australian credit dataset
+Background knowledge
+Backprop
+Bayes minimum cost rule
+Bayes Rule
+Bayes rule
+Bayes theorem
+Bayes Tree
+Bayes tree
+Bayes-tree
+Bayesian evidence
+Bayesian methods
+Bayesian Networks
+Cascade correlation
+behavioural cloning
+Belgian Power I dataset
+Belgian Power II dataset
+Bias
+BIFROST
+Binary attributes
+Binomial
+Bootstrap
+BOXES
+C4.5
+CAL5
+Cal5
+Canonical correlation
+Canonical discriminants
+Canonical variates
+CART
+Cascade
+Cascade correlation
+CASTLE
+Categorical variables
+Causal network
+Causal Networks
+CHAID
+Chernobyl
+Chi-square test of independence
+Choice of variables
+Chromosome dataset
+Class
+Class definitions
+Class entropy
+Class probability tree
+Class probability trees
+Classes
+Classical discrimination techniques
+Classification
+Classification rule
+Classification: definition
+CLS
+Clustering
+CN2
+Code vector
+Coding of categories
+Combination of attributes
+Combinations of variables
+Comparative trials
+Complex
+Comprehensibility
+Concept
+Concept learning
+Concept Learning System
+Concept-recognisers
+Condensed nearest neighbour
+Conditional dependency
+Conjugate gradient
+Constructive algorithms
+pruning
+container cranes
+controller design
+Corr abs
+Correlation
+Correspondence Analysis
+Cost datasets
+Cost matrices
+Cost matrix
+Costs
+Covariance
+Covariance matrix
+Cover
+Covering algorithm
+Credit datasets
+Credit management dataset
+Credit scoring
+Cross validation
+Cross-entropy
+Cut20 dataset
+Cut50 dataset
+DAG (Directed acyclic graph)
+soybean
+Australian credit
+Belgian Power I
+Belgian Power II
+chromosomes
+credit management
+cut
+diabetes
+DNA
+German credit dataset
+hand-written digits
+head injury
+heart disease
+image segmentation
+Karhunen-Loeve Digits
+letter recognition
+machine faults
+satellite image
+shuttle control
+Technical
+technical
+tsetse ﬂy distribution
+vehicle recognition
+Credit management
+cut
+Karhunen-Loeve Digits
+shuttle control
+Shuttle
+Dataset characterisation
+Dataset collection
+Decision class
+Decision problems
+Decision trees
+Default
+Default rule
+Density estimates
+Density estimation
+Diabetes dataset
+Digits dataset
+DIPOL92
+Directed acyclic graph (DAG)
+Discrim
+Discrimination
+Distance
+Distribution-free methods
+DNA dataset
+domain knowledge
+Dominators
+EA
+ECG
+Edited nearest neighbour
+EN.attr
+Entropy
+Entropy estimation
+Entropy of attributes
+Entropy of classes
+Epistemologically adequate
+Equivalent number of attributes
+Error rate
+Error rate estimation
+Evaluation Assistant
+Examples of classifiers
+Expert systems
+Extensions to linear discrimination
+Features
+Feed-forward networks
+Feedforward network
+First order logic
+Fisher’s linear discriminant
+fract k
+fractk
+Gaussian distribution
+General-to-specific
+Generalised Delta Rule
+Generalised linear models (GLM)
+Genetic
+Genetic algorithms
+genetic algorithms
+German credit
+Gini function
+Gini index
+GLIM
+GOLEM
+Golem
+Gradient descent
+MLP
+second-order
+Gradient methods
+Head dataset
+head injury dataset
+Heart dataset
+Heuristically adequate
+Hidden nodes
+Hierarchical clustering
+Hierarchical structure
+Hierarchy
+Human brain
+Hypothesis language
+ID3
+ILP
+Image datasets
+Image segmentation
+Impure
+Impure node
+Impurity
+IND Package
+IND package
+IndCART
+Indicator variables
+inductive learning
+Inductive Logic Programming
+Inductive logic programming
+Inductive Logic Programming (ILP)
+Information measures
+Information score
+Information theory
+Instatnce-based learning (IBL)
+Iris data
+Irrelevant attributes
+ISoft dataset
+ITrule
+J-measure
+Jackknife
+Joint entropy
+K nearest neighbour
+K-Means clustering
+K-means clustering
+K-Nearest Neighbour
+K-Nearest neighbour
+k-Nearest neighbour
+k-NN
+Cross validation
+K-R-K problem
+Kalman filter
+KARDIO
+classifier
+window width
+Kernel density (ALLOC80)
+Kernel density estimation
+Kernel function
+Kernels
+KL digits dataset
+Kohonen
+Kohonen networks
+Kohonen self-organising net
+Kullback-Leibler information
+Kurtosis
+hidden
+input
+output
+learning curves
+Learning graphical representations
+Learning vector quantization (LVQ)
+Learning Vector Quantizer
+Learning vector quantizers
+Leave-one-out
+Letters dataset
+Likelihood ratio
+Linear decision tree
+Linear discriminant
+Linear discrimination
+Linear independent
+Linear regression
+Linear threshold unit (LTU)
+Linear transformation
+Linear trees
+Linesearches
+Link function
+Log likelihood
+Logdisc
+Logistic discriminant
+Logistic discrimination
+Logistic discrimination - programming
+LVQ
+M statistic
+Machine faults dataset
+Machine learning approaches
+tion
+MADALINE
+Manova
+Many categories
+Marginalisation
+MARS
+Maximum conditional likelihood
+Maximum likelihood
+McCulloch-Pitts neuron
+MDL
+Measure of collinearity
+Measures
+Information-based
+statistical
+Measures of normality
+Medical datasets
+Memory
+Mental fit
+mental fit
+Metalevel learning
+Minimisation methods
+Minimum cost rule
+ciple
+Minimum risk rule
+Misclassification costs
+Missing values
+ML on ML
+MLP
+Mntal fit
+Multi Layer Perceptron
+functionality
+Multi-class trees
+Multidimensional scaling
+Multimodality
+Multivariate kurtosis
+Multivariate normality
+Multivariate skewness
+Mutual information
+Naive Bayes
+Nearest neighbour
+example
+Neural network approaches
+Neural networks
+Neurons
+NewID
+No data rule
+hidden
+impure
+input
+output
+purity
+winning
+Noise
+Noise signal ratio
+Noisy
+Noisy data
+Nonlinear regression
+Nonparametric density estimator
+Nonparametric methods
+Nonparametric statistics
+Normal distribution
+NS.ratio
+Object recognition datasets
+Observation language
+Odds
+Optimisation
+Ordered categories
+Over-fitting
+Overfitting
+Parametric methods
+Partitioning as classification
+Parzen window
+Pattern recognition
+Perceptron
+Performance measures
+Performance prediction
+Plug-in estimates
+Polak-Ribiere
+pole balancing
+Polytrees
+Polytrees (CASTLE)
+as classifiers
+Pooled covariance matrix
+Prediction as classification
+Preprocessing
+Primary attribute
+uniform
+Prior probabilities
+Probabilistic inference
+Products of attributes
+Projection pursuit
+Projection pursuit (SMART)
+classification
+Propositional learning systems
+Prototypes
+Pruning
+backward
+cost complexity
+forward
+Purity
+measure
+Purity measure
+Quadisc
+Quadiscr
+Quadratic discriminant
+Quadratic discriminants
+Quadratic functions of attributes
+Radial Basis Function
+Radial basis function
+Radial Basis Function Network
+RAMnets
+RBF
+Recurrent networks
+Recursive partitioning
+Reduced nearest neighbour
+Reference class
+regression tree
+Regularisation
+Relational learning
+RETIS
+RG
+Risk assessment
+Rule-based methods
+Rule-learning
+Satellite image dataset
+Scaling parameter
+Scatterplot smoother
+SDratio
+Secific-to-general
+Secondary attribute
+Segmentation dataset
+Selector
+Time
+Time to learn
+Time to test
+Train-and-test
+optimisation
+Training set
+Transformation
+Transformation of attributes
+Transformations of variables
+Tree-learning
+Trees-into-rules
+Tsetse dataset
+Tuning of parameters
+UK credit dataset
+Uniform distribution
+Univariate kurtosis
+Univariate skewness
+Universal approximators
+Universal Computers
+Unsupervised learning
+Upstart
+User’s guide to algorithms
+Vector Quantizers
+Vehicle
+Vehicle dataset
+Vertebrate
+Vertebrate species
+Voronoi tessellation
+XpertRule
+Yardstick methods
+Zero variance
+Shuttle
+Shuttle dataset
+Simulated digits data
+Skew abs
+Skewness
+SMART
+Smoothing parameter
+Smoothing parameters
+SNR
+Specific-to-general
+Speed
+Splitiing criteria
+Splitting criteria
+Splitting criterion
+Splus
+Statistical approaches to classification
+Statistical measures
+StatLog
+collection of data
+objectives
+preprocessing
+Stepwise selection
+Stochastic gradient
+Storage
+Structured induction
+Subset selection
+Sum of squares
+Supervised learning
+Supervised networks
+Supervised vector
+Supervisor
+Symbolic learning
+Symbolic ML
+Taxonomic
+Taxonomy
+Technical dataset
+Tertiary attribute
+Test environment
+Test set
+Three-Mile Island
+Tiling algorithm

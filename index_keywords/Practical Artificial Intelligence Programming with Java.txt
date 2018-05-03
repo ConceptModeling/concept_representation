@@ -1,0 +1,81 @@
+alpha-beta search
+chess
+dark web
+CIA World FactBook
+USA state data
+expert system
+backward chaining
+business process knowledge
+Drools
+Drools embedded Java
+Drools rule syntax
+forward chaining
+Jess
+LHS
+OPS5
+production rules
+RHS
+game playing
+genetic algorithm
+chromosome
+crossover
+fitness
+library API
+mutation
+indexing
+Lucene
+Nutch
+JDBC
+Derby
+knowledge representation
+logic
+Aristotle
+Description Logic
+first order
+first order predicate
+Frege
+Peirce
+LOOM
+machine learning
+C4.5
+J48
+Nave Bayes
+Weka
+neural network
+back propagation
+Hopﬁeld
+neuron
+Open Calais
+PowerLoom
+Java embedded
+running interactively
+Prolog
+reasoning
+relational database
+Derby
+search
+Lucene
+Nutch
+search tree
+semantic web
+example RDF data
+Jena
+N-triple
+N3
+OWL
+Protege
+RDF
+RDFS
+Sesame
+SPARQL
+statistical NLP
+auto-classiﬁcation
+auto-tagging
+Markov models
+named entity extraction
+spelling
+tagging
+text clustering
+tokenize
+WordNet
+tic-tac-toe

@@ -1,0 +1,1354 @@
+absolute error,  11
+accuracy, 201, 202, 206,246
+Adaline, 531
+additive model, 536, 538, 546
+admissible transformation, 570, 571, 572,
+
+573
+
+agreement,  163
+AID criterion, 339
+Alexander's inequality, 207, 210, 211, 278,
+
+295,300
+
+ancestral rule,  180,  181, 185,420
+a posteriori probability,  10,  11,  16,92,97,
+102,108,113,301,479,483,493,
+549,551,552,554,555,563,568,
+570,572
+
+apparent error rate,  see error estimation,
+
+resubstitution
+
+approximation error,  188,284,290,295,
+297,395,430,431,454,487,517,
+523,529,547
+
+arrangement, 511, 512, 513, 514, 515, 516,
+
+517,542
+
+arrangement classifier, 511, 512, 514, 515,
+
+516,517
+
+association inequality, 22, 583
+asymptotic optimality, 390, 393, 431, 445
+
+back propagation, 525
+Bahadur-Lazarsfeld expansion, 472
+bandwidth, see smoothing factor
+Barron network, 545, 546
+basis function,  225, 266, 279, 285,  290,
+
+398,501,506
+
+complete orthonormal, 280,  281, 282,
+
+287
+
+Haar, 281, 288
+Hermite, 279, 281, 288
+Laguerre, 281, 288
+Legendre, 281, 288
+Rademacher, 282
+Rademacher-Walsh, 470, 472
+trigonometric, 279, 287,288
+Walsh, 282
+
+Bayes classifier (or rule), 2,  10,  11,  12,  13,
+
+14,  15,  16,  17,  19,20,47,48,57,
+58,59,61,69,202,226,239,249,
+264,265,266,271,272,274,275,
+276,277,280,294,295,300,301,
+307,357,387,464,466,467,471,
+472,473,474,487,527,569,570
+
+Bayes decision, see Bayes classifier
+Bayes error, 2,  11,  12,  13,  14,  15,  17,  18,
+19,21,23,28,29,30,31,35,36,
+39,57, 79,  82,90, 91,  111,  112,
+
+628
+
+Subject Index
+
+113,  128,  129,  176,  188, 236,  237,
+241,276,285,289,295,297,298,
+307,308,313,357,389,401,451,
+533,545,561,562,563,565,567,
+568,569,570,571,572,573
+
+estimation of, 4,  128, 566
+
+Bayes problem, 2, 9
+Bayes risk, see Bayes error
+Bennett's inequality,  124,  130
+Beppo-Levy theorem, 577
+Bernstein perceptron, 544
+Bernstein polynomial, 544
+Bernstein's inequality, 124,  130, 210, 494
+beta distribution, 77, 88,266,276
+Bhattacharyya affinity, 23, 24, 343
+bias,  121,  125,  126,  144,  151,395,555
+binary space partition tree, 316, 317, 318,
+338,340,341,342,343,344,347,
+362,383,542
+
+balanced, 362
+raw, 342, 362
+
+binomial distribution, 51, 71,  72, 75, 76,
+77, 78,  79,  81,  82,  83,  84,  85,  86,
+89,94,  106,  109,  122,  124,  127,
+129,130,131,152,184,230,238,
+242,276,306,309,321,332,345,
+410,444,449,462,586,587,588
+
+binomial theorem, 218
+boolean classification, 461, 468
+Borel-Cantelli lemma,  142,  193,227,284,
+293,357,367,381,425,452,505,
+585
+
+bracketing metric entropy, 253, 254, 262
+branch-and-bound method, 563
+ESP tree, see binary space partition tree
+
+CART,  336,338, 339
+Catalan number, 469, 476
+Cauchy-Schwarz inequality, 20, 33, 52, 76,
+93,95,99,103,104,141,155,158,
+173,256,345,401,402,414,463,
+582,583
+
+central limit theorem, 85,270
+channel,  109
+characteristic function, 45
+Chebyshev-Cantelli inequality, 42, 237,
+
+463,582
+
+Chebyshev'sinequality, 45, 56, 97,  194,
+
+210,269,276,322,332,414,
+
+494,582
+
+Chernoff's affinity, 24, 35
+Chernoff's bounding method,  117,  123,
+
+129,  130,  131,  135,230,261
+
+x2-divergence, 34, 36
+class-conditional density,  14,  15,  17,  19,
+31,148,149,150,166,184,260,
+263,264,266,268,269,271,272,
+276,277,280,282,285
+
+class-conditional distribution, 56,  118,263,
+
+264,265,271,274,275,276
+
+classifier selection,  125,  127,  132,  187,
+
+188,189,193,199,201,233,234,
+245,250,404,549,554,555,559
+lower bounds for,  206,  233,  234,  239,
+
+245,246,275
+
+class probability,  15,  17,  18,  19,32,34,58,
+
+150
+
+clustering, 343,  363, 377, 378, 379, 380,
+
+384,392,506,542
+
+committee machine, 525, 526, 543
+complexity penalty, 291,  292,  297,  300,
+
+301,395
+
+complexity regularization, 266, 289, 290,
+291,292,293,2~4,295,296,298,
+300,301,395,524,525,527,531
+
+concept learning, see learning
+confidence, 201, 202,246
+consistency, 92, 93,  104,  106,  109,  128,
+
+132,184,188,232,268,296,389,
+390, 468, 513, 555
+
+definition of, 3, 91
+of Fourier series rule, 282, 284
+of generalized linear rules, 286
+of kernel rules,  160, 161, 163,  171,439,
+
+441,442,446,448,474
+
+of maximum likelihood, 249, 250, 252,
+253,254,257,259,262,268,473
+of nearest neighbor rules,  80,  174,  176,
+307,308,309,310,311,312,313,
+457
+
+of neural network classifiers, 514, 523,
+525,527,531,534,542,544,545
+of partitioning rules, 94, 96, 319,  320,
+322,323,324,332,333,335,338,
+339,340,341,342,343,344,346,
+348,349,350,357,358,359,361,
+362,364,368,370,374,376,377,
+381,384,385,392,394,395
+
+Subject Index
+
+629
+
+of skeleton estimates, 483, 487
+of squared error minimization, 490, 493
+strong, see strong consistency
+strong universal, see strong universal
+
+tie breaking, 4, 61, 69,  101,  170,  174,
+
+175,  176,  177,  178,  180,  181,  182,
+304,305,377,413,414,451,456,
+458,553
+
+consistency
+
+distribution
+
+universal, see universal consistency
+weak,91, 100,  103,  133,  139,  149,  162,
+
+169,184,425,430,452
+consistent rule, see consistency
+convex hull, 229, 232
+Cover-Hart inequality, 5, 22, 24, 27, 35,62,
+
+70,448
+
+covering
+
+of a class of classifiers, 211, 212
+of a class of functions,  479, 480, 483,
+484,485,486,487,489,499,500
+
+empirical, 211, 298, 485
+simple empirical, 289, 296, 297,  298,
+
+300,301
+
+covering lemma, 67,  153,  157,  158,  164,
+
+165,171,176, 181, 182
+
+covering number, 479,483,492,493,494,
+
+496,499,504,526,530,547
+
+cross-validation,  125,445
+curse of dimensionality, 469, 486, 561
+
+decision with rejection,  18
+denseness
+
+in L 1,  286, 287, 517, 520, 542
+in L 2 ,  502, 503
+in Lp, 543, 579
+with respect to the supremum norm, 287,
+
+517,518,533,539
+
+density estimation,  107,  118,  143,  149,
+
+150,  151,  161,  162,  169,  184,208,
+266,278,279,364,433,445,447,
+484,527
+
+density of a class of sets, 231
+diamond, 231
+dimension,  17,49,52,222,363,482,567
+
+reduction of, 561, 567
+
+distance
+
+data-based,  169,391,451,456,459
+empirical,  178, 182
+Euclidean, 63,  101,  149,  169,368,370,
+
+378,456
+
+generalized, 182
+Lp,  182
+rotation-invariant,  179,  180
+
+beta, 77, 88, 266, 276
+binomial, 51, 71, 72,  75, 76, 77, 78, 79,
+81,82,83,84,85,86,89,94,106,
+109,  122,  124,  127, 129, 130,  131,
+152,184,230,238,242,276,306,
+309,321,332,345,410,444,449,
+462,586,587,588
+
+class-conditional, 56,  118,  263, 264,
+
+265,271,274,275,276
+
+exponential, 361, 590
+gamma,266,268,276,573,590
+geometric, 80,  153,  161, 167
+hypergeometric, 589
+Maxwell, 266
+multinomial, 227,321,589
+normal,  31, 35, 47, 48, 49, 56, 57, 59,
+
+76,85,86,249,264,265,266,276,
+343,390,399,415,564,566,567,
+572,588,590
+Rayleigh, 266, 277
+strictly separable, 104, 162
+
+distribution function,  142
+
+class-conditional, 40, 41, 45
+empirical, 142, 193,325,375
+
+divergence,  see  Kullback-Leibler
+
+divergence
+
+dominated convergence theorem, 63,  156,
+
+267,329,514,577
+
+Dvoretzky-Kiefer-Wolfowitz-Massart
+
+inequality, 44, 57, 207
+
+elementary cut, 350
+embedding, 64
+empirical classifier selection, see classifier
+
+selection
+
+empirical covering, see covering
+empirical error, 43, 49, 54, 56,  125,  187,
+
+188,191,200,310,335,351,362,
+482
+
+empirically optimal classifier,  187,  188,
+
+200,206,225,275
+
+empirical measure, 43,  142, 190,  193,203,
+208,210,211,213,265,270,271,
+
+630
+
+Subject Index
+
+272,278,304,365,366,367,398,
+414,443,553,556
+
+empirical risk, see empirical error
+empirical risk minimization, 5, 6,  49, 50,
+
+53,54,56,125,126,131,187,191,
+192,193,199,201,202,209,210,
+211,212,225,227,232,234,235,
+239,246,249,251,257,258,265,
+266,268,274,275,277,285,286,
+287,289,290,291,292,294,306,
+310,311,334,339,346,347,354,
+375,388,404,420,428,441,444,
+454,455,457,458,467,469,476,
+477,479,483,487,489,491,493,
+501,502,506,512,514,521,523,
+525,526,527,534,537,539,540,
+541,542,546,549,551
+
+empirical squared Euclidean distance error,
+
+550,557
+
+bias of, 343, 397, 398, 399,400,405,
+
+419,550
+
+rotation,  125, 556
+smoothed,  125,549,550,551,552,554,
+
+555
+
+U -method, see leave-one-out estimate
+estimation error,  188,284,290,295, 395,
+431,454,455,471,487,523,529
+
+Euclidean norm, 99,  370, 567
+Euler's theorem, 380
+exponential distribution, 361, 590
+exponential family,  266, 275, 276
+
+Fano's inequality, 26, 35
+Fatou's lemma, 577
+f-divergence, 31, 32, 34, 36
+feature extraction,  14,21, 128,561, 562,
+
+377,378,380,384
+
+567,572,573
+
+entropy, 25, 26, 29, 35, 218, 219, 252, 286,
+
+337,339,373
+
+E -covering number, see covering number
+E -entropy, see metric entropy
+Em-optimality, 390, 393, 454
+E -packing number, see packing number
+error estimation, 4,  121,  124,  125,  127,
+
+132,343,397,408,409,549
+
+0.632 estimator, 557
+bootstrap,  125,549,556,557,558
+complexity penalized, 291, 297, 396
+cross  validated,  see leave-one-out
+
+estimate
+
+deleted, see leave-one-out estimate
+double bootstrap, 557
+EO estimator, 557
+error counting,  121,  123,  126,  131,549,
+
+550
+
+holdout,  125,347,388, 389, 391, 393,
+395,397,428,430,453,549,556
+
+leave-one-out,4,  125,309, 397,407,
+
+408,410,413,414,415,417,419,
+420,441,444,446,458,459,474,
+549,550,554,555,556,557
+variance of, 415, 419,552,556
+
+posterior probability, 549, 554, 555, 559
+randomized bootstrap, 557
+resubstitution,  125, 304, 343, 347, 382,
+397,398,399,400,402,405,407,
+415,419,439,458,474,476,549,
+
+F -error, 29, 32, 34, 36, 573
+fingering,  191,  192, 277
+fingering dimension,  192, 209
+Fisher linear discriminant, 47, 49, 58
+flexible grid, 367, 368, 369
+Fourier series classifier, 279, 280, 282, 285,
+
+471
+
+Fourier series density estimation, 279
+Fubini's theorem,  139,  157,371,579,582,
+
+583
+
+fundamental rule, 440, 461, 462, 463, 471,
+
+474
+
+fundamental theorem of mathematical
+statistics, see Glivenko-Cantelli
+theorem
+
+Gabriel graph, 90
+Gabriel neighbor, 90
+gamma distribution, 266, 268, 276, 573,
+
+590
+
+gaussian distribution,  see  normal
+
+distribution
+
+gaussian noise, 57, 285
+geometric distribution, 80,  153,  161, 167
+Gessaman's rule, 375, 376, 384, 393
+ghost sample,  193,203,210,213
+Giniindex, 338, 339, 340,343, 361, 362
+Glivenko-Cantelli theorem,  192, 193,321,
+
+374
+
+gradient optimization, 54, 56, 251, 525
+
+Grenander's method of sieves, 527, 540
+grid complexity, 357
+group method of data handling, 532
+
+Hamming distance, 474, 477
+ham-sandwich theorem, 339
+Hart's rule, 304, 305, 306
+Hellinger distance, 23, 32, 243, 474
+Hellinger integral, 32, 36
+histogram density estimation,  107,  143,
+
+208
+
+histogram rule,  94,  95, 96, 98,  106,  109,
+
+133,  138,  139,  143,  144,  145,  147,
+152,153,155,159,170,253,261,
+287,288,290,301,318,342,347,
+351,363,368,370,378,384,394,
+399,400,401,404,405,408,409,
+417,418,419,420,462,463,506,
+518,549,552,553,555,559
+
+cubic, 95,96, 107,  133,  138,  144,381,
+
+382,384,465,475,512
+
+data-dependent, 317, 365, 368, 369, 373,
+
+382,385,391,403,404
+lazy,  143,  152,408,409,414
+randomized, 475
+
+Hoeffding's inequality, 51, 52, 75,  122,
+
+124,  127,  133,  134,  135,  137,  190,
+193,198,212,213,284,299,306,
+311,366,428,440,445,448,483,
+487,490,495
+
+HOlder's inequality,  108, 582
+hypergeometric distribution, 589
+
+imperfect training, 89,  109
+impurity function,  336, 337, 338, 340, 343,
+
+361,362
+
+inequality
+
+Subject Index
+
+631
+
+Cover-Hart, 5, 22, 24, 27, 35, 62, 70, 448
+Dvoretzky-Kiefer-Wolfowitz-Massart,
+
+44,57,207
+
+Fano's, 26, 35
+Hoeffding's, 51, 52, 75,  122,  124,  127,
+133,  134,  135,  137,  190,  193,  198,
+212,213,284,299,306,311,366,
+428,440,445,448,483,487,490,
+495
+
+HOlder's,  108,582
+Jensen's,  23,  26,  29,  32,  76, 99,  141,
+
+242,252,288,401,402,418,463,
+558,568,583
+
+Khinchine's, 410, 588
+large deviation,  136,  190,364,365,379
+LeCam's, 33, 244
+Markov's, 76,  117,  123,256, 309, 379,
+
+582
+
+McDiarmid's, 3,  136,  142,  158,  162,
+
+172,174,201,211,346,414,448,
+553,558
+Pinsker's, 37
+Rogers-Wagner, 4, 411, 413, 417, 418
+Vapnik-Chervonenkis, 5,  138,  192,  196,
+197,198,201,202,203,206,225,
+226,229,233,271,273,275,278,
+295,304,312,356,357,364,365,
+366,388,399,429,436,467,476,
+492,494
+
+information divergence,  see Kullback(cid:173)
+
+Leibler divergence
+
+Jeffreys' divergence, 27, 28, 29
+Jensen's inequality, 23,  26,  29, 32, 76, 99,
+141,242,252,288,401,402,418,
+463,558,568,583
+
+J essen-Marcinkiewitz-Z ygmund theorem,
+
+Alexander's,  207,  210, 211, 278,  295,
+
+329,580,581
+
+300
+
+association, 22, 583
+Bennett's, 124, 130
+Bernstein's, 124, 130,210,494
+Cauchy-Schwarz, 20, 33, 52, 76, 93, 95,
+
+99,  103,  104,  141,  155,  158,  173,
+256,345,401,402,414,463,582,
+583
+
+Chebyshev-Cantelli, 42, 237, 463, 582
+Chebyshev's, 45, 56, 97,  194,210,269,
+
+276,322,332,414,494,582
+
+Karhunen-Loeve expansion, 568
+k-d tree,  321, 326, 327, 328, 333, 334, 358,
+
+359,375
+
+chronological, 327, 328, 343, 344, 358
+deep,  327,333,358
+permutation-optimized chronological,
+
+344
+
+well-populated, 327
+
+kernel,  147,  148,  149,  151,  153,  159,  160,
+161,  162,  163,  165,  166,  185,416,
+
+632
+
+Subject Index
+
+420,421,423,428,430,432,438,
+439,440,441,446,447,448,474,
+476,518,540,541,542,547,549
+
+Cauchy,  148,  149,  165
+Deheuvels',433
+de la Vallee-Poussin, 446
+devilish,  162
+Epanechniko~ 148, 149, 162
+exponential, 433
+gaussian,  105,  109,  148,  149,  165,416,
+
+421,426,433,448,531
+
+Hermite,  151
+multiparameter, 435, 447
+naive,  148, 149, 150, 153, 156,  157, 158,
+
+163,167,416,420,426,442,445
+
+negative valued,  151, 153
+polynomial, 434
+product, 435, 447
+regular,  149,  150,  156,  158,  164,  165,
+
+166,185,415,424,425,426,433,
+446
+
+star-shaped, 432
+uniform, see naive kernel
+window, see naive kernel
+
+kernel complexity, 429, 430, 431, 432, 433,
+
+434,435,436,446,447
+
+kernel density estimation,  149,  150,  151,
+
+161,162,208,433,447
+
+kernel rule, 98,  105,  109,  147,  148,  149,
+
+150,  151,  153,  159,  160,  161,  162,
+163,166,167,171,185,285,290,
+390,408,409,415,416,417,423,
+428,429,430,439,440,442,444,
+445,446,447,462,474,476,477,
+531,532,540,547,552
+
+automatic,  150,423,424,425,426
+variable, 447, 448
+
+Khinchine's inequality, 410, 588
+k-local rule, 64, 69, 414
+k-means clustering, 380, 381, 384, 542
+Kolmogorov-Lorentz network, 535
+Kolmogorov-Lorentz representation, 511,
+
+534,535,538,546
+
+Kolmogorov-Smirnov distance, 41,  271,
+
+272,274
+
+generalized, 271, 272, 273, 274, 277,
+
+278
+
+Kolmogorov-Smirnov statistic, 142,207
+Kolmogorov variational distance, 22,  36
+
+k-spacing rule, 320, 363, 373,  374,  376,
+
+420
+
+Kullback-Leibler divergence, 27,  34,  36,
+
+252,258,261
+
+L]  consistency,  109,  143,  161,  162,  184
+L] convergence, 93, 270
+L] distance,  15,  16,492
+L] error, 20,  107,  108,  150,  162,208,525,
+
+526,527,528,542
+
+L2  consistency,  102,284,559
+L2erro~ 104,283,284,445,526,542
+large deviation inequality,  136,  190, 364,
+
+365,379
+
+learning, 2, 201, 202, 211, 233
+
+algorithm, 201
+supervised, 2
+with a teacher, 2
+
+learning vector quantization, 310
+Lebesgue's density theorem, 580
+LeCam's inequality, 33, 244
+likelihood product, 250, 258, 259, 260, 268
+linear classifier,  14,  19, 39,40,44,47,48,
+49,50,51,53,54,55,57,58,59,
+191,224,225,260,311,342,343,
+390,399,466,467,468,476,490,
+501,507,510,540,567
+
+generalized, 39, 160,224,225,266,279,
+285,287,289,290,398,399,501,
+505,506,532,549
+
+linear discriminant, see linear classifier
+linear independence, 222
+linear ordering by inclusion, 231
+Lloyd-Max algorithm, 380
+local average estimator, 98
+logistic discrimination, 259
+log-linear model, 472
+L p  error, 525, 526, 527
+lying teacher, see imperfect training
+
+Mahalanobis distance, 30, 36, 47, 48,57,
+
+566,572
+
+majority vote, 61,  84,  86,94, 96, 98,  101,
+106,  109,  147,  152,  166,  170,  176,
+177,178,183,317,319,322,327,
+328,333,334,339,341,342,343,
+346,347,349,356,361,363,368,
+376,377,383,384,392,420,435,
+
+463,474,475,512,513,514,516,
+525
+
+Markov's inequality, 76,  117,  123,256,
+
+309,379,582
+
+martingale,  134,  135,  142
+martingale difference sequence,  133,  134,
+
+135,136
+
+Matushita error, 23, 29, 34, 36,  109
+maximum likelihood, 249, 250, 251, 252,
+253,254,257,259,260,261,262,
+265,266,268,269,270,276,277,
+444,467,472,473,475,527,540,
+551
+
+distribution format,  250, 260
+regression format,  249, 250, 260
+set format,  249
+
+Maxwell distribution, 266
+McDiarmid's inequality, 3,  136,  142,  158,
+162,172,174,201,211,346,414,
+448,553,558
+
+median tree,  322, 323, 324, 325, 334, 358,
+
+362,375
+
+theoretical, 323, 324, 358
+
+method of bounded differences,  133,  135
+metric, see distance
+metric entropy, 480, 481, 484, 486, 492,
+
+526
+
+minimax lower bound, 234, 235, 236
+minimum description length principle, 292,
+
+295
+
+minimum distance estimation, 265, 266,
+
+270,271,272,274,277,278
+moment generating function,  56, 589
+monomial, 468, 469, 476, 531, 533, 534
+monotone layer,  183,226,227,229,232,
+
+487
+
+moving window rule,  147,  148,  150,  552,
+
+553,555,559
+
+multinomial discrimination, 461
+multinomial distribution, 227, 321, 589
+multivariate normal distribution,  see
+
+normal distribution
+
+Subject Index
+
+633
+
+307,310,392,413,414,441,448,
+453,456,553
+
+nearest neighbor clustering, 377, 379
+nearest neighbor density estimation,  184
+nearest neighbor error, 22, 23, 29,  31, 57,
+
+63,69,132,307,308,361,551,559
+
+nearest neighbor rule
+
+I-NN,5, 70,  80,  84,  87,  88,106,107,
+
+152,  169,  180,  181,  185,285, 303,
+304,305,306,307,308,309,310,
+311,313,359,360,387,390,391,
+395,398,405,407,414,454,458,
+475,550
+
+3-NN,14,80,84,86,405,565,566
+admissibility of the  1-NN rule,  5,  81,  87,
+
+174
+
+asymptotic error probability of the  1-NN
+
+rule, see nearest neighbor error
+
+asymptotic error probability of the k-NN
+
+rule, 70, 71, 73, 75, 79,82,169
+
+automatic,  169,387,451
+based on reference data, see prototype
+
+NN rule
+
+condensed, 303, 304, 307, 309,455
+data-based,  see automatic nearest
+
+neighbor rule
+
+edited, 62, 307, 309, 313,455
+k-NN, 3,4,5, 6, 61,62,64,69, 70, 73, 74,
+80,81,82,83,85,86,87,98,100,
+101,169,170,175,176,177,179,
+180,181, 182,  185,290,309,313,
+343,389,397,408,413,414,415,
+420,421,451,452,453,455,456,
+457,458,459,549,552,553,555
+
+(k, l)-NN, 81, 82,  88
+layered,  183
+prototype, 307,309,310, 311,377,455
+recursive,  177, 179,  182
+relabeling,  169,  180,  181, 185,309,420
+selective, 455
+variable metric, 455
+weighted, 61, 71, 73, 74,  85,  87,  88,  90,
+
+179,  183,451,453
+
+neural network, 444, 507,510,514,520,
+
+natural classifier, 317,  318, 320, 323, 327,
+
+527,528,530,531
+
+342,347,358,513,514,542
+
+nearest neighbor, 62, 63, 69, 80,  84, 85,  89,
+
+90,  101,  166,  169,  170,  171,  175,
+177,  179,  180,  181,  182,  184,  185,
+
+classifier, 5, 39, 290, 516, 517, 543, 549
+multilayer, 509, 523, 545
+with one hidden layer, 507, 508, 509,
+
+510,517,518,519,520,521,525,
+
+634
+
+Subject Index
+
+538,543,544
+
+with two hidden layers, 509, 510, 514,
+515,516,517,522,537,542,546
+
+Neyman-Pearson lemma,  18
+normal distribution, 31, 35,47,48,49,56,
+
+57,59,76,85,86,249,264,265,
+266,276,343,390,399,415,564,
+566,567,572,588,590
+
+order statistics, 88,  178,257,320,328,358,
+
+363,372,382
+
+outer layer, see monotone layer
+overfitting,  188,286,291,297,348,395,
+
+454,527,532,544
+
+packing number, 481, 496
+Padaline,531,532,545
+parameter estimation, 250, 268, 270, 277,
+
+399
+
+parametric classification,  24,  250,  263,
+
+270,275,390,415,472
+
+Parseval's identity, 283
+partition, 94,  106,  109,  140, 143,  144,  147,
+152,287,301,307,310,312,315,
+317,318,319,320,321,327,328,
+333,343,346,347,349,350,351,
+352,353,354,356,357,360,363,
+364,365,366,368,372,373,374,
+378,381,382,383,392,394,395,
+399,400,402,403,404,417,418,
+419,420,454,477,506,511,513,
+553
+
+complexity of a family of, 365, 367, 369,
+
+403,404
+
+cubic, 95, 96,  107,  133,  138,  143,382,
+
+475
+
+data-dependent, 94, 363, 364, 370, 404,
+
+420
+
+E -effective cardinality of,  144
+family of, 365, 367, 368, 369,403,404,
+
+405
+
+~-approximating, 144
+
+partitioning rule, see histogram rule
+perceptron, 6,14,39,40,44,507,509,510,
+
+514,515,516,532,544
+
+perceptron criterion, 59
+pigeonhole principle, 238, 476
+Pinsker's inequality, 37
+planar graph, 312, 380
+
+plug-in decision,  15,  16,  17,  19,20,24,93,
+265,266,267,270,271,276,277,
+467,468,471,472,475
+
+polynomial discriminant function,  160,
+
+279,287,531
+
+polynomial network, 532, 533, 534
+potential function rule,  159,  160,279,540
+principal component analysis, 455
+probabilistic method,  112,234,496
+projection pursuit, 538, 539, 546
+pseudo dimension, 498, 506
+pseudo probability of error, 82
+
+quadratic discrimination rule,  225, 265,
+
+276,343,390,468,476
+
+quadtree, 321, 333, 334, 348, 361
+
+chronological, 333, 361
+deep, 333, 361
+
+quantization, 380,461,463,567
+
+radial basis function, 540, 541, 542, 547
+Radon-Nikodym derivative, 272, 313
+Radon-Nikodym theorem, 578, 586
+rate of convergence, 4,  102,  104,  108,  111,
+113,114,118,128,239,262,264,
+267,269,275,276,284,294,295,
+296,297,300,357,390,483,485,
+486,494,527
+
+Rayleigh distribution, 266, 277
+record, 330, 331, 358
+recursive kernel rule,  160,  161,  166
+regression function,  9,  11, 93,  254, 261,
+
+445,454,474,475,479,483,484,
+487,489
+
+estimation, 92, 93,  102,  103,  104,  108,
+114,149,169,172,185,405,445,
+527
+
+relative stability,  162
+Rogers-Wagner inequality, 4,  411,  413,
+
+417,418
+
+rotation invariance, see transformation
+
+invariance
+Royall's rule,  185
+
+sample complexity, 201, 202, 205, 206,
+
+211,234,245
+sample scatter, 46, 47
+sampling without replacement, 213
+
+Subject Index
+
+635
+
+scale invariance,  see transformation
+
+559
+
+invariance
+
+standard empirical measure, see empirical
+
+sc~ing, 144,  166,  177, 179,381,385,387,
+
+measure
+
+391
+
+scatter matrix, 46
+Scheffe's theorem, 32, 36, 208, 211, 278,
+
+383
+
+search tree, 62, 326
+
+balanced, 322
+
+shatter coefficient, 196,  197, 198,200,212,
+215,216,219,220,222,223,226,
+271,273,312,347,365,389,390,
+404,429,453,492,493,496,497,
+512,522,541
+
+shattering,  196,  198,  199, 217, 218, 219,
+
+220,221,222,223,226,229,235,
+239,277,436,437,438,476,477,
+498,499,521,541
+
+sieve method, 444
+sigmoid, 56, 59, 507, 510, 515, 517, 519,
+520,521,524,526,528,542,543,
+544,545
+
+arctan, 508, 524
+gaussian, 508, 524
+logistic, see standard sigmoid
+piecewise polynomial, 524
+standard, 508, 524, 525
+threshold,  507, 508, 516,  517,  519,
+
+521,522,523,524,525,526,537,
+543,544
+
+signed measure, 272, 273
+skeleton estimate, 292, 480, 482, 483, 484,
+
+486,487,489,493
+
+smart rule,  106, 109
+smoothing factor,  148, 149, 153,  160, 162,
+163,165,166,185,390,416,423,
+424,428,429,435,436,439,441,
+442,444,446,462,474,531
+
+data-dependent, 423, 424, 425, 426, 474
+
+spacing, 328, 358, 372
+splitting criterion, 334, 335, 336, 337, 338,
+
+339,348
+
+splitting function,  334
+splitting the data,  132,  185, 211,  298, 309,
+347,387,388,389,390,391,392,
+397,428,436,452,453,454,541
+squared error,  11,54, 55, 56, 58, 59,445,
+448,489,490,491,492,493,501,
+502,505,506,525,526,527,551,
+
+statistically equivalent blocks,  178,  363,
+
+372,374,375,384,393
+
+Stirling's formula, 83,238,415,449,587
+stochastic approximation,  161, 505
+stochastic process
+
+expansion of, 573
+sampling of, 573
+
+Stoller split, 40, 334, 335, 336, 338, 350,
+
+361,375
+
+empirical, 43, 339, 343
+theoretical, 40, 41, 42, 43, 56
+
+Stoller's rule, 43, 44
+Stone's lemma, 65, 66, 69, 83
+Stone's theorem, 97,  100,  101,  107,  181,
+
+182,  183,  185,456
+
+Stone-Weierstrass theorem, 281, 287,519,
+
+538,543,580
+
+strictly separable distribution,  104, 162
+strong consistency, 92, 93,  128
+
+definition of,  3, 91
+of Fourier series rule, 282, 284
+of kernel rules,  149, 161, 162,431
+of nearest neighbor rules,  100, 169,  174,
+
+451
+
+of neural network classifiers, 528
+of partitioning rules,  143,  155,341,347,
+
+368,369,370,376,378,383
+
+strong universal consistency, 395
+
+of complexity regularization, 290, 292,
+
+298
+
+definition of, 92
+of generalized linear rules, 287, 502, 505
+of kernel rules,  149,  150,  166,424,426,
+
+429,430,435
+
+of nearest neighbor rules,  170,  176, 453,
+
+458,459
+
+of neural network classifiers, 523, 528,
+
+545
+
+of partitioning rules, 96,  133,  138,  142,
+143,144,170,288,369,376,381,
+382,384,462
+
+structural risk minimization, see complexity
+
+regularization
+
+sufficient statistics,  268, 270,  571, 572,
+
+573,574
+
+superclassifier, 5,  118
+
+636
+
+Subject Index
+
+support, 63, 80, 84, 579
+symmetric rule,  109,411,413,414,419
+symmetrization,  193,  194, 203, 278
+
+tennis rule, 82, 88
+testing sequence,  121,  124,  125,  126,  127,
+131,388,390,392,393,397,428,
+453,455,457
+
+total boundedness, 480, 483, 486, 487, 493,
+
+494
+
+total positivity, 434
+total variation, 22, 32, 36, 208
+transformation invariance, 6, 62,  84,  177,
+178,179,182,183,285,318,319,
+320,328,334,337,348,373,375,
+385,512,531
+
+tree
+
+a-balanced, 358
+binary, 315, 316, 364
+BSP,  see binary space partition tree
+classifier, 6,  39, 316, 319, 322, 341, 343,
+347,364,383,390,394,477,516,
+542
+
+depth of, 315, 333, 358
+expression, 469
+greedy, 348, 349,350
+height of, 315, 334, 474
+Horton-Strahler number of, 477
+hyperplane,  see binary space partition
+
+tree
+
+k-d, see k-d tree
+median, see median tree
+ordered, 316
+ordinary, 316, 317, 318
+perpendicular splitting, 334, 336, 348
+pruning of, see trimming of a tree
+sphere, 316, 317
+trimming of, 327, 336, 338, 339
+
+unbiased estimator, 121,285
+uniform deviations, see uniform laws of
+
+large numbers
+
+uniform marginal transformation, 319
+universal consistency, 97, 98,  106,  109,
+
+113,118,226,285,387,510
+of complexity regularization, 293
+definition of, 3, 92
+of generalized linear rules, 286, 501, 502
+ofkemel rules,  149,  153,  163,  164,  165,
+
+166,167,423,425,441,442
+
+of nearest neighbor rules, 61,  100,  169,
+170,175,177,178,180,181,182,
+183,184,185,453,454,455
+
+of neural network classifiers, 512, 524,
+
+526,528,532,539,540,547
+
+of partitioning rules,  95, 96,  107,  133,
+
+253,344,346,364,382,393
+
+Vapnik-Chervonenkis dimension, see vc
+
+dimension
+
+Vapnik-Chervonenkis inequality, 5,  138,
+
+192,196,197,198,201,202,203,
+206,225,226,229,233,271,273,
+275,278,295,304,312,356,357,
+364,365,366,388,399,429,436,
+467,476,492,494
+
+variation,  144
+vc class,  197,210,251,290,297
+vc dimension, 5,  192,  196,  197,200,201,
+202,206,210,215,216,218,219,
+220,221,223,224,226,229,230,
+231,232,233,235,236,238,239,
+240,243,245,247,257,272,273,
+275,277,278,286,289,290,291,
+292,294,295,297,298,300,301,
+346,347,398,436,439,444,447,
+467,471,476,477,486,496,521,
+522,523,524,526,530,533,534,
+537,538,541,542,544,546,547
+
+Voronoi cell, 62, 304, 312, 378
+Voronoi partition, 62, 304, 312, 377, 378,
+
+380
+
+weighted average estimator, 98
+
+uniform laws of large numbers,  190,  196,
+198,199,207,228,366,490,529
+
+X-property, 319, 320, 322,333,334, 339,
+
+342,343,357,358,362,513
+
+Pattern  recognition  presents  one  of the  most significant challenges
+for scientists  and  engineers,  and  many  different approaches  have
+been  proposed.  The  aim  of  this  book  is  to  provide  a self-contained
+account of  probabilistic analysis  of these  approaches.  The  book
+includes a discussion of distance measures, nonparametric methods
+based on  kernels or nearest neighbors, Vapnik-Chervonenkis theo(cid:173)
+ry,  epsilon  entropy,  parametric classification,  error estimation,  tree
+classifiers,  and neural networks.
+Wherever  possible,  distribution-free properties  and  inequalities are
+derived.  A substantial  portion  of the  results  or the  analysis  is  new.
+Over 430 problems and exercises complement the  material.
+
+ISBN  0-387-94618-7
+
+ISB!\,)  0-387-94618-7
+
+

@@ -1,0 +1,278 @@
+F1-score
+accuracy
+activation function
+AdaBoost
+all-pairs
+approximation error
+auto-encoders
+backpropagation
+backward elimination
+bag-of-words
+base hypothesis
+Bayes optimal
+Bayes rule
+Bayesian reasoning
+Bennet’s inequality
+Bernstein’s inequality
+bias
+bias-complexity tradeoff
+boolean conjunctions
+boosting
+boosting the confidence
+boundedness
+C4.5
+CART
+chaining
+Chebyshev’s inequality
+Chernoff bounds
+class-sensitive feature mapping
+classifier
+clustering
+spectral
+compressed sensing
+compression bounds
+compression scheme
+computational complexity
+confidence
+consistency
+Consistent
+contraction lemma
+convex
+function
+set
+strongly convex
+convex-Lipschitz-bounded learning
+convex-smooth-bounded learning
+covering numbers
+curse of dimensionality
+decision stumps
+decision trees
+dendrogram
+dictionary learning
+differential set
+dimensionality reduction
+discretization trick
+discriminative
+distribution free
+domain
+domain of examples
+doubly stochastic matrix
+duality
+strong duality
+weak duality
+Dudley classes
+effcient computable
+EM
+empirical error
+empirical risk
+entropy
+relative entropy
+epigraph
+ERM
+error decomposition
+estimation error
+feasible
+feature
+feature learning
+feature normalization
+feature selection
+feature space
+feature transformations
+forward greedy selection
+frequentist
+gain
+generalization error
+generative models
+Gini index
+Glivenko-Cantelli
+gradient
+gradient descent
+Gram matrix
+growth function
+halfspace
+homogenous
+non-separable
+separable
+Halving
+hidden layers
+Hilbert space
+Hoeffding’s inequality
+hold out
+hypothesis
+hypothesis class
+i.i.d.
+ID3
+information bottleneck
+information gain
+instance
+instance space
+integral image
+Johnson-Lindenstrauss lemma
+k-means
+soft k-means
+k-median
+k-medoids
+Kendall tau
+kernel PCA
+kernels
+Gaussian kernel
+kernel trick
+polynomial kernel
+RBF kernel
+label
+Lasso
+generalization bounds
+latent variables
+LDA
+Ldim
+learning curves
+least squares
+likelihood ratio
+linear predictor
+homogenous
+linear programming
+linear regression
+linkage
+Lipschitzness
+sub-gradient
+local minimum
+logistic regression
+loss
+loss function
+absolute value loss
+convex loss
+generalized hinge-loss
+hinge loss
+Lipschitz loss
+log-loss
+logistic loss
+ramp loss
+smooth loss
+square loss
+surrogate loss
+margin
+Markov’s inequality
+Massart lemma
+max linkage
+maximum a-posteriori
+maximum likelihood
+McDiarmid’s inequality
+MDL
+measure concentration
+mistake bound
+mixture of Gaussians
+model selection
+multiclass
+cost-sensitive
+linear predictors
+multi-vector
+Perceptron
+reductions
+SGD
+SVM
+multivariate performance measures
+Naive Bayes
+Natarajan dimension
+NDCG
+Nearest Neighbor
+k-NN
+neural networks
+feedforward networks
+layered networks
+SGD
+no-free-lunch
+non-uniform learning
+sample complexity
+Sauer’s lemma
+self-boundedness
+sensitivity
+SGD
+shattering
+single linkage
+Slud’s inequality
+smoothness
+SOA
+sparsity-inducing norms
+specificity
+spectral clustering
+SRM
+stability
+strong learning
+structured output prediction
+sub-gradient
+SVD
+SVM
+duality
+generalization bounds
+hard-SVM
+homogenous
+kernel trick
+soft-SVM
+support vectors
+target set
+term-frequency
+TF-IDF
+training error
+training set
+true error
+underfitting
+uniform convergence
+union bound
+unsupervised learning
+validation
+cross validation
+train-validation-test split
+VC dimension
+version space
+Viola-Jones
+weak learning
+Weighted-Majority
+Occam’s razor
+OMP
+one-vs-all
+one-vs.-all
+online convex optimization
+online gradient descent
+online learning
+optimization error
+oracle inequality
+overfitting
+PAC
+agnostic PAC
+agnostic PAC for general loss
+PAC-Bayes
+parametric density estimation
+PCA
+Pearson’s correlation coeﬃcient
+Perceptron
+kernelized Perceptron
+multiclass
+online
+permutation matrix
+polynomial regression
+precision
+predictor
+prefix free language
+prior knowledge
+projection
+projection lemma
+proper
+pruning
+Rademacher complexity
+random forests
+random projections
+ranking
+bipartite
+realizability
+recall
+regression
+regularization
+Tikhonov
+representation independent
+representative sample
+representer theorem
+ridge regression
+kernel ridge regression
+RIP
+risk
+RLM

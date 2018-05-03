@@ -1,0 +1,472 @@
+k-armed bandits
+absorbing state
+access-control queuing example
+action preferences
+in bandit problems
+action-value methods
+for bandit problems
+actor–critic
+one-step (episodic)
+with eligibility traces (episodic)
+with eligibility traces (continuing)
+neural
+addiction
+afterstates
+agent–environment interface
+AlphaGo
+Andreae
+applications and case studies
+approximate dynamic programming
+artificial intelligence
+artificial neural networks
+associative reinforcement learning
+associative search
+asynchronous dynamic programming
+Atari video game play
+auxiliary tasks
+average reward setting
+averagers
+backgammon
+backpropagation
+backup diagram
+for dynamic programming
+for Monte Carlo methods
+for Q-learning
+for TD(0)
+for Sarsa
+for Expected Sarsa
+for Sarsa(λ)
+for TD(λ)
+for Q(λ)
+for Tree Backup(λ)
+for Truncated TD(λ)
+for n-step Q(σ)
+for n-step Expected Sarsa
+for n-step Sarsa
+for n-step TD
+for n-step Tree Backup
+for Samuel’s Checker Player
+compound
+half backups
+backward view of eligibility traces
+Baird’s counterexample
+bandit algorithm
+bandit problems
+basal ganglia
+baseline
+Bellman equation
+for vπ
+for qπ
+for optimal value functions: v∗ and q∗
+differential
+for options
+Bellman error
+learnability of
+vector
+Bellman operator
+Bellman
+binary features
+bioreactor example
+blackjack example
+blocking maze example
+bootstrapping
+n-step
+and dynamic programming
+and Monte Carlo methods
+and stability
+and TD learning
+assessment of
+in psychology
+parameter (λ or n)
+BOXES
+branching factor
+breakfast example
+bucket-brigade algorithm
+catastrophic interference
+certainty-equivalence estimate
+chess
+classical conditioning
+blocking
+and higher-order conditioning
+delay and trace conditioning
+Rescorla-Wagner model
+TD model
+classifier systems
+cliff walking example
+coarse coding
+cognitive maps
+collective reinforcement learning
+complex backup
+compound stimulus
+compound update/backup
+constant-α MC
+contextual bandits
+continuing tasks
+continuous action
+continuous state
+continuous time
+control and prediction
+control theory
+control variates
+and eligibility traces
+credit assignment
+in psychology
+structural
+curiosity
+curse of dimensionality
+cybernetics
+deadly triad
+deep learning
+deep reinforcement learning
+deep residual learning
+delayed reinforcement
+delayed reward
+direct and indirect RL
+discounting
+in pole balancing
+rate parameter (γ)
+state dependent
+deprecated
+distribution models
+dopamine
+and addiction
+double learning
+driving-home example
+Dyna architecture
+dynamic programming
+and artificial intelligence
+and function approximation
+and options
+and the deadly triad
+computational eﬃciency of
+eligibility traces
+accumulating
+replacing
+dutch
+contingent and non-contingent
+off-policy
+with state-dependent λ and γ
+Emphatic-TD methods
+off-policy
+environment
+episodes
+error reduction property
+evaluative feedback
+evolution
+evolutionary methods
+expected approximate value
+expected update
+experience replay
+explore/exploit dilemma
+exploring starts
+feature construction
+Fourier basis
+function approximation
+gambler’s example
+game theory
+gazelle calf example
+general value functions (GVFs)
+generalized policy iteration (GPI)
+genetic algorithms
+Gittins index
+gliding/soaring case study
+golf example
+gradient
+and eligibility traces
+and infinite variance
+discounting aware
+incremental implementation
+per-decision
+n-step
+of averages
+of weighted averages
+motivation
+Thorndike’s puzzle boxes
+interest and emphasis
+inverse reinforcement learning
+Jack’s car rental example
+kernel-based function approximation
+Klopf
+latent learning
+Law of Effect
+Gradient-TD methods
+learning automata
+Least Mean Square (LMS) algorithm
+as exploiting
+as shortsighted
+Least-Squares TD (LSTD)
+Gridworld examples
+cliff walking
+Dyna blocking maze
+Dyna maze
+Dyna shortcut maze
+windy
+habitual and goal-directed control
+hedonistic neurons
+heuristic search
+as sequences of backups
+in Samuel’s checkers player
+in TD-Gammon
+history of reinforcement learning
+Holland
+Hull
+importance sampling
+ratio
+weighted and ordinary
+local and global optima
+Markov decision process (MDP)
+Markov property
+Markov reward process (MRP)
+maximization bias
+maximum-likelihood estimate
+Bellman Error
+Projected Bellman Error
+Return Error
+TD Error
+Value Error
+memory-based function approx.
+Michie
+Minsky
+model of the environment
+model-based and model-free methods
+in animal learning
+reducing variance
+model-based reinforcement learning
+on-policy distribution
+in neuroscience
+Monte Carlo methods
+gradient method for vπ
+Monte Carlo ES (Exploring Starts)
+off-policy control
+off-policy prediction
+Monte Carlo Tree Search (MCTS)
+motivation
+mountain car example
+multi-armed bandits
+n-step methods
+Q(σ)
+Sarsa
+differential
+off-policy
+TD
+Tree Backup
+truncated λ-return
+neurodynamic programming
+neuroeconomics
+neuroscience
+nonstationarity
+inherent
+off-policy methods
+vs on-policy methods
+Monte Carlo
+Q-learning
+Expected Sarsa
+n-step
+n-step Q(σ)
+n-step Sarsa
+n-step Tree Backup
+and eligibility traces
+Emphatic-TD(λ)
+GQ(λ)
+GTD(λ)
+HTD(λ)
+Q(λ)
+Tree Backup(λ)
+vs uniform distribution
+on-policy methods
+actor–critic
+control
+prediction
+Monte Carlo
+n-step
+Sarsa
+TD(0)
+with eligibility traces
+optimal control
+optimistic initial values
+optimizing memory control
+pain and pleasure
+Partially Observable MDPs (POMDPs)
+Pavlov
+control
+personalizing web services
+planning
+with learned models
+with options
+policy
+soft and ε-soft
+policy approximation
+iterative
+policy gradient methods
+REINFORCE
+actor–critic
+policy gradient theorem
+proof
+proof
+policy improvement
+theorem
+policy iteration
+polynomial basis
+and control
+Monte Carlo
+off-policy
+TD
+with approximation
+prior knowledge
+prioritized sweeping
+projected Bellman error
+vector
+pseudo termination
+psychology
+Q(λ)
+Q-learning
+double
+Q-planning
+Q(σ)
+queuing example
+R-learning
+racetrack exercise
+radial basis functions (RBFs)
+random walk
+TD(λ) results on
+Fourier and polynomial bases
+real-time dynamic programming
+recycling robot example
+REINFORCE
+with baseline
+reinforcement learning
+reinforcement signal
+representation learning
+residual-gradient algorithm
+naive
+return
+n-step
+for Q(σ)
+for action values
+for Expected Sarsa
+for Tree Backup
+with control variates
+with function approximation
+differential
+with state-dependent termination
+truncated
+reward prediction error hypothesis
+reward signal
+and reinforcement
+design of
+intrinsic
+sparse
+rod maneuvering example
+rollout algorithms
+root mean-squared (RMS) error
+sample and expected updates
+sample or simulation model
+sample-average method
+Samuel’s checkers player
+Sarsa
+vs Q-learning
+differential
+Expected
+n-step
+n-step off-policy
+double
+n-step
+differential
+off-policy
+Sarsa(λ)
+true online
+Schultz
+search control
+secondary reinforcement
+selective bootstrap adaptation
+semi-gradient methods
+Shannon
+shaping
+Skinner
+soap bubble example
+soft and ε-soft policies
+soft-max
+for bandits
+spike-timing-dependent plasticity (STDP)
+state
+and observations
+kth-order history approach
+belief state
+latent state
+Markov property
+observable operator models (OOMs)
+partially observable MDPs
+predictive state representations
+truncated
+n-step
+tic-tac-toe
+tile coding
+Tolman
+trace-decay parameter (λ)
+state dependent
+trajectory sampling
+transition probabilities
+n-step
+Tree-Backup(λ)
+true online TD(λ)
+Tsitsiklis and Van Roy’s Counterexample
+unsupervised learning
+value
+value function
+for a given policy: vπ and qπ
+for an optimal policy: v∗ and q∗
+action
+approximate action values: ˆq(s
+approximate state values: ˆv(s
+differential
+vs evolutionary methods
+value iteration
+value-function approximation
+Watkins
+Watson (Jeopardy! player)
+Werbos
+Witten
+state-update function
+state aggregation
+step-size parameter
+automatic adaptation
+in DQN
+in psychological models
+selecting manually
+with coarse coding
+with Fourier features
+with tile coding
+stochastic approx. convergence conditions
+stochastic gradient-descent (SGD)
+in the Bellman error
+strong and weak methods
+supervised learning
+synaptic plasticity
+Hebbian
+two-factor and three factor
+system identification
+tabular solution methods
+policy
+of update
+TD error
+n-step
+differential
+with function approximation
+TD(λ)
+true online
+TD-Gammon
+temporal abstraction
+hierarchical policy
+option models
+options
+planning with options
+temporal-difference learning
+history of
+advantages of
+optimality of
+TD(0)
+TD(1)
+TD(λ)
+true online
+off-line
+online

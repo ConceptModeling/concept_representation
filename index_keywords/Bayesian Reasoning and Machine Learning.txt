@@ -1,0 +1,1154 @@
+N-max-product
+absorbing state
+absorption
+inﬂuence diagram
+acceptance function
+active learning
+adjacency matrix
+algebraic Riccati equation
+ancestor
+ancestral ordering
+ancestral sampling
+antifreeze
+approximate inference
+belief propagation
+Bethe free energy
+double integration bound
+expectation propagation
+graph cut
+Laplace approximation
+switching linear dynamical system
+variational approach
+variational inference
+Artificial Life
+asychronous updating
+asymmetry
+auto-regressive model
+switching
+time-varying
+automatic relevance determination
+auxiliary variable sampling
+average
+backtracking
+bag of words
+batch update
+Baum-Welch
+Bayes Information Criterion
+factor
+model selection
+theorem
+decision theory
+hypothesis testing
+image denoising
+linear model
+mixture model
+model selection
+Occam’s razor
+outcome analysis
+Bayesian Dirichlet score
+Bayesian linear model
+BD score
+BDeu score
+BDeu score
+asbestos-smoking-cancer
+cascade
+chest clinic
+divorcing parents
+dynamic
+noisy AND gate
+noisy logic gate
+noisy OR gate
+sigmoid
+structure learning
+Bayesian
+belief propagation
+loopy
+Bellman’s equation
+Bessel function
+distribution
+function
+Bethe free energy
+bias
+unbiased estimator
+bigram
+binary entropy
+bioinformatics
+black and white sampling
+black-box
+Blahut-Arimoto algorithm
+Boltzmann machine
+restricted
+bond propagation
+Bonferroni inequality
+Boolean network
+Bradly-Terry-Luce model
+bucket elimination
+burn in
+calculus
+canonical correlation analysis
+constrained factor analysis
+canonical variates
+causal consistency
+causality
+do calculus
+inﬂuence diagrams
+post intervention distribution
+see canonical correlation analysis
+centering
+chain graph
+chain component
+chain rule
+chain structure
+changepoint model
+checkerboard
+chest clinic
+missing data
+with decisions
+Cholesky
+chord
+chordal
+Chow-Liu tree
+classification
+Bayesian
+boundary
+error analysis
+linear parameter model
+multiple classes
+performance
+random guessing
+softmax
+clique
+decomposition
+graph
+matrix
+cliquo
+Cluster Variation method
+clustering
+collaborative filtering
+commute
+compatibility function
+Bradly-Terry-Luce
+Elo
+TrueSkill
+competition models
+concave function
+condindep.m
+conditional entropy
+conditional likelihood
+conditional mutual information
+conditional probability
+conditional random field
+conditioning
+loop cut set
+conjugate distribution
+exponential family
+Gaussian
+prior
+conjugate gradient
+conjugate gradients algorithm
+conjugate vector
+conjugate vectors algorithm
+connected components
+connected graph
+consistent
+consistent estimator
+convex function
+correction smoother
+matrix
+cosine similarity
+coupled HMM
+covariance
+matrix
+covariance function
+construction
+Gibbs
+isotropic
+Mat´ern
+Mercer kernel
+neural network
+non-stationary
+Ornstein-Uhlenbeck
+periodic
+rational quadratic
+smoothness
+DRAFT March 9
+squared exponential
+stationary
+critical point
+cross-validation
+cumulant
+curse of dimensionality
+cut set conditioning
+anomaly detection
+catagorical
+dyadic
+handwritten digits
+labelled
+monadic
+numerical
+ordinal
+unlabelled
+data compression
+vector quantisation
+decision boundary
+decision function
+decision theory
+decision tree
+decomposable
+degree
+degree of belief
+Kronecker
+density estimation
+Parzen estimator
+map
+descendant
+design matrix
+detailed balance
+determinant
+deterministic latent variable model
+differentiation
+digamma function
+digit data
+Dijkstra’s algorithm
+linear
+supervised
+linear
+non-linear
+Dirac delta function
+directed acyclic graph
+ancestor
+DRAFT March 9
+ancestral order
+cascade
+children
+collider
+descendant
+family
+immorality
+Markov Blanket
+moralisation
+parents
+direction bias
+directional derivative
+distribution
+Dirichlet process mixture models
+discount factor
+approach
+training
+discriminative approach
+discriminative training
+dissimilarity function
+distributed computation
+Bernoulli
+beta
+binomial
+Categorical
+change of variables
+conjugate
+continuous
+density
+Dirichlet
+discrete
+divergence
+double exponential
+empirical
+average
+expectation
+exponential
+exponential family
+canonical
+gamma
+mode
+Gauss-gamma
+Gauss-inverse-gamma
+canonical exponential form
+conditioning
+conjugate
+entropy
+isotropic
+mixture
+multivariate
+normalisation
+partitioned
+propagation
+system reversal
+univariate
+inverse gamma
+inverse Wishart
+joint
+kurtosis
+Laplace
+marginal
+mode
+multinomial
+normal
+Poisson
+Polya
+scaled mixture
+skewness
+Student’s t
+uniform
+Wishart
+domain
+double integration bound
+dual parameters
+dual representation
+dyadic data
+dynamic Bayesian network
+dynamic synapses
+linear
+non-linear
+dynamics reversal
+edge list
+eﬃcient IPF
+decomposition
+equation
+function
+problem
+spectrum
+value
+Elo model
+emission distribution
+emission matrix
+independence
+empirical distribution
+empirical risk
+penalised
+empirical risk minimisation
+energy
+entropy
+differential
+Gaussian
+error function
+consistent
+hard
+likelihood
+soft
+uncertain
+virtual
+Evidence Procedure
+exact sampling
+expectation correction
+expectation maximisation
+algorithm
+antifreeze
+belief networks
+E-step
+energy
+entropy
+failure case
+generalised
+intractable energy
+M-step
+Markov decision process
+mixture model
+partial E-step
+partial M-step
+variational Bayes
+Viterbi training
+expectation propagation
+exponential family
+canonical form
+conjugate
+extended observability matrix
+face model
+factor analysis
+factor rotation
+probabilistic PCA
+EM
+SVD
+factor graph
+factor loading
+feature map
+Fisher information
+Fisher’s linear discriminant
+Floyd-Warshall-Roy algorithm
+forward sampling
+Forward-Backward
+DRAFT March 9
+Forward-Sampling-Resampling
+digamma
+distribution
+function
+canonical representation
+distribution
+moment representation
+sub
+super
+Gaussian mixture model
+Bayesian
+collapsing the mixture
+EM algorithm
+infinite problems
+k-means
+Parzen estimator
+symmetry breaking
+Gaussian process
+classification
+Laplace approximation
+multiple classes
+regression
+smoothness
+weight space view
+Gaussian sum filtering
+Gaussian sum smoothing
+generalisation
+generalised pseudo Bayes
+approach
+model
+training
+generative approach
+Gibbs sampling
+Glicko
+Google
+gradient
+descent
+natural
+Gram matrix
+Gram-Schmidt procedure
+Gramm matrix
+graph
+adjacency matrix
+chain
+chain structured
+chordal
+clique
+clique matrix
+cliquo
+connected
+DRAFT March 9
+cut
+decomposable
+descendant
+directed
+disconnected
+edge list
+factor
+loopy
+multiply-connected
+neighbour
+path
+separation
+set chain
+singly-connected
+skeleton
+spanning tree
+tree
+triangulated
+undirected
+degree
+graph cut algorithm
+graph partitioning
+Gull-MacKay iteration
+Hamilton-Jacobi equation
+Hamiltonian dynamics
+Hammersley Clifford theorem
+handwritten digits
+Hankel matrix
+Heaviside step function
+Hebb
+Hebb rule
+hedge fund
+Hermitian
+Hessian
+hidden Markov model
+coupled
+direction bias
+discriminative training
+duration model
+entropy
+input-output
+likelihood
+most likely state (MAP)
+pairwise marginal
+Rauch Tung Striebel smoother
+parallel
+sequential
+viterbi
+Viterbi algorithm
+hidden variables
+Hopfield network
+augmented
+capacity
+Hebb rule
+heteroassociative
+maximum likelihood
+perceptron
+pseudo inverse rule
+sequence learning
+hybrid Monte Carlo
+hyper Markov
+hyper tree
+hyperparameter
+hyperplane
+hypothesis testing
+Bayesian error analysis
+ICA
+identically and independently distributed
+identifiability
+identity matrix
+immorality
+distribution
+sampling
+particle filter
+resampling
+sequential
+weight
+incidence matrix
+Bayesian
+conditional
+empirical
+map
+Markov equivalent
+mutual information
+naive Bayes
+parameter
+perfect map
+independent components analysis
+indicator function
+indicator model
+induced representation
+bond propagation
+bucket elimination
+causal
+cut set conditioning
+HMM
+linear dynamical system
+MAP
+marginal
+Markov decision process
+max-product
+message passing
+mixed
+MPM
+sum-product algorithm
+transfer matrix
+variable elimination
+inﬂuence diagram
+absorption
+asymmetry
+causal consistency
+chest clinic
+decision potential
+fundamental link
+information link
+junction tree
+no forgetting principle
+partial order
+probability potential
+solving
+utility
+utility potential
+information link
+information maximisation
+information retrieval
+information-maximisation algorithm
+innovation noise
+input-output HMM
+inverse modus ponens
+eﬃcient
+Ising model
+approximate inference
+isotropic
+isotropic covariance functions
+item response theory
+Iterated Conditional Modes
+iterative proportional fitting
+iterative scaling
+Jeffrey’s rule
+Jensen’s inequality
+Joseph’s symmetrized update
+junction tree
+absorption
+algorithm
+clique graph
+DRAFT March 9
+computational complexity
+conditional marginal
+consistent
+hyper tree
+inﬂuence diagram
+marginal likelihood
+most likely state
+normalisation constant
+potential
+running intersection property
+separator
+strong
+strong triangulation
+tree width
+triangulation
+k-means
+Kalman filter
+Kalman gain
+KD-tree
+classifier
+kidnapped robot
+Kikuchi
+Kronecker delta
+Kullback-Leibler divergence
+kurtosis
+labelled data
+multiplier
+Lagrangian
+Laplace approximation
+latent ability model
+latent Dirichlet allocation
+latent linear model
+latent semantic analysis
+latent topic
+latent variable
+deterministic
+model
+lattice model
+LDA regularised
+leaky integrate and fire model
+Leapfrog discretisation
+active
+anomaly detection
+Bayesian
+belief network
+EM
+DRAFT March 9
+Dirichlet prior
+inference
+nearest neighbour
+online
+query
+reinforcement
+semi-supervised
+sequences
+sequential
+structure
+supervised
+unsupervised
+learning rate
+likelihood
+bound
+marginal
+model
+approximate
+pseudo
+likelihood decomposable
+line search
+linear algebra
+linear dimension reduction
+canonical correlation analysis
+latent semantic analysis
+non-negative matrix factorisation
+probabilistic latent semantic analysis
+supervised
+unsupervised
+Linear Discriminant Analysis
+linear discriminant analysis
+as regression
+penalised
+regularised
+linear dynamical system
+cross moment
+dynamics reversal
+identifiability
+inference
+learning
+likelihood
+most likely state
+numerical stability
+Riccati equations
+smoothing
+subspace method
+switching
+symmetrising updates
+linear Gaussian state space model
+linear model
+Bayesian
+classification
+factor analysis
+latent
+regression
+linear parameter model
+Bayesian
+linear perceptron
+linear separability
+linear transformation
+linearly independent
+linearly separable
+Linsker’s as-if-Gaussian approximation
+localisation
+Aristotle
+logistic regression
+logistic sigmoid
+logit
+loop cut set
+loopy
+loss function
+zero-one
+loss matrix
+Luenberger expanding subspace theorem
+Mahalanobis distance
+linear
+low dimensional
+margin
+soft
+marginal
+generalised
+marginal likelihood
+approximate
+marginalisation
+chain
+stationary distribution
+equivalent
+global
+hyper
+local
+model
+pairwise
+random field
+approximation
+Markov blanket
+Markov chain
+absorbing state
+detailed balance
+PageRank
+Markov chain Monte Carlo
+auxiliary variable
+hybrid Monte Carlo
+slice sampling
+Swendson-Wang
+Gibbs sampling
+Metropolis-Hastings
+proposal distribution
+structured Gibbs sampling
+Markov decision process
+Bellman’s equation
+discount factor
+non-stationary policy
+partially observable
+planning
+policy iteration
+reinforcement learning
+stationary
+stationary deterministic policy
+temporally unbounded
+value iteration
+variational inference
+Markov equivalence
+Markov network
+Boltzmann machine
+continuous-state temporal
+discrete-state temporal
+Gibbs distribution
+Gibbs network
+Hammersley Clifford theorem
+pairwise
+potential
+Markov random field
+alpha-expansion
+attractive binary
+graph cut
+map
+Potts model
+matrix
+adjacency
+Cholesky
+clique
+Gramm
+Hankel
+incidence
+inversion
+inversion lemma
+orthogonal
+positive definite
+pseudo inverse
+rank
+matrix factorisation
+max-product
+N most probable states
+max-sum
+maximum cardinality checking
+maximum likelihood
+belief network
+DRAFT March 9
+Chow-Liu tree
+counting
+empirical distribution
+factor analysis
+Gaussian
+gradient optimisation
+Markov network
+ML-II
+naive Bayes
+properties
+Hopfield network
+mean field theory
+asynchronous updating
+Mercer kernel
+passing
+schedule
+message passing
+Metropolis-Hastings acceptance function
+Metropolis-Hastings sampling
+minimum clique cover
+missing at random
+completely
+missing data
+mixed inference
+mixed membership model
+mixing matrix
+Gaussian
+mixture model
+Bernoulli product
+Dirichlet process mixture
+expectation maximisation
+factor analysis
+Gaussian
+indicator approach
+Markov chain
+PCA
+mixture of experts
+mode
+auto-regressive
+changepoint
+deterministic latent variable
+faces
+leaky integrate and fire
+linear
+mixed membership
+mixture
+Rasch
+model selection
+DRAFT March 9
+approximate
+moment generating function
+moment representation
+momentum
+monadic data
+loadsa
+moralisation
+most probable a posteriori
+multiple-source multiple-sink
+N most probable
+multiply-connected
+multiply-connected-distributions
+multpots.m
+mutual information
+approximation
+conditional
+maximisation
+naive Bayes
+Bayesian
+tree augmented
+Naive Mean Field
+naive mean field theory
+natural gradient
+nearest neighbour
+probabilistic
+network ﬂow
+network modelling
+neural computation
+neural network
+depression
+dynamic synapses
+leaky integrate and fire
+Newton update
+Newton’s method
+no forgetting principle
+extremal
+simplical
+non-negative matrix factorisation
+normal distribution
+normal equations
+normalised importance weights
+observed linear dynamical system
+Occam’s razor
+One of m encoding
+online learning
+optimisation
+Broyden-Fletcher-Goldfarb-Shanno
+conjugate gradients algorithm
+conjugate vectors algorithm
+constrained optimisation
+critical point
+gradient descent
+Luenberger expanding subspace theorem
+Newton’s method
+quasi Newton method
+ordinary least squares
+Ornstein-Uhlenbeck
+orthogonal
+orthogonal least squares
+orthonormal
+outcome analysis
+outlier
+over-complete representation
+over-complete representations
+overcounting
+overfitting
+PageRank
+pairwise comparison models
+pairwise Markov network
+part-of-speech tagging
+Partial Least Squares
+partial order
+partially observable MDP
+particle filter
+partition function
+inversion
+Parzen estimator
+path
+blocked
+PC algorithm
+perceptron
+logistic regression
+perfect elimination order
+perfect sampling
+planning
+plant monitoring
+plate
+Poisson distribution
+policy
+iteration
+non-stationary
+stationary deterministic
+Polya distribution
+kernel
+matrix
+parameterisation
+posterior
+Dirichlet
+potential
+Potts model
+precision
+auto-regression
+non-parametric
+parameteric
+predictive variance
+predictor-corrector
+Principal Components Analysis
+algorithm
+high dimensional data
+kernel
+latent semantic analysis
+missing data
+probabilistic
+principal directions
+printer nightmare
+missing data
+prior
+probabilistic latent semantic analysis
+conditional
+EM algorithm
+probabilistic PCA
+conditional
+function
+density
+frequentist
+posterior
+potential
+prior
+subjective
+probit
+probit regression
+projection
+proposal distribution
+Pseudo Inverse
+Hopfield network
+pseudo likelihood
+quadratic form
+quadratic programming
+query learning
+questionnaire analysis
+radial basis functions
+Raleigh quotient
+Random Boolean networks
+Rasch model
+DRAFT March 9
+Bayesian
+Rauch-Tung-Striebel
+reabsorption
+region graphs
+linear parameter model
+regression
+logisitic
+regularisation
+reinforcement learning
+Relevance Vector Machine
+relevance vector machine
+reparameterisation
+dual
+over-complete
+sparse
+under-complete
+resampling
+reset model
+residuals
+resolution
+responsibility
+restricted Boltzmann machine
+Riccati equation
+risk
+robust classification
+Rose-Tarjan-Lueker elimination
+running intersection property
+mean
+variance
+sampling
+ancestral
+Gibbs
+importance
+multi-variate
+particle filter
+univariate
+Sampling Importance Resampling
+scalar product
+scaled mixture
+search engine
+self localisation and mapping
+semi-supervised learning
+lower dimensional representations
+separator
+sequential importance sampling
+sequential minimal optimisation
+set chain
+shortest path
+shortest weighted path
+logistic
+DRAFT March 9
+sigmoid belief network
+approximate average
+simple path
+simplical nodes
+Simpson’s Paradox
+singly-connected
+singular
+Singular Value Decomposition
+thin
+skeleton
+skewness
+slice sampling
+smoothing
+softmax function
+spam filtering
+spanning tree
+sparse representation
+spectrogram
+speech recognition
+spike response model
+squared Euclidean distance
+squared exponential
+standard deviation
+standard normal distribution
+stationary
+distribution
+stationary Markov chain
+stationary planner
+stop words
+strong Junction Tree
+strong triangulation
+structure learning
+Bayesian
+network scoring
+PC algorithm
+undirected
+structured Expectation Propagation
+subsampling
+subspace method
+sum-product
+sum-product algorithm
+supervised learning
+classification
+regression
+support vector machine
+chunking
+training
+support vectors
+Swendson-Wang sampling
+switching AR model
+switching linear dynamical system
+under-complete representation
+undirected graph
+changepoint model
+expectation correction
+Gaussian sum smoothing
+generalised Pseudo Bayes
+computational complexity
+likelihood
+smoothing
+sians
+symmetry breaking
+system reversal
+tagging
+tall matrix
+Taylor expansion
+term-document matrix
+test set
+text analysis
+latent semantic analysis
+latent topic
+probabilistic latent semantic analysis
+time-invariant LDS
+Tower of Hanoi
+trace-log formula
+train set
+batch
+discriminative
+generative
+generative-discriminative
+HMM
+linear dynamical system
+online
+transfer matrix
+transition distribution
+transition matrix
+tree
+Chow-Liu
+tree augmented network
+tree width
+triangulation
+check
+greedy elimination
+maximum cardinality
+strong
+variable elimination
+TrueSkill
+two-filter smoother
+uncertainty
+hidden variable
+latent variable
+uniform distribution
+unit vector
+unlabelled data
+unsupervised learning
+utility
+matrix
+message
+money
+potential
+zero-one loss
+validation
+cross
+value
+value iteration
+hidden
+missing
+visible
+variable elimination
+variance
+factorised
+structured
+variational Bayes
+expectation maximisation
+variational inference
+varimax
+vector algebra
+vector quantisation
+Viterbi
+Viterbi algorithm
+Viterbi alignment
+Voronoi tessellation
+modelling
+website
+analysis
+whitening
+Woodbury formula
+XOR function
+zero-one loss

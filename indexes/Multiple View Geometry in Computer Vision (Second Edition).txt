@@ -1,0 +1,1789 @@
+absolute conic 5–6, 9, 16–18, 78, 80–84, 195, 209–210, 224,
+
+272–277, 340, 458, 461, 464, 471, 475, 485, 487, 500
+
+relation to orthogonality 83
+
+absolute dual quadric 83–85, 458, 462, 466–467, 469,
+
+472–473, 475, 477
+
+absolute dual quadric 83–84, 463
+absolute dual quadric
+
+extracting the rectifying transform 463
+properties 462
+simple properties 462
+
+adjoint matrix 31, 581
+afﬁne camera 14, 166, 169, 172–174, 176, 184–185, 271, 344,
+
+347, 355, 413, 425, 432, 436–437, 440–441, 520
+
+afﬁne camera
+
+counting arguments 425
+decomposition 169
+deﬁnition 166
+deﬁnition 166
+error in employing 168
+estimation of 184
+hierarchy of 170
+more properties 172
+
+afﬁne fundamental matrix 298, 308, 345, 347–349, 351–353,
+
+360–361, 390, 413, 439
+
+afﬁne fundamental matrix
+algebraic derivation 347
+derivation 345
+geometric derivation 345
+geometric interpretation 349
+Gold Standard algorithm 349
+linear algorithm 348
+minimal conﬁguration 352
+properties 347
+singularity constraint 349
+
+afﬁne geometry. 3
+afﬁne imaging 169
+afﬁne imaging conditions 346
+afﬁne imaging model 169
+afﬁne matrix 40, 98, 347
+afﬁne matrix 62
+afﬁne multiple view tensors
+
+computation 439
+
+afﬁne properties 43, 49–50, 55, 62, 79–81, 220, 223
+afﬁne properties of reconstruction 81
+afﬁne properties
+
+recovery from image 49
+
+afﬁne reconstruction 10, 261, 266, 268–272, 274, 277, 339,
+351, 355–356, 360, 434, 436–437, 439–440, 456, 459,
+
+473, 475–476, 479, 487, 489, 496, 498, 515, 521, 525,
+528
+
+afﬁne reconstruction by alternation 440
+afﬁne transformation 39
+algebraic distance 93–94, 96–97, 186, 279, 308
+algebraic distance
+
+comparison with geometric distance 95
+
+algebraic error
+
+minimizing 186
+
+algebraic minimization 107, 289, 400
+algebraic solution
+limitations 468
+
+ambiguities
+
+auto-calibration 478
+
+ambiguity 480
+ambiguity
+
+afﬁne 438–439, 442, 444
+auto-calibration 473
+bas-relief 356–359, 633
+examples 543
+for 2D cameras 535
+for 3D cameras 536
+for three views 554
+Necker reversal 356
+of auto-calibration 473, 479–480
+of auto-calibration
+
+for a sequence 480
+
+projective 265, 387
+single view 549
+two views 552
+
+angle
+
+between two lines in image 215
+between two planes 83, 85, 218, 236
+between two rays 9, 195, 209–210, 213, 215, 223, 265
+between two scene lines 215
+of rotation 204–205, 628
+
+angle-axis parametrization 584–585, 624–625
+augmentation 601
+auto-calibration – see also reconstruction metric, 18, 58, 86,
+205, 210, 253, 340, 439, 453, 456, 458–459, 461–465,
+469, 473–474, 476–479, 481, 483, 485–486, 490,
+496–500
+
+auto-calibration 274
+auto-calibration
+
+ambiguities 478
+critical motion sequences 497
+ﬁnding plane at inﬁnity 473
+from planar motion 496
+implementation 485
+iterative methods 467
+limitations of absolute dual quadric method 468
+
+646
+
+metric from afﬁne 475
+numbers of views needed 467
+of stereo rig 494
+problems if Q∗∞ not positive-deﬁnite 469
+removing ambiguity 479
+removing the ambiguity 479
+solving for Q∗∞
+linear 464
+non-linear 466
+solving forQ∗∞
+
+non-linear 466
+
+typical ambiguities 480
+using Q∗∞ 463
+varying parameters 477
+
+auto-epipolar 249, 260
+axis planes of camera 160, 199
+
+B
+back-projection
+of conics 199
+of lines 197
+of points to rays 161
+
+banded data 614
+bas-relief ambiguity 356
+bias 109, 150, 184, 302, 321, 568, 570–577
+
+dependency on parametrization 571
+lessons 572
+
+bundle adjustment 14, 397, 434–435, 444, 452–453, 461, 467,
+
+498, 611
+
+bundle adjustment 434
+bundle adjustment
+
+banded structure 614
+incremental 453
+initial solution 435
+sparse methods 435
+with missing data 611
+
+C
+calibrating conic 195
+orthogonality 231
+
+calibration constraints 477
+calibration constraints
+
+known internal parameters 273
+same camera in all images 273
+
+calibration matrix 157, 163–165, 167–168, 170, 190, 204, 209,
+
+212, 215, 224, 226, 231, 257, 264, 273, 275, 459–460,
+463–464, 469, 485, 489
+
+calibration
+
+internal 176, 185, 210, 220, 233, 239, 355, 486, 489–490
+what does it give? 208
+
+camera anatomy 158
+camera calibration 6, 17, 21, 155, 185, 191, 195, 208, 212,
+216, 219, 222, 224, 228–230, 233, 235, 262, 268, 278,
+293, 340, 355, 444, 458–459, 473, 482, 511, 595
+
+camera centre 163
+camera centre
+
+ﬁnding it 163
+moving 207
+camera matrices
+
+compatible with two fundamental matrices 386
+computation from F 263
+computed from three fundamental matrices 386
+deﬁned by three fundamental matrices
+
+uniqueness 385
+
+camera matrix
+
+canonical form 254
+computation 263
+decomposition 163
+in projective space 165
+reduced – see reduced camera matrix
+
+Index
+
+647
+
+camera motion
+
+recovering it 444
+
+camera orientation 156, 205, 210, 623
+
+ﬁnding it 163
+
+camera parameters 147, 156, 164, 170, 182, 185–188, 193,
+
+232, 399, 435, 444, 458, 467, 602, 610–611, 627
+
+camera resectioning
+
+covariance 188
+degenerate conﬁgurations 179
+from ﬁve points 549
+minimal solution 179
+over-determined solution 179
+
+camera rotation 155
+camera translation 204, 249–250
+camera translation 155
+camera
+
+afﬁne – see afﬁne camera
+afﬁne 172
+at inﬁnity 173
+basic pinhole model 153
+calibrated 193, 209, 231, 234
+CCD 156
+centre 158
+ﬁnite 170
+ﬁnite projective 157
+general projective 157
+known orientation 448
+line 175
+pinhole model 153
+projective 7, 153, 157–159, 161, 165–166, 173–176,
+184–185, 193, 208, 213, 253, 361, 459, 509, 518
+
+projective
+
+action on points 161
+
+pushbroom 174
+resection ambiguity 550
+rotation 195, 204, 207, 215, 250, 489
+rotation and translation 155
+
+cameras
+
+as points 533
+
+Carlsson–Weinshall duality 505, 513, 546
+Carlsson–Weinshall map 546–547, 549
+Carlsson–Weinshall map
+
+deﬁnition 546
+
+caution 227
+central projection 6–7, 34, 37, 153–154, 165, 175, 200, 632
+central projection 154
+change of coordinates 2, 106, 137, 299, 472, 566, 577
+change of coordinates 566
+Chasles’ theorem 535
+cheiral inequalities
+
+solving 526
+
+Cholesky factorization 211, 225–226, 272–273, 275, 277, 469,
+
+582
+
+choosing the depths 445
+circular points 5–6, 18, 25, 44, 48, 52–57, 61–63, 79, 82, 85,
+
+211, 226, 229, 235, 341, 485–491, 495, 500–501, 628
+
+circular points 52
+cofactor matrix 581
+collineation – see also projective transformation, 32–33, 65,
+
+631
+
+column vector 26, 143, 154, 158, 448, 578, 581, 603
+column vector 159
+compatibility conditions 385
+computing a plane
+
+from point and line correspondence 332
+from three point correspondences 330
+
+computing vanishing lines 218
+concurrent lines 45–46
+concurrent lines 45
+condition number 108, 439
+
+648
+
+conic 30
+conic ﬁtting 127, 229, 297
+conic
+
+afﬁne classiﬁcation 60
+analog for fundamental matrix 97
+classiﬁcation 59
+deﬁned by 5 points 30
+degenerate 32
+dual – see also dual conic
+dual 31
+dual to circular points 53
+projective normal form 59
+projective normal form of 59
+tangent lines 31
+transformations of 36
+
+conjugacy 59, 83, 212–213, 228–229, 494, 628
+conjugacy relation 494
+conjugate conﬁgurations – deﬁnition 540
+consistency conditions 331
+constraints
+
+from internal parameters 273
+from same amera 273
+from scene orthogonality 273
+contour 200–201, 234, 300, 322
+contour generator 200–202, 233–234, 295
+contour generator – deﬁnition 200
+contour
+
+apparent 200–202, 233–234, 236
+occluding 200
+
+convex hull 515
+coordinate orientation 164
+coordinates. 2
+coplanarity constraint 276, 422
+correlation 59, 124, 148, 242, 246, 388, 447, 455, 486
+correlation – deﬁnition 59
+correspondence
+
+of curves and surfaces 295
+of lines 294
+
+correspondences
+
+determining 124
+corridor scene 289
+corridor scene 302
+cosine formula 209
+cost function 88, 90, 93–95, 98–99, 101–104, 110–114,
+
+121–123, 125, 129, 134, 187, 191, 284, 287–289, 291,
+308, 310, 312, 314–315, 318–319, 349–351, 386,
+397–399, 404, 435, 462, 467, 485, 496, 498, 513, 597,
+599–602, 607, 616–624, 626
+
+cost function 88, 102, 110, 112, 279, 285, 602, 619, 621
+cost function
+
+heuristic 618
+Huber 617, 619–622
+least squares 621
+non-convex 619
+performance 620
+properties 619
+robust 122
+squared error 619
+statistically based 618
+
+cost functions
+
+asymptotically linear 619
+linear 100
+robust 122
+summary 620
+
+counting argument 18, 43, 63, 255, 383, 387, 411, 425,
+
+427–428, 451, 461
+counting argument 427
+covariance estimation 608
+covariance estimation
+
+camera resectioning 188
+
+Index
+
+covariance
+
+backward propagation 141
+backward propagation
+
+over-parametrized case 142
+
+estimation 188
+forward propagation 139
+matrix 103, 111, 129, 137, 139–146, 148, 150, 188–189,
+
+282, 298–301, 565–566, 573, 576–577, 598, 603–607,
+609–611, 623
+
+of epipolar lines 301
+use in point transfer 148
+
+Cram´er-Rao lower bound 573
+critical conﬁgurations 11, 179, 533–534, 538, 544, 554, 559
+
+examples 544
+
+critical motion sequences 497
+critical set 537
+
+for 2d camera
+
+deﬁnition 536
+
+for 2D cameras 535
+
+critical surface
+
+for three views 553
+
+cross product 581
+cross ratio 42, 44–46, 49, 51, 63, 534–535, 629–631
+cross ratio 44
+
+D
+deﬁcient-rank systems. 589
+degeneracy 92, 226, 228, 293, 295–296, 323, 342, 381–383,
+
+499, 546, 559
+
+degeneracy 225, 234, 295–296, 329–330, 352, 456, 498
+degeneracy
+
+of triangulation 323
+transfer 383
+
+degenerate conﬁguration
+
+for resectioning 179
+for transfer 382
+
+degenerate conﬁgurations – see also camera resectioning,
+
+transfer, homography 2D estimation
+
+degenerate conﬁgurations 127, 179, 341, 352, 443, 468, 545,
+
+559
+
+degenerate conﬁgurations
+
+2D homography 91
+
+degenerate homographies 334
+degrees of freedom (dof) 27
+degrees of freedom (dof)
+of trifocal tensor 368
+
+degrees of freedom
+
+trifocal 368
+
+depth of points 162
+derivative matrix
+
+computation 145
+
+determining the correct convergence of an algorithm 138
+determining the intersection 27
+DIAC – see dual image of the absolute conic
+direct metric reconstruction using (cid:2) 275
+direct motion estimation 450
+direct solution for structure and translation 448
+distance ratio 270
+distance ratios
+
+on a line 270
+
+distortion correction 191
+distortion function 191
+
+choice 191
+computing 191
+
+distortion
+
+correction 191
+
+DLT – see also homography computation, transformation
+
+invariance, triangulation
+
+DLT 90–91, 93, 96, 104–110, 116, 127, 150, 179–184, 187,
+
+193–194, 276, 312, 424, 510–511, 573, 587, 595
+
+DLT algorithm
+
+non-invariance 105
+using line correspondences 180
+
+dual absolute quadric
+
+computing
+
+assuming zero skew 466
+limitations 468
+with constrained parameters 466
+
+equivalence to calibration 463
+linear solution 465
+specifying linear constraints 464
+
+dual circular points 52
+dual conic 31–32, 37, 53–55, 64, 475
+dual conic 30
+dual image of the absolute conic 464–466, 477
+dual image of the absolute conic
+
+deﬁnition 210
+
+dual quadric 73
+dual reconstruction algorithm 504–506
+dual reconstruction algorithm 503
+dual reconstruction algorithm
+
+justiﬁcation 507
+
+dual
+
+of absolute conic – see absolute dual quadric
+of circular points 53
+
+duality 29–31, 66, 207, 456, 503, 507, 514, 546, 548–550, 552
+duality 29
+duality principle 548
+
+E
+eigenvalue extraction
+
+Jacobi’s method 581
+
+elation 43, 62, 341, 631–633
+elliptic quartic 556–558, 560
+epipolar distance 288
+epipolar envelope 301–303
+epipolar line – see also epipolar lines, 46, 208, 240–249,
+
+251–253, 263, 269, 288, 291, 295, 298–299, 301–306,
+308, 311, 315–318, 324, 328, 332, 334–335, 340,
+344–348, 352–353, 358–360, 372–374, 380–385, 400,
+406, 443, 470
+
+epipolar line 347
+epipolar line correspondence 251
+epipolar line homography 246
+epipolar line
+afﬁne 344
+
+epipolar lines 240–243, 245–247, 249, 280, 298, 300–303,
+305, 307, 315–316, 328, 342, 345–347, 358–360, 371,
+373–374, 380, 384–385, 392, 470
+
+afﬁne cameras 344
+
+epipolar transfer
+
+degeneracies 380
+
+epipoles 240–242, 244, 251–252, 260, 264–266, 280,
+
+286–287, 289, 307, 317–318, 320, 322, 328, 347, 361,
+366, 371, 373, 375, 380–382, 384–385, 395–396, 404,
+413, 471, 487–490
+
+epipoles
+
+as parameters 286
+as tensors 413
+for afﬁne cameras 344
+retrieval from trifocal tensor 395
+retrieving 395
+
+error
+
+algebraic 88, 93–95, 98, 100, 106, 134, 179, 183–187, 229,
+
+283–284, 288, 391, 395–396, 399–400, 467
+
+algebraic
+
+camera resectioning 186
+geometric interpretation 183
+
+geometric 98, 100–101, 103, 105, 107, 114, 130, 134,
+
+181–182, 184, 186, 287, 318, 391, 398–399, 436, 438
+
+Index
+
+649
+
+in both images 101, 103, 134, 137, 147
+in one image 94, 102, 112–113, 133, 136, 145
+minimizing algebraic 129, 186, 288, 290
+minimizing geometric 106–107, 130, 181, 290, 400
+reproduction 112
+reprojection 95–97, 103, 112–113, 130, 291, 312, 314, 343,
+
+355, 401, 406, 434–435, 437
+
+residual 115–116, 133–139, 150, 188, 288, 290, 400, 513
+transfer 94–96, 98, 342
+
+essential matrix 257–262, 275, 294, 356
+
+computation of 294
+deﬁnition 257
+extraction of cameras from 258
+four solutions 259
+properties 257
+
+estimation error 135–139
+estimation problem 568
+estimator 109, 117, 122, 135–136, 145, 303, 310, 568–575,
+
+577
+
+Euclidean and afﬁne interpretations 165
+euclidean geometry. 4
+Euclidean transformation
+
+ﬁxed points 495
+
+extending the baseline 452
+exterior orientation 187
+exterior orientation of camera 187
+extracting the fundamental matrices 374
+
+F
+factorization 14, 211, 258–259, 351, 355, 406, 434–437,
+
+439–446, 449, 456, 463, 579, 583, 585, 615
+
+non-rigid 442–443, 456
+
+feature detection 192
+Fisher information matrix 573, 577
+ﬁxed points 487, 491
+ﬁxed points of a Euclidean transformation 495
+ﬁxed points
+
+of Euclidean transformation 495
+
+focal length 16, 21, 36, 157, 166–167, 169, 183–184,
+189–190, 192–194, 203, 227–228, 231, 234, 265,
+466–469, 472, 484, 486, 497, 499–500, 568
+
+forward projection 197
+forward projection 161
+forward projection
+
+of lines 196
+of quadrics 201
+
+Frobenius norm 108, 259, 280–281, 294, 467
+fundamental matrix
+
+afﬁne – see afﬁne fundamental matrix
+algebraic derivation 243
+algorithm results and recommendations 400
+both epipoles as parameters 286
+computation 263
+computation from seven points
+connection to quadrics 545
+
+computation
+
+from seven points 281
+from two planes 337
+Gold Standard algorithm 284
+Maximum likelihood 284
+
+condition for point correspondence 245
+consistency conditions 331
+covariance 610
+deﬁnition 245
+degeneracies
+
+no translation 297
+points on a plane 553
+points on a ruled quadric 296
+derivation from four planes 422
+epipolar parametrization 286
+
+650
+
+Index
+
+extraction of canonical cameras 255
+for planar motion
+
+computation of 14, 78, 86, 247, 250, 252–253, 260–261,
+
+293, 341, 389, 457–458, 486–490, 495, 497, 499
+
+form of 250, 252
+
+for translation
+
+computation of 247
+form of 247
+
+geometric derivation 242–243
+geometric derivation 242
+iterative estimation 283
+over-parametrization 286
+parametrization of 285
+parametrization of
+
+over-parametrization 286
+
+projective ambiguity given F 254
+projective invariance of 253
+properties 245
+reduced 433, 508–512
+reduced
+
+computation of 509
+
+Sampson method for estimation 287, 398
+singularity constraint 280
+symmetric part 251
+
+G
+gauge freedom 623
+Gaussian
+
+distribution 102–103, 135, 137, 143–144, 299–301, 565,
+
+569–570, 572, 598, 618
+
+distribution
+
+isotropic 134–136
+
+error 100, 102, 111, 116, 122, 150, 314
+noise 109, 132–133, 136, 145, 289, 301, 303, 315,
+
+320–321, 399–400, 436, 571, 575, 616
+
+general motion 204, 239, 249–250, 252–253, 293, 406,
+
+467–469, 473, 491, 494, 496, 498–499
+
+general position 31–32, 35, 44, 63, 66–67, 73, 76, 92–93, 131,
+
+296, 326, 336, 341, 349, 352, 384, 393, 406, 411, 425,
+533, 539, 545
+
+general position 352
+generator
+
+of quadric 75
+
+geometric distance 94
+geometric error – see also error geometric
+
+camera resectioning 186
+invariance to coordinate transforms 106
+
+geometric interpretation 63, 72, 98, 234, 461, 464, 476
+geometric interpretation 334, 349
+geometric interpretation
+
+of estimation 101
+
+geometric minimization 114, 187–188
+geometric representation 80, 82–84, 213, 246, 250, 252–253,
+
+463
+
+Givens rotation 579
+Gold Standard algorithm 88, 114–116, 130, 181–182, 185,
+284–285, 287–289, 293, 303, 310, 344, 349, 351, 397,
+399–401
+
+Gold Standard algorithm
+
+for afﬁne fundamental matrix 349
+for afﬁne homography 130
+for fundamental matrix 284
+for homography 114
+for trifocal tensor 396
+
+gradient descent 599
+ground truth 223, 228, 320, 360
+groups of projectivities 39
+guided matching 125, 401
+
+H
+
+Hessian 599–600
+hierarchical merging 453
+homogeneity. 2
+homogeneous representation 27, 30, 33, 65–66, 159, 163, 175,
+
+446, 516, 518
+
+of lines 26
+of points 27
+
+homogeneous scaling 115, 224
+homogeneous vector 2, 27–28, 51, 65, 88, 90, 144, 154, 249,
+
+317, 447, 623, 625
+
+homographies
+
+what do they say about the camera matrices? 448
+
+homography estimation
+
+approximate solution 88
+conic analogue 97
+degenerate conﬁgurations 91
+DLT 90
+error in both images 134, 147
+error in one image 94, 102, 112–113, 133, 145
+errors in world points 182
+experimental evaluation 187
+from noisy points 332
+function speciﬁcation 111
+Gold Standard algorithm 88
+inhomogeneous solution 90
+initialization 14, 110, 113–114, 400, 435, 621
+iterative methods 114
+linear cost function 100
+over-determined solution 90
+parametrization 110
+symmetric transfer error 94, 112
+using RANSAC 124
+
+homography
+
+2D 91, 93, 99–101, 105, 109, 114, 123, 129, 133, 142, 145,
+
+148, 180–181, 183, 188, 243, 270, 297, 602, 607,
+609–610
+3D 423, 508
+compatible with epipolar geometry 327
+degenerate 334
+induced by a plane 368
+
+homology
+
+parametrization of 630
+planar harmonic 631
+
+horopter 77, 251–253, 343, 487–488, 550–551
+horopter 550
+Householder matrix 128, 147, 268, 431, 580, 625–626
+Huber cost function 617, 619–622
+hyperboloid – see quadric, 74–75, 86, 296, 543–545, 548,
+
+552–553, 559
+
+I
+IAC – see image of the absolute conic
+IAC
+
+advantage over DIAC 477
+
+ideal point 28
+image of the absolute conic 9, 17–18, 210, 215, 231, 233, 236,
+
+272–273, 275, 461, 469, 473, 475–479, 487
+
+image of the absolute conic
+
+connection to calibration 209
+
+image plane
+
+moving it 203
+
+image-equivalent conﬁgurations
+
+deﬁnition 535
+
+incidence relations 66, 367, 370–372, 376–377, 379, 422
+incidence relations
+
+for lines 365
+
+independently moving objects. 442
+inﬁnite homography 205, 250, 270–271, 274, 276, 325,
+
+338–339, 341, 473, 475, 479–483, 496, 498, 500
+
+inﬁnite homography 270, 475
+
+Index
+
+651
+
+inﬁnite homography constraint
+
+relationship to Kruppa equations 481
+
+inﬁnite homography
+
+deﬁnition 338
+
+inhomogeneous method 313
+initialization
+
+for camera resectioning 187
+
+interest points 123–125, 290–291, 400–401, 403, 452–453,
+
+468
+
+internal parameters 163, 167, 178, 187, 195, 204, 210, 228,
+239, 247–248, 250, 264, 269, 273–274, 276, 339, 365,
+439, 444, 458–459, 461–462, 464, 466, 468–469,
+471–473, 475–479, 481–486, 489–490, 492–493,
+495–500
+of camera
+
+ﬁnding them 163
+
+intersection
+
+of lines 27, 253, 269, 373
+of parallel lines 28
+
+invariance to image coordinate transformations 104
+invariants 38–39, 41, 43–44, 63, 77, 176, 266, 489–490, 532,
+
+628
+
+invariants 38–40, 42
+invariants
+
+of a transformation 38–40, 42
+
+isometries 38
+iteration
+
+weighted 598
+
+iterative algorithms 533
+iterative methods 114, 461, 485
+iterative minimization 110–113, 121–122, 128, 181, 186–187,
+
+191, 193, 406, 462, 469
+
+J
+Jacobi’s method 581
+Jacobian 132, 140, 142, 144–145, 147–148, 188, 299, 301,
+305, 315, 523, 598, 602–604, 606–607, 610–612, 626
+
+K
+Klein
+
+Erlangen Program 32
+
+known principal point 467, 472, 477
+Kruppa equations 458, 469–474, 481, 498, 500
+Kruppa equations
+
+relationship to inﬁnite homography 481
+
+L
+least squares 110
+least squares solution 589, 597
+least-squares problems 592
+least-squares solution 589, 597
+least-squares solution
+
+of constrained systems 594–595
+using normal equations 591
+weighted 592
+
+least-squares solutions
+
+full rank case 588
+
+length ratios 6, 41, 43, 51, 54–56, 221–222, 270
+Levenberg-Marquardt 111, 186, 285, 398, 600–604, 606–609,
+
+616, 621
+
+Levenberg-Marquardt
+
+covariance 604
+implementation 602
+justiﬁcation 601
+sparse 603, 606
+
+line at inﬁnity 2–6, 10, 25, 28–29, 43–44, 48–50, 62, 79, 81,
+
+91, 160, 218, 518, 632
+
+line at inﬁnity 28, 48
+line correspondences 92, 131, 180, 391–392, 394, 396, 398,
+
+406, 411, 424, 428, 432, 447, 450, 532
+
+line estimation 117, 233
+line projection matrix
+
+deﬁnition 198
+
+line reconstruction 323
+line transfer 377
+line transfer 382
+linear equations
+
+systems of unknown rank 589
+
+linear solution 465
+lines
+
+concurrent 45
+parallel 269
+representation 68, 393
+transformations of 36
+
+M
+Mahalanobis
+
+distance 103, 112, 137, 141, 183, 282, 398, 565–566, 598,
+
+603
+
+norm 100, 129, 143
+
+matching
+
+using trifocal tensor 123, 126–127, 291–292, 401–403, 455
+
+matrix
+
+Euclidean 62
+orthogonal
+
+norm-preserving properties 578
+
+skew-symmetric part 251
+symmetric 590
+symmetric part 251
+
+Maximum likelihood estimate 114, 127, 134, 144, 181,
+184–185, 216, 279, 284–285, 291, 312, 323, 332,
+349–351, 353, 397, 403, 437, 439, 456, 569, 616, 620
+
+Maximum likelihood estimate
+
+robust 121, 125
+
+Maxmimum likelihood estimate
+
+robust 125
+
+measurement matrix
+
+reduced 186
+
+metric calibration 495
+metric properties 25, 48, 53, 55, 79, 82–84, 266, 458
+metric properties of reconstruction 82
+metric properties
+
+recovery from images 55
+
+metric reconstruction
+
+via the inﬁnite homography 475
+metric rectiﬁcation 55–57, 236, 479
+metric rectiﬁcation 55
+metric structure 39
+metric structure : structure
+
+metric 39
+
+metric-calibration
+
+of a stereo rig 495
+
+minimal solution 91–92, 113, 181, 193–194, 279, 348, 352,
+
+406
+
+minimization
+
+iterative 435
+
+MLE – see Maximum likelihood estimate
+modulus constraint 473–474, 499
+modulus constraint 473
+multiview tensor
+
+afﬁne 439
+
+N
+Necker reversal 356
+Necker reversal ambiguity 356
+Newton iteration 111, 114, 597, 599–601, 616, 621
+newton’s method and the hessian. 598
+non-collinearity conditions 386
+non-isotropic scaling – see scaling – non-isotropic
+non-rigid factorization 442–443, 456
+
+652
+
+non-zero skew 164
+norm
+
+in vector space 592
+
+normal equations 440, 591, 598–604, 611–612, 614, 623
+normalization 91, 94, 97, 107–110, 127, 129, 146, 179–181,
+185, 259, 281–282, 284, 313, 391–392, 394, 396, 446,
+513, 618, 624
+
+for camera resectioning 180
+for trifocal tensor 394
+why is it essential? 107
+normalized coordinates 257
+normalized coordinates
+
+for calibrated camera 257
+
+normalizing transformation 105, 107, 282, 394
+note. 574
+null-space 67–70, 72, 76, 90, 144, 158, 175, 179, 198–199,
+234, 258, 280–281, 283, 296, 299, 309, 348, 367, 374,
+405, 451, 471, 480, 538, 582, 591
+
+numbers of equations generated. 451
+
+O
+orientation – see also camera orientation
+orientation 11, 30, 37–39, 41–42, 47–48, 105, 156, 163–165,
+
+167, 174, 186–187, 193, 210, 215–216, 218, 230–231,
+262, 264, 273, 301–302, 358, 427, 448, 486, 490, 493,
+496, 523, 531
+orthogonal matrices
+
+norm-preserving properties 578
+
+orthogonal regression 351, 489
+orthogonal regression 406
+orthogonality and (cid:2) 212
+orthogonality in the image 213
+orthogonality relationships 219
+orthographic projection 170–172, 174, 177, 456
+over-parametrization 142
+over-parametrization 70, 141–143, 177, 286, 435, 597, 605
+
+P
+parallax 204, 207–208, 325, 334–337, 339–340, 352–353,
+
+388, 404, 407
+
+induced by a plane 335
+
+parallel lines 1–2, 4, 9, 25, 28–29, 34, 39, 41, 44, 49–50, 65,
+
+86, 174, 176, 215, 217–219, 226, 247–248, 269–270,
+293–294, 496
+
+parallel projection 153, 170, 172–173, 200, 344, 346,
+
+356–357, 361
+
+parameter minimization 620
+parameter space 113, 134, 141–143, 145, 475, 498, 568, 570,
+
+572, 574, 577, 623–624
+
+parameters
+
+constant internal 466
+limit range 570
+
+parametrization 76, 100, 110–111, 113–114, 127, 134, 141,
+164, 181, 186, 284–286, 293–294, 316, 392, 398, 406,
+467, 491, 499, 512, 568–569, 572, 574, 576, 579, 597,
+610, 623–626, 633
+
+epipolar 286
+of 3D rotations 624
+of homogeneous vectors 624
+of homology 630
+of the n-sphere 625
+what makes a good one? 623
+
+Pl¨ucker
+
+coordinates 72–73, 86, 197
+line coordinates 72, 198–199, 233
+line representation 197
+matrix 70, 198
+
+planar harmonic homology 64, 631
+planar harmonic homology 631
+planar homology
+
+Index
+
+parametrization 630
+
+planar motion
+
+ﬁxed image points 487
+
+planar projective transformation
+
+deﬁnition 33
+
+plane at inﬁnity 2–4, 6, 9, 16–18, 78, 80, 82–85, 160–162,
+166, 172–173, 175, 195, 209, 214, 268–272, 274–277,
+313, 338, 347, 353, 425–426, 448–449, 458, 460–461,
+463, 471, 473–475, 481, 487, 489, 494–496, 500, 515,
+517, 519, 521–522, 527–528, 530
+
+computation 495
+methods of ﬁnding 474
+
+plane induced parallax 335–336
+plane induced parallax 335
+plane plus parallax 404
+plane plus parallax reconstruction
+
+counting arguments 425
+
+plane
+
+deﬁned by three points 66
+homogeneous vector representation 66
+
+point equations
+
+recommended method 431
+
+point transfer
+
+using fundamental matrix 380
+using trifocal tensor 381
+
+point
+
+deﬁned by three planes 67
+
+points on a plane 296
+polarity 83
+pole–polar relationship 58
+positive deﬁnite matrix 598
+positive-deﬁnite matrix
+
+symmetric 582
+
+preserve the convex hull – deﬁnition 515
+principal axis vector 158
+principal axis vector 161
+principal plane 154, 158, 160–163, 165, 173, 183, 199, 215,
+
+271, 323, 414, 418, 425, 456–457, 518–519, 530
+
+principal plane 160
+principal plane
+
+of camera 160
+
+principal point 16, 21, 154–155, 157–158, 160–161, 163, 168,
+
+170, 185, 191, 203–204, 226–228, 231–232, 235–236,
+260, 464–467, 469, 475, 477–478, 480, 484, 486, 492,
+498–499
+
+principal point 160
+principal point offset 155
+probability density function 569
+proﬁle
+
+of a surface 200
+
+programming hint 129, 399
+projection
+
+orthographic 171
+parallel 170
+scaled orthographic 171
+weak perspective 171
+projective ambiguity 265
+projective camera
+
+action on conics 199
+action on lines 196
+action on planes 196
+deﬁnition 157
+
+projective depth 407, 444–447
+projective depth 336
+projective factorization
+
+normalizing image coordinates 446
+normalizing the weights 446
+what is being minimized 446
+
+projective plane model 29, 47
+projective plane
+
+model 29
+topology 47
+
+projective realization – see realization – projective
+projective reconstruction
+
+dual algorithm 504
+from reduced cameras matrices 509
+from seven points in n views 512
+from six points 510
+from six points in n views 511
+
+projective transformation 68
+projective transformation
+
+decomposition of 42
+
+projectivity
+
+deﬁnition 32
+
+pseudo-inverse 144–145, 147, 161, 185, 244, 246, 347–348,
+
+440, 566, 590–592, 595, 598, 605, 610, 626
+
+Q
+QR decomposition 186, 578–580
+quadric 6, 72–76, 83–85, 97, 176, 195, 199–202, 234, 267,
+
+295–298, 309, 340, 462–464, 473, 499, 541–549,
+552–560
+
+dual – see dual quadric
+ruled 543, 549, 557
+ruled
+
+deﬁnition 75
+
+quadrics 73
+quadrics
+
+classiﬁcation of 74
+
+quadrifocal tensor 13, 411, 421, 423, 426, 432–433, 450
+quadrifocal tensor
+
+derivation from four planes 421
+
+quartic 97, 474, 559
+quasi-afﬁne mapping
+
+deﬁnition 517
+two-dimensional 518
+
+quasi-afﬁne reconstruction
+
+algorithm 527
+bounds on (cid:0)∞ 527
+
+quaternions 585
+quaternions 585, 624–625
+
+R
+radial distortion 188–193, 223
+
+estimating 191
+
+RANSAC 88, 114, 117–118, 121–124, 126–128, 193,
+
+290–292, 352, 391, 400–403, 620
+
+RANSAC
+
+adaptive 120
+application domain 125
+distance threshold 118
+for 2D homography 124
+for homography 124
+number of samples 119
+run details 125
+size of consensus set 120
+
+realizable points
+deﬁnition 503
+
+realization 503
+realization
+
+deﬁnition 503
+strong 524
+
+realizations
+
+equivalent
+
+deﬁnition 540
+
+non-equivalent 541
+oppositely oriented 526
+
+recommendations 289
+reconstruction
+
+afﬁne – see afﬁne reconstruction
+
+Index
+
+653
+
+afﬁne 339
+afﬁne properties 81
+afﬁne
+
+from afﬁne camera 271
+from scene constraints 269
+from translation 268
+
+Euclidean 19, 266–267, 526
+metric – see also auto-calibration
+metric 268, 272–277, 339, 439, 454, 458–461, 463–464,
+
+467–468, 473, 476, 479, 481, 488–490, 492, 497–499,
+520, 532
+
+metric properties 82
+projective 13, 16–18, 150, 239, 266–268, 270–271,
+
+275–277, 310–312, 320, 330, 339, 387, 398, 434,
+445–446, 448, 453, 456, 458–464, 467, 475, 479, 485,
+489, 491, 495–496, 502–503, 506, 508, 511, 514–515,
+519–521, 525–531, 535, 539–540, 602, 627
+
+quasi-afﬁne 475, 515, 517–521, 523, 525–528, 530, 532
+
+rectifying homography 463
+reduced camera matrix 207
+reduced camera matrix
+
+deﬁnition 502
+
+reduced fundamental matrix – see fundamental matrix –
+
+reduced
+
+reduced measurement matrix 186
+reduced measurement matrix 186
+reduced trifocal tensor – see trifocal tensor – reduced
+relation
+
+bilinear 419
+quadrilinear 420
+trilinear 391, 397, 414–417
+
+reprojection error 401
+reprojection error
+both images 95
+geometric interpretation 96
+
+resection 276, 424, 435, 453, 533–534, 536–539, 549–550,
+
+553, 558, 587
+
+resectioning – see camera resectioning, 77, 178, 453, 536–537,
+
+559
+
+covariance estimation 188
+degenerate conﬁguration 179
+initialization 187
+normalization 180
+
+residuals 187, 192, 194, 216, 298, 472
+retrieving the camera matrices 374
+robust algorithms 122
+robust methods 88, 113, 117–118, 121–123, 125, 128, 281,
+291, 352, 391, 393, 401, 455, 514, 597, 617, 619, 622
+
+Rodrigues formula 585
+rotations
+
+in n dimensions 583
+in 3 dimensions 583
+row vector 26, 521, 578
+row vector 159
+
+S
+Sampson approximation 99, 113–114, 287, 291, 308, 314,
+
+349, 391, 398, 401
+Sampson distance 287
+Sampson error 98
+scaled orthographic projection 171
+scaling
+
+isotropic 62, 107, 445
+non-isotropic 109
+with points near inﬁnity 110
+
+scene constraints
+distance ratios
+
+on a line 270
+parallel lines 269
+scene orthogonality 273
+
+654
+
+Index
+
+screw axis 78–79, 86, 253, 487–488, 490, 500
+screw decomposition of a rigid motion 77–79
+similarity matrix 62
+similarity transformation 39, 43, 53, 107, 184
+Singular Value Decomposition 40, 55, 70, 91, 108, 163, 186,
+225, 258, 280–282, 294, 308, 344, 430, 437–439, 442,
+444–445, 469, 471, 585–590, 592–596
+
+Singular Value Decomposition
+
+computational complexity 586
+implementation 439, 586
+
+singular values
+
+relation to eigenvalues 586
+
+singularity constraint 281–282, 288, 349
+singularity constraint 349
+skew-symmetric part 250–252
+skyline structure 615–616
+solution
+
+over-determined 179
+
+space curve 295
+span representation 70, 322
+sparse linear systems
+
+solution 615
+special points 5
+stability 469
+stereo correspondence 240
+stereo correspondence 340
+stereo rectiﬁcation 47, 49–50, 228–230, 249, 279, 302–303,
+
+308–309, 339, 479
+
+stereo rectiﬁcation
+
+afﬁne 308
+algorithm outline 307
+mapping the epipole to inﬁnity 303
+matching transforms 305
+
+stereo-rig
+
+metric calibration 495
+
+stratiﬁcation 276–277
+stratiﬁcation 57
+stratiﬁed reconstruction
+
+afﬁne 268
+metric 272
+
+structure
+
+afﬁne 9, 356, 481, 570, 573
+metric 233, 276, 461, 491, 611
+projective 19, 386, 423, 426, 448, 494, 535
+
+subspaces and tensors 442
+SVD – see Singular Value Decomposition
+symmetric epipolar distance 287
+symmetric linear equations 614
+symmetric linear equations
+
+sparse 615
+
+symmetric matrices 590
+symmetric part 250–252, 261, 293, 489, 541
+symmetric transfer error 94, 112
+synthetic data 132, 138, 399, 572
+
+T
+tangent line
+
+to conic 31
+
+tensor notation 376
+tensor
+
+pictorial representation 564
+
+terminology 172, 240, 445
+topology of IP1 47
+total least squares 110
+transfer 14, 16, 94–98, 109, 113, 123–124, 131, 143, 147–150,
+
+221–222, 242–243, 270, 274, 299, 318, 325, 336, 338,
+340, 346, 365, 368–369, 374, 377, 379–383, 385, 388,
+392, 398, 462, 473, 476, 485
+
+transfer
+
+degenerate conﬁgurations 382–383
+
+transformation invariance 129
+transformation invariance 184
+transformation invariance
+
+of DLT 184
+
+transformation rule 36–37, 53–54, 63, 231, 394, 406, 475,
+
+563–564
+transformation
+of conic 36
+of conics 36
+of lines 36
+projective 1, 3–4, 7–9, 11–13, 16, 25, 30, 33–37, 41–49,
+
+51–55, 57, 59, 61–65, 74, 76–77, 80–84, 86–88,
+91–92, 94, 101, 103–105, 115, 132–133, 137, 165,
+177–178, 195–196, 201–202, 204, 210, 222, 239,
+249–250, 253–255, 265–268, 271–272, 296, 303,
+305–308, 310, 313, 320, 366, 374–375, 387, 389, 404,
+420, 423, 434, 445, 463, 475, 482, 491, 494, 502, 508,
+511, 513, 516–517, 519–522, 524, 527, 529, 531,
+533–534, 539–540, 557, 559, 628–631
+
+similarity 39, 43, 53, 107, 184
+
+translational motion 293
+triangulation 12, 263, 267, 276–277, 285, 291, 293, 310–315,
+
+318, 320, 323–324, 332, 344, 380, 385, 397, 406, 435,
+439–440, 442, 453–454, 456, 491, 568, 575
+
+triangulation 263
+triangulation
+
+DLT method 312
+evaluation on real images 320
+for afﬁne cameras 353
+for afﬁne cameras 439–440, 442
+inhomogenous method 313
+local minima 319
+minimizing the cost function 316
+problem formulation 315
+
+trifocal tensor 12–13, 16, 87, 108, 119, 123, 164, 365,
+
+367–378, 381–383, 386–407, 411, 414–419, 422–423,
+426, 431, 439, 443, 446, 452, 456, 488–489, 508, 510,
+512, 514, 533, 563–564, 594, 611
+
+trifocal tensor
+
+afﬁne 390, 406, 418
+algebraic properties 373
+computation from camera matrices 377
+computation
+
+from 6 points 393
+Gold Standard algorithm 396
+iterative 396
+reprojection error 401
+results and recommendations 400
+Sampson distance 287, 398
+specifying lines 404
+using algebraic minimization 395
+
+constraints 392
+deﬁnition 367
+deﬁnition 377
+derivation from four planes 421
+geometrically valid 392
+line relations 416
+parametrization 398
+picture 564
+point and line relations 369
+point relations 414
+reduced 433, 512
+relation to two views 418
+transformation rule 563
+
+trilinearities – see also relations – trilinear
+trilinearities 378
+twisted cubic 75–77, 179–180, 251, 253, 343, 487, 536–537,
+
+539–540, 547, 549–553, 558–559
+
+properties 76
+
+twisted pair 259, 275
+
+Index
+
+655
+
+V
+vanishing lines 176, 213, 216, 218–219, 230, 236, 270
+vanishing lines 339
+vanishing points 9, 42, 51, 110, 158–159, 161, 176, 180, 195,
+
+208, 212–213, 215, 217–219, 222–224, 226–230,
+232–233, 236, 269–271, 273, 278, 294, 339, 341, 448,
+458, 497
+
+vanishing points 339
+vanishing points
+
+computing 215
+
+variance 102, 109, 122, 132–137, 139–141, 143–145,
+
+147–148, 150, 188, 300–301, 321–322, 565, 568–569,
+573–574, 576–577, 605, 623, 627
+
+vector geometry 67
+vector space norms 592
+
+W
+weak perspective 170–172, 357
+
+Z
+zero skew 164, 193, 224–226, 228–229, 231, 235, 273,
+
+465–466, 472, 477–479, 484, 497–499
+
+zero skew 466
+
+

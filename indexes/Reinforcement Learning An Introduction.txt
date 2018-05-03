@@ -1,0 +1,760 @@
+k-armed bandits, 25–45
+
+absorbing state, 57
+access-control queuing example, 257
+action preferences, 324, 331, 339, 459, 460
+
+in bandit problems, 37, 42
+
+action-value function, see value function, ac-
+
+tion
+
+action-value methods, 323
+
+for bandit problems, 27
+
+actor–critic, 21, 239, 323, 333–334, 341, 410
+
+one-step (episodic), 334
+with eligibility traces (episodic), 334
+with eligibility traces (continuing), 337
+neural, 399–419
+
+addiction, 413–414
+afterstates, 137, 140, 181, 182, 191, 428, 434
+agent–environment interface, 47–58
+AlphaGo, AlphaGo Zero, AlphaZero, 445–454
+Andreae, John, 17, 21, 69, 89
+applications and case studies, 425–461
+approximate dynamic programming, 15
+artiﬁcial intelligence, xv, 1, 475, 478–481
+artiﬁcial neural networks, 223–228, 238–239,
+
+399–402, 427, 434, 440–454, 476
+associative reinforcement learning, 45, 422
+associative search, 41
+asynchronous dynamic programming, 85, 88
+Atari video game play, 440–445
+auxiliary tasks, 464–465, 471, 477
+average reward setting, 249–256, 260, 468
+averagers, 266
+
+backgammon, 11, 21, 182, 184, 425–430
+backpropagation, 21, 225–227, 239, 411, 428,
+
+440, 444
+
+backup diagram, 60, 139
+
+for dynamic programming, 59, 61, 64, 172
+for Monte Carlo methods, 94
+for Q-learning, 134
+for TD(0), 121
+for Sarsa, 129
+for Expected Sarsa, 134
+
+for Sarsa(λ), 306
+for TD(λ), 291
+for Q(λ), 315
+for Tree Backup(λ), 316
+for Truncated TD(λ), 298
+for n-step Q(σ), 155
+for n-step Expected Sarsa, 146
+for n-step Sarsa, 146
+for n-step TD, 142
+for n-step Tree Backup, 152
+for Samuel’s Checker Player, 432
+compound, 290
+half backups, 62
+
+backward view of eligibility traces, 290, 295
+Baird’s counterexample, 263–266, 282, 284, 287
+bandit algorithm, simple, 32
+bandit problems, 25–45
+basal ganglia, 390
+baseline, 37–40, 331, 332, 333, 341
+behavior policy, 103, 110, see oﬀ-policy learn-
+
+ing
+
+Bellman equation, 14
+
+for vπ, 59
+for qπ, 78
+for optimal value functions: v∗ and q∗, 64
+diﬀerential, 250
+for options, 467
+
+Bellman error, 270, 272, 274, 275
+
+learnability of, 276–279
+vector, 269–271
+
+Bellman operator, 269–271, 287
+Bellman residual, 288, see Bellman error
+Bellman, Richard, 14, 71, 89, 241
+binary features, 215, 221, 245, 306, 307
+bioreactor example, 51
+blackjack example, 93–94, 99, 105
+blocking maze example, 166
+bootstrapping, 89, 190, 310, 333
+
+n-step, 141–158, 255
+and dynamic programming, 89
+and function approximation, 202, 208, 266–
+
+276
+
+523
+
+524
+
+Index
+
+and Monte Carlo methods, 95
+and stability, 265–267
+and TD learning, 120
+assessment of, 124–128, 248, 266, 293, 320
+in psychology, 349, 353, 359, 360
+parameter (λ or n), 293, 309, 403
+
+BOXES, 18, 71, 237
+branching factor, 173–177, 426
+breakfast example, 5, 22
+bucket-brigade algorithm, 19, 21, 139
+
+catastrophic interference, 476
+certainty-equivalence estimate, 128
+chess, 4, 20, 54, 182, 454
+classical conditioning, 21, 347–362
+
+blocking, 375
+
+and higher-order conditioning, 349–360
+
+delay and trace conditioning, 348
+Rescorla-Wagner model, 350–353
+TD model, 353–362
+classiﬁer systems, 19, 21
+cliﬀ walking example, 132, 133
+CMAC, see tile coding
+coarse coding, 215–220, 237
+cognitive maps, 367–369
+collective reinforcement learning, 408–411
+complex backup, 321
+complex backups, see compound update
+compound stimulus, 349, 350–361, 375, 386
+compound update/backup, 290
+conditioned stimulus, unconditioned stimulus,
+conditioned response (CS, US, CR),
+348
+
+constant-α MC, 120
+contextual bandits, 41
+continuing tasks, 54, 57, 70, 124, 249, 296
+continuous action, 73, 244, 337–339
+continuous state, 73, 223, 237
+continuous time, 11, 71
+control and prediction, 346
+control theory, 4, 70
+control variates, 150–152, 155, 283
+and eligibility traces, 311–314
+
+credit assignment, 11, 17, 19, 47, 296, 405
+
+in psychology, 350, 366
+structural, 389, 409, 411
+
+critic, 18, 238, 350, 421, see actor–critic
+curiosity, 477
+curse of dimensionality, 4, 14, 221, 231
+
+cybernetics, xv, 480
+
+deadly triad, 266
+deep learning, 12, 223, 445, 476–477, 483
+deep reinforcement learning, 236
+deep residual learning, 227
+delayed reinforcement, 366–367
+delayed reward, 2, 47, 249
+dimensions of reinforcement learning methods,
+
+189–192
+
+direct and indirect RL, 162, 164, 192
+discounting, 55, 199, 243, 249, 284, 326, 330,
+
+431, 463
+
+in pole balancing, 56
+rate parameter (γ), 55
+state dependent, 309
+deprecated, 253, 257
+
+distribution models, 159, 185
+dopamine, 381, 385–391, 417–424
+
+and addiction, 413–414
+
+double learning, 134–136, 140
+DP, see dynamic programming
+driving-home example, 122–123
+Dyna architecture, 164, 161–170
+dynamic programming, 14–15, 73–90, 174, 264
+
+and artiﬁcial intelligence, 89
+and function approximation, 241
+and options, 467
+and the deadly triad, 266
+computational eﬃciency of, 87
+
+eligibility traces, 289–322, 354, 367, 402–407
+
+accumulating, 303, 308, 312
+replacing, 303, 308
+dutch, 302–305
+contingent and non-contingent, 403–407,
+
+415
+
+oﬀ-policy, 311–318
+with state-dependent λ and γ, 311–318
+
+Emphatic-TD methods, 234–235, 317
+
+oﬀ-policy, 283–285
+
+environment, 47–58
+episodes, episodic tasks, 11, 54–58, 91
+error reduction property, 144, 290
+evaluative feedback, 17, 25, 47
+evolution, 8, 363, 378, 474, 475
+evolutionary methods, 7, 8, 9, 11, 19
+expected approximate value, 148, 155
+Expected Sarsa, 133, see also Sarsa, Expected
+
+Index
+
+525
+
+expected update, 75, 172–181, 189
+experience replay, 444–445
+explore/exploit dilemma, 3, 103, 475
+exploring starts, 96, 98–100, 178
+
+feature construction, 210–223
+ﬁnal time step (T ), 54
+Fourier basis, 211–214
+function approximation, 195–200
+
+gambler’s example, 84
+game theory, 19
+gazelle calf example, 5
+general value functions (GVFs), 463–467, 477
+generalized policy iteration (GPI), 86–87, 92,
+
+97, 138, 189
+genetic algorithms, 19
+Gittins index, 43
+gliding/soaring case study, 458–461
+goal, see reward signal
+golf example, 61, 63, 66
+gradient, 201
+gradient descent, see stochastic gradient de-
+
+and eligibility traces, 311–314
+and inﬁnite variance, 106
+discounting aware, 112–113
+incremental implementation, 108–109
+per-decision, 113–114
+n-step, 148–156
+
+incremental implementation
+
+of averages, 30–33
+of weighted averages, 108–109
+
+instrumental conditioning, 362–366, see also
+
+Law of Eﬀect
+
+motivation, 365–366
+Thorndike’s puzzle boxes, 362
+
+interest and emphasis, 234–235, 285, 318
+inverse reinforcement learning, 474
+
+Jack’s car rental example, 81–82, 137, 210
+
+kernel-based function approximation, 232–233
+Klopf, A. Harry, xi, xv, 19–21, 406–408, 415
+
+latent learning, 192, 368, 371
+Law of Eﬀect, 15–16, 45, 346, 363, 364, 366,
+
+scent
+
+374, 421
+
+Gradient-TD methods, 280–283, 316–317
+greedy or ε-greedy
+
+learning automata, 18
+Least Mean Square (LMS) algorithm, 281, 303,
+
+as exploiting, 26–28
+as shortsighted, 64
+ε-greedy policies, 100
+
+352
+
+Least-Squares TD (LSTD), 228–230
+linear function approximation, 204–209, 268–
+
+Gridworld examples, 60, 65, 76, 147
+
+271
+
+cliﬀ walking, 132
+Dyna blocking maze, 166
+Dyna maze, 164
+Dyna shortcut maze, 167
+windy, 130, 131
+
+habitual and goal-directed control, 369–373
+hedonistic neurons, 406–408
+heuristic search, 181–183, 190
+
+as sequences of backups, 183
+in Samuel’s checkers player, 430
+in TD-Gammon, 429
+
+history of reinforcement learning, 13–22
+Holland, John, 19, 21, 44, 139, 241
+Hull, Clark, 16, 364, 366–367
+
+importance sampling, 103–117, 151, 259
+
+ratio, 104, 148, 260
+weighted and ordinary, 105, 106
+
+local and global optima, 200
+
+Markov decision process (MDP), 2, 14, 47–71
+Markov property, 49, 115, 469–472
+Markov reward process (MRP), 125
+maximization bias, 134–136
+maximum-likelihood estimate, 128
+MC, see Monte Carlo methods
+Mean Squared
+
+Bellman Error, BE, 270
+Projected Bellman Error, PBE, 271
+Return Error, RE, 277
+TD Error, TDE, 272
+Value Error, VE, 199–200
+
+memory-based function approx., 230–232
+Michie, Donald, 18, 71, 116
+Minsky, Marvin, 16, 17, 20, 89
+model of the environment, 7, 159
+model-based and model-free methods, 7, 159
+
+526
+
+Index
+
+in animal learning, 367–373
+
+reducing variance, 285–286
+
+model-based reinforcement learning, 159–193
+
+on-policy distribution, 175, 199, 208, 260, 264,
+
+in neuroscience, 411–413
+Monte Carlo methods, 91–117
+
+ﬁrst- and every-visit MC, 92
+ﬁrst-visit MC control, 101
+ﬁrst-visit MC prediction, 92
+gradient method for vπ, 202
+Monte Carlo ES (Exploring Starts), 99
+oﬀ-policy control, 110, 110–112
+oﬀ-policy prediction, 109, 103–109
+
+Monte Carlo Tree Search (MCTS), 185–188
+motivation, 365–366
+mountain car example, 244–248, 307, 308
+multi-armed bandits, 25–45
+
+n-step methods, 141–158
+
+Q(σ), 156
+Sarsa, 147, 247
+
+diﬀerential, 255
+oﬀ-policy, 149
+
+TD, 144
+Tree Backup, 154
+truncated λ-return, 297
+
+naughts and crosses, see tic-tac-toe
+neural networks, see artiﬁcial neural networks
+neurodynamic programming, 15
+neuroeconomics, 417, 423
+neuroscience, 4, 21, 381–424
+nonstationarity, 30, 32–36, 41, 43, 256
+
+inherent, 91, 198
+
+notation, ix, xvii
+
+oﬀ-policy methods, 259–288
+
+vs on-policy methods, 100, 103
+Monte Carlo, 103–114
+Q-learning, 131
+Expected Sarsa, 133–134
+n-step, 148–156
+n-step Q(σ), 156
+n-step Sarsa, 149
+n-step Tree Backup, 154
+and eligibility traces, 311–318
+Emphatic-TD(λ), 317
+GQ(λ), 317
+GTD(λ), 316
+HTD(λ), 317
+Q(λ), 314–316
+Tree Backup(λ), 314–316
+
+283, 284
+
+vs uniform distribution, 176
+
+on-policy methods, 100
+
+actor–critic, 334, 337
+approximate
+
+control, 244, 247, 251, 255
+prediction, 202, 203, 209
+
+Monte Carlo, 101, 100–103, 330, 332
+n-step, 144, 147
+Sarsa, 130, 129–131
+TD(0), 120, 119–128
+with eligibility traces, 295, 302, 307, 309
+operant conditioning, see instrumental learn-
+
+ing
+
+optimal control, 2, 14–15, 21
+optimistic initial values, 34–35, 192
+optimizing memory control, 436–440
+
+pain and pleasure, 6, 16, 417
+Partially Observable MDPs (POMDPs), 470
+Pavlov, Ivan, 16, 347–349, 366
+Pavlovian
+
+conditioning, see classical conditioning
+control, 347, 375, 377, 482
+
+personalizing web services, 454–457
+planning, 3, 5, 7, 11, 138, 159–193, 368–370
+
+with learned models, 161–168, 476
+with options, 465, 467
+
+policy, 6, 41, 58
+
+soft and ε-soft, 100–103, 110
+
+policy approximation, 323–326
+policy evaluation, 74–76, see also prediction
+
+iterative, 75
+
+policy gradient methods, 323–341
+
+REINFORCE, 330, 332
+actor–critic, 334, 337
+
+policy gradient theorem, 326–328
+
+proof, episodic case, 327
+proof, continuing case, 336
+
+policy improvement, 76–80
+
+theorem, 78, 101
+
+policy iteration, 14, 80, 80–82
+polynomial basis, 210–211
+prediction, 74–76, see also policy evaluation
+
+and control, 346
+Monte Carlo, 92–97
+oﬀ-policy, 103–108
+
+Index
+
+527
+
+TD, 119–126
+with approximation, 197–241
+
+prior knowledge, 12, 34, 54, 137, 236, 326, 474
+prioritized sweeping, 170, 168–171
+projected Bellman error, 287
+
+vector, 269, 271
+
+pseudo termination, 284, 310
+psychology, 4, 13, 19, 20, 345–380
+
+Q(λ), Watkins’s, 314–316
+Q-function, see action-value function
+Q-learning, 21, 131, 131–135
+
+double, 136
+Q-planning, 161
+Q(σ), 156, 154–156
+queuing example, 251
+
+R-learning, 256
+racetrack exercise, 111
+radial basis functions (RBFs), 221–222
+random walk, 95
+
+5-state, 125, 126, 127
+19-state, 144, 293
+
+TD(λ) results on, 296, 297, 301
+
+1000-state, 203–209, 217, 218
+
+Fourier and polynomial bases, 214
+real-time dynamic programming, 177–180
+recycling robot example, 52
+REINFORCE, 330, 328–333
+
+with baseline, 332
+
+reinforcement learning, 1–22
+reinforcement signal, 384
+representation learning, 476
+residual-gradient algorithm, 274–276, 279
+
+naive, 273
+
+return, 54–58
+
+n-step, 143
+
+for Q(σ), 156
+for action values, 146
+for Expected Sarsa, 148
+for Tree Backup, 153
+with control variates, 150, 151
+with function approximation, 209
+
+diﬀerential, 250, 255, 335
+ﬂat partial, 112
+with state-dependent termination, 310
+λ-return, 290–293
+truncated, 298
+
+reward prediction error hypothesis, 385–387,
+
+391–399
+
+reward signal, 1, 6, 48, 53, 365, 384, 387, 401
+
+and reinforcement, 377–380, 384–385
+design of, 472–475, 480
+intrinsic, 478
+sparse, 472–473
+
+rod maneuvering example, 171
+rollout algorithms, 183–185
+root mean-squared (RMS) error, 125
+
+sample and expected updates, 121, 170–174
+sample or simulation model, 115
+sample-average method, 27
+Samuel’s checkers player, 20, 241, 430–433
+Sarsa, 130, 129–131, 244
+
+vs Q-learning, 132
+diﬀerential, one-step, 251
+Expected, 133–134, 140
+
+n-step, 148
+n-step oﬀ-policy, 150
+double, 136
+
+n-step, 147, 145–148, 247
+
+diﬀerential, 255
+oﬀ-policy, 149
+
+Sarsa(λ), 307, 305–309
+
+true online, 309
+
+Schultz, Wolfram, 391–399, 414
+search control, 163
+secondary reinforcement, 20, 350, 359, 374
+selective bootstrap adaptation, 239
+semi-gradient methods, 202, 260–261
+Shannon, Claude, 16, 20, 71, 430
+shaping, 364, 473
+Skinner, B. F., 364–365, 379, 473, 483
+soap bubble example, 95
+soft and ε-soft policies, 100–103, 110
+soft-max, 324–325, 331, 339, 404, 449, 459
+
+for bandits, 37, 45
+
+spike-timing-dependent plasticity (STDP), 405
+state, 7, 48, 49
+
+and observations, 468–472
+
+kth-order history approach, 471
+belief state, 470
+latent state, 470
+Markov property, 469–472
+observable operator models (OOMs), 471
+partially observable MDPs, 14, 470
+predictive state representations, 470
+
+528
+
+Index
+
+truncated, 297–299
+
+n-step, 144, 141–158, 209
+
+Thorndike, Edward, see Law of Eﬀect
+tic-tac-toe, 8–13, 18, 137
+tile coding, 217–221, 223, 238, 246, 438, 439
+Tolman, Edward, 368, 412
+trace-decay parameter (λ), 289, 291, 292, 294
+
+state dependent, 309
+
+trajectory sampling, 174–177
+transition probabilities, 49
+Tree Backup
+
+n-step, 152–153, 154
+Tree-Backup(λ), 314–316
+
+trial-and-error, 2, 7, 15–21, 407, 408, see also
+
+instrumental conditioning
+
+true online TD(λ), 302, 301–303
+Tsitsiklis and Van Roy’s Counterexample, 265
+
+undiscounted continuing tasks, see average re-
+
+ward setting
+
+unsupervised learning, 2, 226
+
+value, 6, 26, 47
+value function, 6, 58–67
+
+for a given policy: vπ and qπ, 58
+for an optimal policy: v∗ and q∗, 62
+action, 58, 63, 65, 71, 129, 131
+approximate action values: ˆq(s, a, w), 243
+approximate state values: ˆv(s,w), 197
+diﬀerential, 243
+vs evolutionary methods, 11
+
+value iteration, 83, 82–85
+value-function approximation, 198
+
+Watkins, Chris, 15, 21, 89, 321
+Watson (Jeopardy! player), 433–436
+Werbos, Paul, 14, 21, 69, 89, 139, 238
+Witten, Ian, 21, 69
+
+state-update function, 470
+
+state aggregation, 203–204
+step-size parameter, 10, 31–33, 120, 125, 126
+
+automatic adaptation, 238
+in DQN, 443, 444
+in psychological models, 351, 352
+selecting manually, 222–223
+with coarse coding, 216
+with Fourier features, 213
+with tile coding, 218, 223
+
+stochastic approx. convergence conditions, 33
+stochastic gradient-descent (SGD), 200–204
+
+in the Bellman error, 271–279
+
+strong and weak methods, 4
+supervised learning, xv, 2, 17–20, 198
+sweeps, 75, 160, see also prioritized sweeping
+synaptic plasticity, 383
+
+Hebbian, 404
+two-factor and three factor, 405
+
+system identiﬁcation, 368
+
+tabular solution methods, 23
+target
+
+policy, 103, 110
+of update, 31, 143, 198
+
+TD, see temporal-diﬀerence learning
+TD error, 121
+
+n-step, 255
+diﬀerential, 250
+with function approximation, 272
+
+TD(λ), 295, 294–297
+
+true online, 302, 301–303
+
+TD-Gammon, 21, 425–430
+temporal abstraction, 465–468
+
+hierarchical policy, 466
+option models, 466
+options, 465–468
+planning with options, 467
+
+temporal-diﬀerence learning, 10, 119–140
+
+history of, 20–22
+advantages of, 124–126
+optimality of, 126–128
+TD(0), 120, 203
+TD(1), 296
+TD(λ), 295, 294–297
+
+true online, 302, 301–303
+
+λ-return methods
+
+oﬀ-line, 292
+online, 299–301
+
+

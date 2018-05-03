@@ -1,0 +1,1696 @@
+1 − of − M coding, 207
+N-max-product, 74
+α-expansion, 536
+α-recursion, 417
+β-recursion, 418
+γ-recursion, 419
+
+absorbing state, 75
+absorption, 87
+
+inﬂuence diagram, 117
+
+acceptance function, 500
+active learning, 253
+adjacency matrix, 21, 385
+algebraic Riccati equation, 448
+ancestor, 19
+ancestral ordering, 494
+ancestral sampling, 494
+antifreeze, 231
+approximate inference, 103, 379, 515
+
+belief propagation, 529, 530
+Bethe free energy, 528
+double integration bound, 539
+expectation propagation, 530
+graph cut, 535
+Laplace approximation, 515
+switching linear dynamical system, 458
+variational approach, 516
+variational inference, 519
+
+AR model, see auto-regressive model
+Artiﬁcial Life, 482
+asychronous updating, 521
+asymmetry, 113
+auto-regressive model, 438
+
+switching, 452
+time-varying, 440
+
+automatic relevance determination, 351
+auxiliary variable sampling, 501
+average, 139
+
+backtracking, 71
+bag of words, 208, 287
+batch update, 322
+Baum-Welch, 423
+
+Bayes Information Criterion, 247
+Bayes’
+
+factor, 184, 241
+model selection, 241
+theorem, 8
+
+Bayes’ rule, see Bayes’ theorem
+Bayesian
+
+decision theory, 259
+hypothesis testing, 241, 263
+image denoising, 519
+linear model, 333
+mixture model, 373
+model selection, 241
+Occam’s razor, 244
+outcome analysis, 263
+
+Bayesian Dirichlet score, 184
+Bayesian linear model, 348
+BD score, 184
+
+BDeu score, 185
+
+BDeu score, 185
+belief network
+
+asbestos-smoking-cancer, 177
+cascade, 32
+chest clinic, 45
+divorcing parents, 43
+dynamic, 430
+noisy AND gate, 44
+noisy logic gate, 44
+noisy OR gate, 44
+sigmoid, 239
+structure learning, 180
+training
+
+Bayesian, 174
+
+belief propagation, 66, 529
+
+loopy, 526
+
+belief revision, 73, see max-product
+Bellman’s equation, 121
+Bessel function, 354
+beta
+
+distribution, 145
+function, 145, 168
+Bethe free energy, 528
+
+579
+
+INDEX
+
+bias, 142
+
+unbiased estimator, 142
+
+bigram, 422
+binary entropy, 521
+bioinformatics, 431
+black and white sampling, 512
+black-box, 261
+Blahut-Arimoto algorithm, 526
+Boltzmann machine, 52, 60, 189, 539
+
+restricted, 60
+
+bond propagation, 81
+Bonferroni inequality, 17
+Boolean network, 482
+Bradly-Terry-Luce model, 405
+bucket elimination, 78
+burn in, 498
+
+calculus, 551
+canonical correlation analysis, 300
+
+constrained factor analysis, 398
+
+canonical variates, 305
+causal consistency, 113
+causality, 39, 113
+
+do calculus, 42
+inﬂuence diagrams, 42
+post intervention distribution, 42
+
+CCA
+
+see canonical correlation analysis, 300
+
+centering, 152
+chain graph, 55
+
+chain component, 55
+
+chain rule, 553
+chain structure, 71
+changepoint model, 468
+checkerboard, 512
+chest clinic, 45
+
+missing data, 237
+with decisions, 131
+
+children, see directed acyclic graph
+Cholesky, 306
+chord, 95
+chordal, 95
+Chow-Liu tree, 210
+classiﬁcation, 252, 324, 358
+
+Bayesian, 340
+boundary, 205
+error analysis, 263
+linear parameter model, 319
+multiple classes, 324
+performance, 263
+
+random guessing, 270
+
+softmax, 324
+
+clique, 20
+
+decomposition, 383
+graph, 86
+
+580
+
+INDEX
+
+matrix, 22, 383
+
+cliquo, 22
+Cluster Variation method, 529
+clustering, 253
+collaborative ﬁltering, 291
+collider, see directed acyclic graph
+commute, 546
+compatibility function, 511
+competition model
+
+Bradly-Terry-Luce, 405
+Elo, 406
+TrueSkill, 406
+
+competition models, 405
+concave function, 554
+condindep.m, 59
+conditional entropy, 524
+conditional likelihood, 200
+conditional mutual information, 212
+conditional probability, 4
+conditional random ﬁeld, 193, 428
+conditioning, 151
+
+loop cut set, 80
+
+conjugate distribution, 168
+exponential family, 156
+Gaussian, 154, 155
+prior, 156
+
+conjugate gradient, 324
+conjugate gradients algorithm, 560
+conjugate vector, 558
+conjugate vectors algorithm, 559
+connected components, 20
+connected graph, 20
+consistent, 91
+consistent estimator, 197
+convex function, 554
+correction smoother, 419, 446
+correlation
+
+matrix, 140
+
+cosine similarity, 289
+coupled HMM, 430
+covariance, 140
+matrix, 140
+
+covariance function, 318, 349, 351
+
+γ-exponential, 354
+construction, 352
+Gibbs, 355
+isotropic, 354
+Mat´ern, 354
+Mercer kernel, 356
+neural network, 355
+non-stationary, 355
+Ornstein-Uhlenbeck, 354, 356
+periodic, 354
+rational quadratic, 354
+smoothness, 356
+
+DRAFT March 9, 2010
+
+INDEX
+
+INDEX
+
+squared exponential, 354, 357
+stationary, 353
+
+CPT, see conditional probability table
+CRF, see conditional random ﬁeld
+critical point, 555
+cross-validation, 256
+cumulant, 492
+curse of dimensionality, 124, 316
+cut set conditioning, 79
+
+D-map, see dependence map
+DAG, see directed acyclic graph
+data
+
+anomaly detection, 253
+catagorical, 263
+dyadic, 382
+handwritten digits, 323
+labelled, 251
+monadic, 383
+numerical, 263
+ordinal, 263
+unlabelled, 252
+
+data compression, 376
+
+vector quantisation, 376
+
+decision boundary, 319
+decision function, 254
+decision theory, 107, 168, 259
+decision tree, 108
+decomposable, 95
+degree, 22
+degree of belief, 8
+delta function, see Dirac delta function
+
+Kronecker, 142
+
+density estimation, 365
+
+Parzen estimator, 375
+
+dependence
+map, 57
+
+descendant, 19
+design matrix, 339, 348
+detailed balance, 499
+determinant, 547
+deterministic latent variable model, 482
+diﬀerentiation, 552
+digamma function, 160
+digit data, 283
+Dijkstra’s algorithm, 76
+dimension reduction
+linear, 279, 282
+supervised, 303
+
+dimensionality reduction
+
+linear, 285
+non-linear, 285
+
+Dirac delta function, 141, 142, 357
+directed acyclic graph, 32
+
+ancestor, 19
+
+DRAFT March 9, 2010
+
+ancestral order, 21
+cascade, 32
+children, 19
+collider, 34
+descendant, 19
+family, 19
+immorality, 38
+Markov Blanket, 19
+moralisation, 54
+parents, 19
+
+direction bias, 428
+directional derivative, 553
+Dirichlet
+
+distribution, 147
+
+Dirichlet process mixture models, 379
+discount factor, 122
+discriminative
+
+approach, 260
+training, 260
+
+discriminative approach, 259
+discriminative training, 425
+dissimilarity function, 273
+distributed computation, 475
+distribution
+
+Bernoulli, 143, 368
+beta, 145, 148, 160, 176, 243
+binomial, 143
+Categorical, 143
+change of variables, 159
+conjugate, 154
+continuous, 4
+density, 4
+Dirichlet, 147, 161, 178, 183, 379, 380
+discrete, 3
+divergence, 157
+double exponential, 146
+empirical, 141, 255
+
+average, 139
+expectation, 139
+
+exponential, 144
+exponential family, 155
+
+canonical, 156
+
+gamma, 373
+mode, 161
+
+Gauss-gamma, 155, 162
+Gauss-inverse-gamma, 154
+Gaussian
+
+canonical exponential form, 156
+conditioning, 151
+conjugate, 154, 155
+entropy, 150
+isotropic, 149
+mixture, 163
+multivariate, 148
+normalisation, 158, 159
+
+581
+
+INDEX
+
+INDEX
+
+partitioned, 150
+propagation, 152
+system reversal, 151
+univariate, 146
+
+inverse gamma, 145
+inverse Wishart, 155
+joint, 4
+kurtosis, 141
+Laplace, 146
+marginal, 4
+mode, 139
+multinomial, 144
+normal, 146
+Poisson, 144, 163
+Polya, 378
+scaled mixture, 147
+skewness, 141
+Student’s t, 146
+uniform, 144, 157
+Wishart, 373
+
+domain, 3
+double integration bound, 539
+dual parameters, 317
+dual representation, 316
+dyadic data, 382
+dynamic Bayesian network, 430
+dynamic synapses, 486
+dynamical system
+
+linear, 437
+non-linear, 482
+
+dynamics reversal, 446
+
+edge list, 21
+eﬃcient IPF, 191
+eigen
+
+decomposition, 149, 282, 550
+equation, 281
+function, 551
+problem, 300
+spectrum, 356
+value, 281, 548
+
+Elo model, 405
+emission distribution, 416
+emission matrix, 442
+empirical
+
+independence, 182
+
+empirical distribution, 141, 170, 255
+empirical risk, 255
+penalised, 256
+
+empirical risk minimisation, 256
+energy, 221
+entropy, 99, 157, 163, 221, 524
+
+diﬀerential, 157, 164
+Gaussian, 150
+
+EP, see expectation propagation
+
+582
+
+error function, 319
+estimator
+
+consistent, 197
+
+evidence, see marginal likelihood
+
+hard, 29
+likelihood, 30
+soft, 29
+uncertain, 29
+virtual, 30
+
+Evidence Procedure, 335
+exact sampling, 494
+expectation, see average
+expectation correction, 462, 463
+expectation maximisation, 126, 135, 220, 293, 336,
+
+423, 450
+
+algorithm, 220, 222
+antifreeze, 231
+belief networks, 224
+E-step, 221
+energy, 221
+entropy, 221
+failure case, 230
+generalised, 126
+intractable energy, 229
+M-step, 221
+Markov decision process, 126
+mixture model, 366
+partial E-step, 229
+partial M-step, 229
+variational Bayes, 233
+Viterbi training, 229
+
+expectation propagation, 530
+exponential family, 155
+canonical form, 156
+conjugate, 156
+
+extended observability matrix, 451
+
+face model, 395
+factor analysis, 391
+
+factor rotation, 390
+probabilistic PCA, 397
+training
+
+EM, 394
+SVD, 392
+factor graph, 58
+factor loading, 389
+family, see directed acyclic graph
+feature map, 298
+ﬁltering, 417
+ﬁnite dimensional Gaussian Process, 349
+Fisher information, 161
+Fisher’s linear discriminant, 303
+Floyd-Warshall-Roy algorithm, 77
+forward sampling, 494
+Forward-Backward, 418
+
+DRAFT March 9, 2010
+
+INDEX
+
+INDEX
+
+Forward-Sampling-Resampling, 510
+
+gamma
+
+digamma, 160
+distribution, 145
+function, 146, 160
+
+Gaussian
+
+canonical representation, 149
+distribution, 146
+moment representation, 149, 444
+sub, 141
+super, 141
+
+Gaussian mixture model, 370
+
+Bayesian, 373
+collapsing the mixture, 461
+EM algorithm, 370
+inﬁnite problems, 373
+k-means, 375
+Parzen estimator, 375
+symmetry breaking, 373
+
+Gaussian process, 347
+classiﬁcation, 358
+Laplace approximation, 359
+multiple classes, 362
+regression, 350
+smoothness, 356
+weight space view, 348
+Gaussian sum ﬁltering, 458
+Gaussian sum smoothing, 462
+generalisation, 251, 255
+generalised pseudo Bayes, 466
+generative
+
+approach, 259
+model, 259
+training, 259
+
+generative approach, 259
+Gibbs sampling, 495
+Glicko, 406
+GMM, see Gaussian mixture model
+Google, 413
+gradient, 552
+
+descent, 555
+natural, 556
+
+Gram matrix, 317
+Gram-Schmidt procedure, 558
+Gramm matrix, 299
+graph, 19
+
+adjacency matrix, 21
+chain, 55
+chain structured, 71
+chordal, 95
+clique, 20, 22, 86
+clique matrix, 22
+cliquo, 22
+connected, 20
+
+DRAFT March 9, 2010
+
+cut, 535
+decomposable, 95
+descendant, 22
+directed, 19
+disconnected, 99
+edge list, 21
+factor, 58
+loopy, 20
+multiply-connected, 20, 93
+neighbour, 20
+path, 19
+separation, 54
+set chain, 102
+singly-connected, 20
+skeleton, 38
+spanning tree, 21
+tree, 20
+triangulated, 95
+undirected, 19, 20
+vertex
+
+degree, 22
+
+graph cut algorithm, 535
+graph partitioning, 381
+Gull-MacKay iteration, 338
+
+Hamilton-Jacobi equation, 122
+Hamiltonian dynamics, 503
+Hammersley Cliﬀord theorem, 53
+handwritten digits, 323
+Hankel matrix, 451
+harmonium, see restricted Boltzmann machine
+Heaviside step function, 384
+Hebb, 476
+Hebb rule, 476
+hedge fund, 247
+Hermitian, 545
+Hessian, 324, 553
+hidden Markov model, 99, 230, 416
+
+α recursion, 417
+β recursion, 418
+coupled, 430
+direction bias, 428
+discriminative training, 425
+duration model, 427
+entropy, 99
+ﬁltering, 417
+input-output, 427
+likelihood, 419
+most likely state (MAP), 420
+pairwise marginal, 419
+Rauch Tung Striebel smoother, 419
+smoothing
+
+parallel, 418
+sequential, 418
+
+viterbi, 74
+
+583
+
+INDEX
+
+Viterbi algorithm, 420
+
+hidden variables, 217
+HMM, see hidden Markov model
+Hopﬁeld network, 475
+
+augmented, 483
+capacity, 479
+Hebb rule, 477
+heteroassociative, 484
+maximum likelihood, 478
+perceptron, 479
+pseudo inverse rule, 477
+sequence learning, 476
+
+hybrid Monte Carlo, 502
+hyper Markov, 196
+hyper tree, 98
+hyperparameter, 156, 176, 335
+hyperplane, 545
+hypothesis testing, 241
+
+Bayesian error analysis, 263
+
+I-map, see independence map
+ICA, 399
+identically and independently distributed, 165
+identiﬁability, 449
+identity matrix, 546
+IID, see identically and independently distributed
+IM algorithm, see information-maximisation algo-
+
+rithm
+immorality, 38
+importance
+
+distribution, 506
+sampling, 506
+
+particle ﬁlter, 509
+resampling, 508
+sequential, 508
+
+weight, 507
+
+incidence matrix, 22
+independence
+
+Bayesian, 183
+conditional, 26, 33
+empirical, 182
+map, 57
+Markov equivalent, 38
+mutual information, 182
+naive Bayes, 203
+parameter, 174
+perfect map, 57
+
+independent components analysis, 364, 400, 402
+indicator function, 11
+indicator model, 378
+induced representation, 94
+inference
+
+bond propagation, 81
+bucket elimination, 78
+causal, 39
+
+584
+
+INDEX
+
+cut set conditioning, 79
+HMM, 417
+linear dynamical system, 443
+MAP, 81
+marginal, 63
+Markov decision process, 124, 126
+max-product, 71
+message passing, 63
+mixed, 77
+MPM, 81
+sum-product algorithm, 68
+transfer matrix, 65
+variable elimination, 63
+
+inﬂuence diagram, 111
+
+absorption, 117
+asymmetry, 113
+causal consistency, 113
+chest clinic, 131
+decision potential, 116
+fundamental link, 112
+information link, 111
+junction tree, 116
+no forgetting principle, 112
+partial order, 112
+probability potential, 116
+solving, 115
+utility, 111
+utility potential, 116
+
+information link, 111
+information maximisation, 526
+information retrieval, 288, 413
+information-maximisation algorithm, 525
+innovation noise, 438
+input-output HMM, 427
+inverse modus ponens, 12
+IPF, 188, see iterative proportional ﬁtting
+
+eﬃcient, 191
+
+Ising model, 54, see Markov network, 81
+
+approximate inference, 519
+
+isotropic, 149, 372
+isotropic covariance functions, 353
+item response theory, 404
+Iterated Conditional Modes, 534
+iterative proportional ﬁtting, 188
+iterative scaling, 192
+
+Jeﬀrey’s rule, 29
+Jensen’s inequality, 540, 554
+Joseph’s symmetrized update, 446
+jump Markov model, see switching linear dynamical
+
+system
+
+junction tree, 88, 92
+
+absorption, 87
+algorithm, 85, 97
+clique graph, 86
+
+DRAFT March 9, 2010
+
+INDEX
+
+INDEX
+
+computational complexity, 98
+conditional marginal, 100
+consistent, 91
+hyper tree, 98
+inﬂuence diagram, 116
+marginal likelihood, 99
+most likely state, 101
+normalisation constant, 99
+potential, 86
+running intersection property, 89
+separator, 86
+strong, 117
+strong triangulation, 117
+tree width, 98
+triangulation, 94
+
+k-means, 375
+Kalman ﬁlter, 442
+Kalman gain, 445
+KD-tree, 274
+kernel, 316, 317, see covariance function
+
+classiﬁer, 324
+
+kidnapped robot, 421
+Kikuchi, 529
+KL divergence, see Kullback-Leibler divergence
+KNN, see nearest neighbour
+Kronecker delta, 142, 546
+Kullback-Leibler divergence, 157, 220, 517
+kurtosis, 141
+
+labelled data, 251
+Lagrange
+
+multiplier, 562
+
+Lagrangian, 563
+Laplace approximation, 341, 359, 515
+latent ability model, 403
+latent Dirichlet allocation, 380
+latent linear model, 389
+latent semantic analysis, 287
+latent topic, 287
+latent variable, 217
+
+deterministic, 482
+model, 217
+
+lattice model, 54
+LDA regularised, 309
+LDS, see linear dynamical system
+leaky integrate and ﬁre model, 486
+Leapfrog discretisation, 503
+learning
+
+active, 253
+anomaly detection, 253
+Bayesian, 166
+belief network, 171
+belief networks
+
+EM, 224
+
+DRAFT March 9, 2010
+
+Dirichlet prior, 178
+inference, 165
+nearest neighbour, 273
+online, 253
+query, 253
+reinforcement, 254
+semi-supervised, 254, 377
+sequences, 423, 449, 476
+sequential, 253
+structure, 180
+supervised, 251
+unsupervised, 252, 389
+
+learning rate, 322
+likelihood, 10, 99, 419, 447, 461
+
+bound, 220
+marginal, 10, 69
+model, 10, 180
+
+approximate, 246
+
+pseudo, 196
+
+likelihood decomposable, 180
+line search, 557
+linear algebra, 543
+linear dimension reduction, 279, 282
+
+canonical correlation analysis, 300
+latent semantic analysis, 287
+non-negative matrix factorisation, 295
+probabilistic latent semantic analysis, 292
+supervised, 303
+unsupervised, 279
+
+Linear Discriminant Analysis, 303
+linear discriminant analysis, 303
+
+as regression, 308
+penalised, 308
+regularised, 308
+
+linear dynamical system, 151, 442
+
+cross moment, 447
+dynamics reversal, 446
+ﬁltering, 444
+identiﬁability, 449
+inference, 443
+learning, 449
+likelihood, 447
+most likely state, 448
+numerical stability, 443
+Riccati equations, 448
+smoothing, 446
+subspace method, 451
+switching, 457
+symmetrising updates, 446
+
+linear Gaussian state space model, 442
+linear model, 311
+Bayesian, 333
+classiﬁcation, 319
+factor analysis, 391
+latent, 389
+
+585
+
+INDEX
+
+INDEX
+
+regression, 312
+
+linear parameter model, 312
+
+Bayesian, 334
+
+linear perceptron, 321
+linear separability, 320
+linear transformation, 546
+linearly independent, 544
+linearly separable, 320
+Linsker’s as-if-Gaussian approximation, 526
+localisation, 420
+logic
+
+Aristotle, 12
+
+logistic regression, 319
+logistic sigmoid, 319
+logit, 319
+loop cut set, 80
+loopy, 20
+loss function, 254, 255
+
+zero-one, 254
+
+loss matrix, 255
+Luenberger expanding subspace theorem, 559
+
+Mahalanobis distance, 273, 302
+manifold
+
+linear, 279
+low dimensional, 279
+
+MAP, see most probable a posteriori
+MAR, see missing at random
+margin, 325, 326
+
+soft, 327
+marginal, 4
+
+generalised, 117
+
+marginal likelihood, 10, 69, 99, 219, 335, 351
+
+approximate, 337, 340, 342, 361
+
+marginalisation, 4
+Markov
+
+chain, 238, 411
+ﬁrst order, 438
+stationary distribution, 412
+
+equivalent, 38
+global, 52
+hyper, 196
+local, 51
+model, 411
+pairwise, 51
+random ﬁeld, 192
+
+approximation, 519
+
+Markov blanket, see directed acyclic graph, 496
+Markov chain, 63, 129, 499
+
+absorbing state, 75
+detailed balance, 499
+PageRank, 412
+
+Markov chain Monte Carlo, 499
+
+auxiliary variable, 501
+
+hybrid Monte Carlo, 502
+
+586
+
+slice sampling, 505
+Swendson-Wang, 504
+
+Gibbs sampling, 496
+Metropolis-Hastings, 499
+proposal distribution, 500
+structured Gibbs sampling, 497
+
+Markov decision process, 120, 133
+
+Bellman’s equation, 121
+discount factor, 122
+non-stationary policy, 127
+partially observable, 129
+planning, 124
+policy iteration, 123
+reinforcement learning, 130
+stationary, 125
+stationary deterministic policy, 128
+temporally unbounded, 122
+value iteration, 122
+variational inference, 126
+
+Markov equivalence, 38
+Markov network, 50
+
+Boltzmann machine, 52
+continuous-state temporal, 437
+discrete-state temporal, 411
+Gibbs distribution, 50
+Gibbs network, 52
+Hammersley Cliﬀord theorem, 53
+pairwise, 50
+potential, 50
+
+Markov random ﬁeld, 53, 540, 542
+
+alpha-expansion, 536
+attractive binary, 534
+graph cut, 535
+map, 533
+Potts model, 536
+
+matrix, 545
+
+adjacency, 22, 385
+Cholesky, 306
+clique, 22
+Gramm, 299
+Hankel, 451
+incidence, 22
+inversion, 548
+inversion lemma, 551
+orthogonal, 547
+positive deﬁnite, 550
+pseudo inverse, 548
+rank, 547
+
+matrix factorisation, 295
+max-product, 71
+
+N most probable states, 74
+
+max-sum, 75
+maximum cardinality checking, 96
+maximum likelihood, 152, 169, 170, 321
+
+belief network, 171
+
+DRAFT March 9, 2010
+
+INDEX
+
+INDEX
+
+Chow-Liu tree, 212
+counting, 171
+empirical distribution, 170
+factor analysis, 391
+Gaussian, 153
+gradient optimisation, 236
+Markov network, 185
+ML-II, 236
+naive Bayes, 204
+properties, 196
+
+Maximum Likelihood
+
+Hopﬁeld network, 478
+
+MCMC, see Markov chain Monte Carlo
+MDP, see Markov decision process
+mean ﬁeld theory, 522
+
+asynchronous updating, 522
+
+Mercer kernel, 356
+message
+
+passing, 88
+schedule, 68, 88
+message passing, 63
+Metropolis-Hastings acceptance function, 500
+Metropolis-Hastings sampling, 499
+minimum clique cover, 384
+missing at random, 218
+
+completely, 219
+
+missing data, 217
+mixed inference, 77
+mixed membership model, 380
+mixing matrix, 400
+mixture
+
+Gaussian, 163
+mixture model, 365
+
+Bernoulli product, 368
+Dirichlet process mixture, 379
+expectation maximisation, 366
+factor analysis, 394
+Gaussian, 370
+indicator approach, 378
+Markov chain, 414
+PCA, 394
+
+mixture of experts, 377
+MN, see Markov network
+mode, 139
+model
+
+auto-regressive, 438
+changepoint, 468
+deterministic latent variable, 482
+faces, 395
+leaky integrate and ﬁre, 486
+linear, 311
+mixed membership, 380
+mixture, 365
+Rasch, 403
+
+model selection, 241
+
+DRAFT March 9, 2010
+
+approximate, 246
+
+moment generating function, 159
+moment representation, 444
+momentum, 556
+monadic data, 383
+money
+
+ﬁnancial prediction, 247
+loadsa, 247
+
+moralisation, 54, 92
+most probable a posteriori, 10
+most probable path
+
+multiple-source multiple-sink, 76
+
+most probable state
+
+N most probable, 73
+
+MRF, see Markov random ﬁeld
+multiply-connected, 20
+multiply-connected-distributions, 93
+multpots.m, 16
+mutual information, 182, 211, 524
+
+approximation, 524
+conditional, 182
+maximisation, 525
+
+naive Bayes, 203, 368
+
+Bayesian, 208
+tree augmented, 210
+
+Naive Mean Field, 522
+naive mean ﬁeld theory, 520
+natural gradient, 556
+nearest neighbour, 273
+probabilistic, 275
+
+network ﬂow, 540
+network modelling, 297
+neural computation, 475
+neural network, 332, 484
+
+depression, 486
+dynamic synapses, 486
+leaky integrate and ﬁre, 486
+
+Newton update, 324
+Newton’s method, 561
+no forgetting principle, 112
+node
+
+extremal, 73
+simplical, 73
+
+non-negative matrix factorisation, 295
+normal distribution, 146
+normal equations, 313
+normalised importance weights, 507
+
+observed linear dynamical system, 437
+Occam’s razor, 244
+One of m encoding, 263
+online learning, 253
+optimisation, 174, 555
+
+Broyden-Fletcher-Goldfarb-Shanno, 562
+
+587
+
+INDEX
+
+INDEX
+
+conjugate gradients algorithm, 560
+conjugate vectors algorithm, 559
+constrained optimisation, 562
+critical point, 555
+gradient descent, 555
+Luenberger expanding subspace theorem, 559
+Newton’s method, 561
+quasi Newton method, 561
+
+ordinary least squares, 311
+Ornstein-Uhlenbeck, 318
+orthogonal, 543
+orthogonal least squares, 311
+orthonormal, 544
+outcome analysis, 264
+outlier, 329
+over-complete representation, 292
+over-complete representations, 292
+overcounting, 85
+overﬁtting, 194, 245, 350
+
+PageRank, 412
+pairwise comparison models, 405
+pairwise Markov network, 50
+parents, see directed acyclic graph
+part-of-speech tagging, 431
+Partial Least Squares, 399
+partial order, 112
+partially observable MDP, 129
+particle ﬁlter, 509
+partition function, 50, 539
+partitioned matrix
+inversion, 159
+
+Parzen estimator, 275, 375
+path, 508
+
+blocked, 35
+
+PC algorithm, 181
+PCA, see Principal Components Analysis
+perceptron, 321
+
+logistic regression, 321
+
+perfect elimination order, 97
+perfect map, see independence
+perfect sampling, 494
+planning, 124
+plant monitoring, 253
+plate, 166
+Poisson distribution, 144, 163
+policy, 122
+
+iteration, 123
+non-stationary, 127
+stationary deterministic, 128
+
+Polya distribution, 378
+POMDP, see partially observable MDP
+positive deﬁnite
+kernel, 318
+matrix, 349
+
+588
+
+parameterisation, 386
+
+posterior, 10, 165
+Dirichlet, 178
+
+potential, 50
+Potts model, 536
+precision, 148, 155, 334
+prediction
+
+auto-regression, 438
+ﬁnancial, 247
+non-parametric, 347
+parameteric, 347
+
+predictive variance, 334
+predictor-corrector, 417
+Principal Components Analysis, 279, 285
+
+algorithm, 282
+high dimensional data, 285
+kernel, 298
+latent semantic analysis, 287
+missing data, 289
+probabilistic, 397
+
+principal directions, 282
+printer nightmare, 198
+missing data, 237
+
+prior, 10, 165
+probabilistic latent semantic analysis, 292
+
+conditional, 295
+EM algorithm, 293
+probabilistic PCA, 397
+probability
+
+conditional, 4
+
+function, 173
+
+density, 4
+frequentist, 8
+posterior, 10
+potential, 116
+prior, 10
+subjective, 8
+
+probit, 319
+probit regression, 319
+projection, 544
+proposal distribution, 500
+Pseudo Inverse, 476
+pseudo inverse
+
+Hopﬁeld network, 477
+
+pseudo likelihood, 196
+
+quadratic form, 550
+quadratic programming, 326
+query learning, 253
+questionnaire analysis, 403
+
+radial basis functions, 315
+Raleigh quotient, 306
+Random Boolean networks, 482
+Rasch model, 403
+
+DRAFT March 9, 2010
+
+INDEX
+
+Bayesian, 404
+
+Rauch-Tung-Striebel, 419
+reabsorption, 102
+region graphs, 529
+regresion
+
+linear parameter model, 312
+
+regression, 252, 348
+
+logisitic, 319
+
+regularisation, 245, 256, 314, 324
+reinforcement learning, 130, 254
+Relevance Vector Machine, 339
+relevance vector machine, 339, 344
+reparameterisation, 85
+representation
+dual, 316
+over-complete, 292
+sparse, 292
+under-complete, 292
+
+resampling, 507
+reset model, 468
+residuals, 313
+resolution, 12
+responsibility, 372
+restricted Boltzmann machine, 60
+Riccati equation, 448
+risk, 255
+robust classiﬁcation, 329
+Rose-Tarjan-Lueker elimination, 96
+running intersection property, 89, 91
+
+sample
+
+mean, 141
+variance, 141
+
+sampling, 379
+
+ancestral, 494
+Gibbs, 495
+importance, 506
+multi-variate, 493
+particle ﬁlter, 509
+univariate, 492
+
+Sampling Importance Resampling, 507
+scalar product, 543
+scaled mixture, 147
+search engine, 413
+self localisation and mapping, 422
+semi-supervised learning, 254
+
+lower dimensional representations, 261
+
+separator, 86
+sequential importance sampling, 508
+sequential minimal optimisation, 329
+set chain, 102
+shortest path, 75
+shortest weighted path, 76
+sigmoid
+
+logistic, 319
+
+DRAFT March 9, 2010
+
+sigmoid belief network, 239
+sigmoid function
+
+approximate average, 342
+
+simple path, 75
+simplical nodes, 96
+Simpson’s Paradox, 40
+singly-connected, 20
+singular, 548
+Singular Value Decomposition, 286, 550
+
+thin, 307
+
+skeleton, 38, 181
+skewness, 141
+slice sampling, 505
+smoothing, 418
+softmax function, 324, 377
+spam ﬁltering, 208
+spanning tree, 21
+sparse representation, 292
+spectrogram, 441
+speech recognition, 430
+spike response model, 484
+squared Euclidean distance, 273
+squared exponential, 318
+standard deviation, 140
+standard normal distribution, 146
+stationary, 499
+
+distribution, 66
+
+stationary Markov chain, 412
+stationary planner, 125
+stop words, 381
+strong Junction Tree, 117
+strong triangulation, 117
+structure learning, 180
+
+Bayesian, 184
+network scoring, 184
+PC algorithm, 181
+undirected, 196
+
+structured Expectation Propagation, 532
+subsampling, 498
+subspace method, 451
+sum-product, 526
+sum-product algorithm, 68
+supervised learning, 251
+
+-semi, 254
+classiﬁcation, 252
+regression, 252
+
+support vector machine, 325
+
+chunking, 329
+training, 329
+
+support vectors, 327
+SVD, see Singular Value Decomposition
+SVM, see support vector machine
+Swendson-Wang sampling, 504
+switching AR model, 452
+
+INDEX
+
+589
+
+INDEX
+
+INDEX
+
+switching Kalman ﬁlter, see switching linear dynam-
+
+ical system
+
+switching linear dynamical system, 457
+
+under-complete representation, 292
+undirected graph, 20
+undirected model
+
+changepoint model, 468
+expectation correction, 462
+ﬁltering, 458
+Gaussian sum smoothing, 462
+generalised Pseudo Bayes, 466
+inference
+
+computational complexity, 458
+
+likelihood, 461
+smoothing, 464
+
+switching linear dynamical systemcollapsing Gaus-
+
+sians, 461
+
+symmetry breaking, 373
+system reversal, 151
+
+tagging, 431
+tall matrix, 292
+Taylor expansion, 555
+term-document matrix, 287
+test set, 251
+text analysis, 296, 380
+
+latent semantic analysis, 287
+latent topic, 287
+probabilistic latent semantic analysis, 292
+
+time-invariant LDS, 448
+Tower of Hanoi, 124
+trace-log formula, 551
+train set, 251
+training
+
+batch, 322
+discriminative, 260
+generative, 259
+generative-discriminative, 261
+HMM, 423
+linear dynamical system, 449
+online, 323
+
+transfer matrix, 65
+transition distribution, 416
+transition matrix, 437, 442
+tree, 20, 64
+
+Chow-Liu, 210
+
+tree augmented network, 212
+tree width, 98
+triangulation, 94, 96
+
+check, 97
+greedy elimination, 96
+maximum cardinality, 96
+strong, 117
+variable elimination, 96
+
+TrueSkill, 406
+two-ﬁlter smoother, 418
+
+uncertainty, 157
+
+590
+
+learning
+
+hidden variable, 237
+latent variable, 237
+uniform distribution, 144
+unit vector, 543
+unlabelled data, 253
+unsupervised learning, 252, 389
+utility, 107, 254
+matrix, 255
+message, 116
+money, 107
+potential, 116
+zero-one loss, 254
+
+validation, 256
+cross, 256
+
+value, 121
+value iteration, 122
+variable
+
+hidden, 220
+missing, 220
+visible, 220
+
+variable elimination, 63
+variance, 140
+variational approximation
+
+factorised, 520
+structured, 522, 524
+
+variational Bayes, 231
+
+expectation maximisation, 233
+
+variational inference, 126
+varimax, 390
+vector algebra, 543
+vector quantisation, 376
+Viterbi, 74, 229
+Viterbi algorithm, 420
+Viterbi alignment, 416
+Voronoi tessellation, 273
+
+web
+
+modelling, 297
+
+website, 297
+
+analysis, 413
+
+whitening, 152, 163
+Woodbury formula, 551
+
+XOR function, 321
+
+zero-one loss, 254, 329
+
+DRAFT March 9, 2010
+
+

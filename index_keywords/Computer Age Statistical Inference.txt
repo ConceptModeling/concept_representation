@@ -1,0 +1,693 @@
+abc method
+Accelerated gradient descent
+Acceleration
+Accuracy
+after model selection
+Accurate but not correct
+Activation function
+leaky rectiﬁed linear
+rectiﬁed linear
+ReLU
+tanh
+Active set
+adaboost algorithm
+Adaboost.M1
+Adaptation
+Adaptive estimator
+Adaptive rate control
+Additive model
+adaptive
+Adjusted compliance
+Admixture modeling
+Akaike information criterion
+Allele frequency
+American Statistical Association
+Ancillary
+Apparent error
+arcsin transformation
+Arthur Eddington
+Asymptotics
+Autoencoder
+Backﬁtting
+Backpropagation
+Bagged estimate
+Bagging
+Balance equations
+Barycentric plot
+Basis expansion
+deconvolution
+factor
+false-discovery rate
+posterior distribution
+posterior probability
+shrinkage
+t-statistic
+theorem
+inference
+information criterion
+lasso
+lasso prior
+model selection
+trees
+Bayes–frequentist estimation
+Bayesian information criterion
+Bayesianism
+accuracy and correctness
+conﬁdence density
+interval
+method
+Benjamini and Hochberg
+Benjamini–Yekutieli
+Bernoulli
+Best-approximating linear subspace
+Best-subset selection
+distribution
+BHq
+Bias
+Bias-corrected
+conﬁdence intervals
+percentile method
+Bias-correction value
+Biased estimation
+Big-data era
+Binomial
+Coherent behavior
+Common task framework
+Compliance
+Computational bottleneck
+Computer-intensive
+Conditional inference
+inference
+statistics
+Conditional
+full
+lasso
+Conditionality
+density
+distribution
+interval
+region
+Conjugate
+prior
+priors
+layer
+Convolution
+distribution
+log-likelihood
+standard deviation
+Bioassay
+Biometrika
+Bivariate normal
+Bonferroni bound
+Boole’s inequality
+Boosting
+Bootstrap
+Baron Munchausen
+Bayesian
+cdf
+conﬁdence intervals
+ideal estimate
+jackknife after
+moving blocks
+multisample
+nonparametric
+out of bootstrap
+packages
+parametric
+probabilities
+replication
+sample
+sample size
+smoothing
+t
+t intervals
+Bound form
+Bounding hyperplane
+Burn-in
+BYq algorithm
+data
+not truncated
+Centering
+Central limit theorem
+Chain rule for differentiation
+Classic statistical inference
+Classiﬁcation
+Classiﬁcation accuracy
+Classiﬁcation error
+Classiﬁcation tree
+Cochran–Mantel–Haenszel test
+Convex optimization
+Corrected differences
+Correlation effects
+formula
+penalty
+Coverage
+Coverage level
+Coverage matching prior
+Cp
+Cram´er–Rao lower bound
+Credible interval
+Cross-validation
+estimate
+K-fold
+leave one out
+Cumulant generating function
+Curse of dimensionality
+Dark energy
+Data analysis
+Data science
+binomial
+gamma
+Gaussian
+normal
+Poisson
+Divide-and-conquer algorithm
+Document retrieval
+Dose–response
+Dropout learning
+Early computer-age
+Early stopping
+Effect size
+Efﬁciency
+Eigenratio
+Elastic net
+Ellipsoid
+EM algorithm
+missing data
+Empirical Bayes
+estimation strategies
+information
+large-scale testing
+Empirical null
+estimation
+maximum-likelihood estimation
+Empirical probability distribution
+Ensemble
+Ephemeral predictors
+Epoch
+Equilibrium distribution
+Equivariant
+Exact inferences
+Expectation parameter
+Exponential family
+p-parameter
+curved
+one-parameter
+F distribution
+F tests
+f -modeling
+Fake-data principle
+control
+False discovery
+control
+control theorem
+proportion
+rate
+ALS
+baseball
+butterfly
+cell infusion
+cholesterol
+CIFAR-100
+diabetes
+dose-response
+galaxy
+head/neck cancer
+human ancestry
+insurance
+kidney function
+leukemia
+NCOG
+nodes
+pediatric cancer
+police
+prostate
+protein classification
+shakespear
+spam
+student score
+supernova
+vasoconstriction
+Data snooping
+De Finetti
+De Finetti–Savage school
+Debias
+Decision rule
+Deconvolution
+Deep learning
+Deﬁnitional bias
+Degrees of freedom
+Delta method
+Deviance
+Deviance residual
+Diffusion tensor imaging
+Direct evidence
+Directional derivatives
+beta
+rate
+Family of probability densities
+Family-wise error rate
+Feed-forward
+Fiducial
+constructions
+density
+inference
+Fisher
+Fisher information
+bound
+matrix
+Fisherian correctness
+Fisherian inference
+Fixed-knot regression splines
+Flat prior
+Forward pass
+Forward-stagewise
+Forward-stepwise
+computations
+logistic regression
+regression
+Fully connected layer
+Functional gradient descent
+g-modeling
+Gamma
+distribution
+General information criterion
+linear mixed model
+linear model
+ridge problem
+Genome
+Genome-wide association studies
+Gibbs sampling
+Frailties
+Frequentism
+method
+transform
+Frequentist
+inference
+strongly
+Google ﬂu trends
+Gradient boosting
+Gradient descent
+Gram matrix
+Gram-Schmidt orthogonalization
+Graphical lasso
+Greenwood’s formula
+Group lasso
+Hadamard product
+Handwritten digits
+Haplotype estimation
+Hazard rate
+parametric estimate
+Hidden layer
+High-order interaction
+Hinge loss
+learning with
+Hoeffding’s lemma
+Holm’s procedure
+Homotopy path
+Hypergeometric distribution
+Imputation
+Inadmissible
+Indirect evidence
+Inductive inference
+Inference
+Inference after model selection
+Inferential triangle
+Inﬁnitesimal forward stagewise
+Inﬁnitesimal jackknife
+estimate
+standard deviations
+Inﬂuence function
+empirical
+Inﬂuenza outbreaks
+Input distortion
+Input layer
+Insample error
+Inverse chi-squared
+Inverse gamma
+Iteratively reweighted least squares
+Jackknife
+estimate of standard error
+standard error
+estimation
+ridge regression
+prior
+prior
+prior
+scale
+Jumpiness of estimator
+Kaplan–Meier
+estimate
+conditions
+function
+logistic regression
+method
+SVM
+trick
+Kernel smoothing
+Knots
+Kullback–Leibler distance
+dual
+form
+multiplier
+hypothesis testing
+testing
+Large-scale prediction algorithms
+Lasso
+modiﬁcation
+path
+penalty
+Learning rate
+Least squares
+Least-angle regression
+Least-favorable family
+Left-truncated
+Lehmann alternative
+Life table
+Likelihood function
+concavity
+Limited-translation rule
+Lindsey’s method
+Linearly separable
+Link function
+Local false-discovery rate
+Local regression
+Local translation invariance
+Log polynomial regression
+Log-rank statistic
+Log-rank test
+Logic of inductive inference
+Logistic regression
+multiclass
+Logit
+Loss plus penalty
+Machine learning
+Mantel–Haenzel test
+MAP
+MAP estimate
+Margin
+Marginal density
+Markov chain theory
+Martingale theory
+Matching prior
+Matlab
+Matrix completion
+Max pool layer
+Maximum likelihood
+Maximum likelihood estimation
+MCMC
+McNemar test
+Mean absolute deviation
+Median unbiased
+Memory-based methods
+Meter reader
+Meter-reader
+Microarrays
+Minitab
+Misclassiﬁcation error
+Missing data
+EM algorithm
+Missing-species problem
+Mixed features
+Mixture density
+Model averaging
+Model selection
+criteria
+Monotone lasso
+Monotonic increasing function
+distribution
+from Poisson
+Multiple testing
+analysis
+normal
+n-gram
+N-P complete
+Nadaraya–Watson estimator
+Natural parameter
+Natural spline model
+Nested models
+Neural network
+adaptive tuning
+number of hidden layers
+Neurons
+Neyman’s construction
+predictor
+One-sample problems
+Optical character recognition
+Optimal separating hyperplane
+Optimal-margin classiﬁer
+Optimality
+Oracle
+Orthogonal parameters
+Out-of-bag error
+Out-the-box learning algorithm
+Output layer
+Outsample error
+Over parametrized
+Overﬁtting
+Overshrinks
+p-value
+gbm
+glmnet
+h2o
+lars
+liblineaR
+locfdr
+lowess
+nlm
+randomForest
+selectiveInference
+Pairwise inner products
+Parameter space
+Parametric bootstrap
+Parametric family
+Parametric models
+Partial likelihood
+Partial logistic regression
+Partial residual
+Path-wise coordinate descent
+least squares
+likelihood
+logistic regression
+maximum likelihood
+Percentile method
+central interval
+Permutation null
+Permutation test
+Phylogenetic tree
+Neyman–Pearson
+Non-null
+Noncentral chi-square variable
+Nonlinear transformations
+Nonlinearity
+regression
+Nonparametric
+MLE
+percentile interval
+correlation coefﬁcient
+distribution
+multivariate
+regression model
+theory
+Nuclear norm
+Nuisance parameters
+Objective Bayes
+inference
+intervals
+prior distribution
+Offset
+algorithm
+estimation
+linear
+nonlinear
+argument
+quantity
+statistic
+Poisson
+distribution
+regression
+Poisson regression
+Polynomial kernel
+Positive-deﬁnite function
+Post-selection inference
+Posterior density
+Posterior distribution
+Postwar era
+errors
+rule
+Predictors
+Principal components
+Prior distribution
+beta
+conjugate
+coverage matching
+gamma
+normal
+objective Bayes
+proper
+Probit analysis
+Propagation of errors
+Proper prior
+Proportional hazards model
+Proximal-Newton
+q-value
+QQ plot
+QR decomposition
+Quadratic program
+Quasilikelihood
+Quetelet
+R
+Random forest
+Monte Carlo variance
+interval
+theorem
+Score function
+Score tests
+Second-order accuracy
+sampling variance
+standard error
+Randomization
+Rao–Blackwell
+Rate annealing
+Rectiﬁed linear
+Regression
+Regression rule
+Regression to the mean
+Regression tree
+Regularization
+path
+Relevance
+Relevance function
+Relevance theory
+Reproducing kernel Hilbert space
+Resampling
+plans
+simplex
+vector
+Residual deviance
+Response
+Ridge regression
+James–Stein
+Ridge regularization
+logistic regression
+Right-censored
+Risk set
+Robbins’ formula
+Robust estimation
+Royal Statistical Society
+S language
+Sample correlation coefﬁcient
+Sample size coherency
+Sampling distribution
+SAS
+Savage
+Fisher
+Jeffreys
+Selection bias
+Self-consistent
+Separating hyperplane
+geometry
+Seven-league boots
+Shrinkage
+estimator
+Sigmoid function
+Signiﬁcance level
+Simulation
+Simultaneous inference
+Sinc kernel
+Smoothing operator
+SNP
+Soft margin classiﬁer
+Soft-threshold
+Softmax
+Spam ﬁlter
+models
+principal components
+Sparse matrix
+Sparsity
+Split-variable randomization
+SPSS
+Squared error
+Standard candles
+Standard error
+external
+internal
+Standard interval
+paradox
+unbiased risk estimate
+Stepwise selection
+Stochastic gradient descent
+Stopping rule
+Stopping rules
+String kernel
+Strong rules
+Structure
+Structure matrix
+conﬁdence interval
+distribution
+statistic
+two-sample
+Studentized range
+condition
+equation
+Subjective prior distribution
+Subjective probability
+Subjectivism
+Sufﬁciency
+statistic
+vector
+Supervised learning
+set
+vector
+vector classiﬁers
+vector machine
+Survival analysis
+Survival curve
+Lagrange dual
+Lagrange primal
+loss function
+Taylor series
+Theoretical null
+Tied weights
+Training set
+Transformation invariance
+Transient episodes
+averaging
+best-ﬁrst
+depth
+terminal node
+Tricube kernel
+Trimmed mean
+True error rate
+True-discovery rates
+Tukey
+Tukey
+Tweedie’s formula
+Two-groups model
+Uncorrected differences
+Uninformative prior
+Universal approximator
+Unlabeled images
+Unobserved covariates
+Validation set
+Vapnik
+Variable-importance plot
+Variance
+Variance reduction
+Velocity vector
+Voting
+Warm starts
+Weak learner
+decay
+regularization
+sharing
+Weighted exponential loss
+Weighted least squares
+Weighted majority vote
+Weights
+Wide data
+Wilks’ likelihood ratio statistic
+Winner’s curse
+Winsorized mean
+Working response
+Zero set

@@ -1,0 +1,121 @@
+alpha-beta search, 22, 24, 34
+
+chess, 34
+
+dark web, 187
+data source
+
+CIA World FactBook, 181
+USA state data, 181
+
+expert system, 73
+
+backward chaining, 74
+business process knowledge, 73
+Drools, 73
+Drools embedded Java, 77
+Drools rule syntax, 75
+forward chaining, 73
+Jess, 73
+LHS, 75
+OPS5, 73
+production rules, 75
+RHS, 75
+
+game playing, 22
+genetic algorithm, 99
+chromosome, 99
+crossover, 104
+ﬁtness, 99
+library API, 101
+mutation, 104
+
+indexing, 187, 193, 197
+
+Lucene, 193
+Nutch, 197
+
+JDBC, 181
+
+Derby, 181
+
+knowledge representation, 55
+
+logic, 46
+
+Aristotle, 47
+Description Logic, 48
+ﬁrst order, 46
+ﬁrst order predicate, 47
+Frege, 46
+Peirce, 46
+
+LOOM, 45
+
+machine learning, 129
+
+C4.5, 129
+J48, 129
+Nave Bayes, 129
+Weka, 129
+
+neural network, 109
+
+back propagation, 116
+Hopﬁeld, 110
+neuron, 110
+
+Open Calais, 177
+
+PowerLoom, 45, 48
+
+Java embedded, 52
+running interactively, 49
+
+Prolog, 47, 55, 74
+
+reasoning, 45
+relational database, 181
+
+Derby, 181
+
+search, 187, 193, 197
+
+Lucene, 193
+Nutch, 197
+
+search tree, 5
+semantic web, 57
+
+example RDF data, 63
+Jena, 57
+
+209
+
+Index
+
+N-triple, 60
+N3, 60
+OWL, 57
+Protege, 57
+RDF, 59
+RDFS, 59
+Sesame, 57, 67
+SPARQL, 65
+statistical NLP, 137
+
+auto-classiﬁcation, 150
+auto-tagging, 150
+Markov models, 166
+named entity extraction, 141
+spelling, 156
+tagging, 138
+text clustering, 152
+tokenize, 138
+WordNet, 144
+
+tic-tac-toe, 22
+
+210
+
+

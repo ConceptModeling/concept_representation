@@ -1,0 +1,387 @@
+3-term DNF, 107
+F1-score, 244
+(cid:96)1 norm, 183, 332, 363, 386
+
+accuracy, 38, 43
+activation function, 269
+AdaBoost, 130, 134, 362
+all-pairs, 228, 404
+approximation error, 61, 64
+auto-encoders, 368
+
+backpropagation, 278
+backward elimination, 363
+bag-of-words, 209
+base hypothesis, 137
+Bayes optimal, 46, 52, 260
+Bayes rule, 354
+Bayesian reasoning, 353
+Bennet’s inequality, 426
+Bernstein’s inequality, 426
+bias, 37, 61, 64
+bias-complexity tradeoﬀ, 65
+boolean conjunctions, 51, 79, 106
+boosting, 130
+boosting the conﬁdence, 142
+boundedness, 165
+
+C4.5, 254
+CART, 254
+chaining, 389
+Chebyshev’s inequality, 423
+Chernoﬀ bounds, 423
+class-sensitive feature mapping, 230
+classiﬁer, 34
+clustering, 307
+spectral, 315
+
+compressed sensing, 330
+compression bounds, 410
+compression scheme, 411
+computational complexity, 100
+conﬁdence, 38, 43
+consistency, 92
+Consistent, 289
+contraction lemma, 381
+convex, 156
+
+function, 157
+
+set, 156
+strongly convex, 174, 195
+
+convex-Lipschitz-bounded learning, 166
+convex-smooth-bounded learning, 166
+covering numbers, 388
+curse of dimensionality, 263
+
+decision stumps, 132, 133
+decision trees, 250
+dendrogram, 309, 310
+dictionary learning, 368
+diﬀerential set, 188
+dimensionality reduction, 323
+discretization trick, 57
+discriminative, 342
+distribution free, 342
+domain, 33
+domain of examples, 48
+doubly stochastic matrix, 242
+duality, 211
+
+strong duality, 211
+weak duality, 211
+
+Dudley classes, 81
+
+eﬃcient computable, 100
+EM, 348
+empirical error, 35
+empirical risk, 35, 48
+Empirical Risk Minimization, see ERM
+entropy, 345
+
+relative entropy, 345
+
+epigraph, 157
+ERM, 35
+error decomposition, 64, 168
+estimation error, 61, 64
+Expectation-Maximization, see EM
+
+face recognition, see Viola-Jones
+feasible, 100
+feature, 33
+feature learning, 368
+feature normalization, 365
+feature selection, 357, 358
+feature space, 215
+feature transformations, 367
+ﬁlters, 359
+
+Understanding Machine Learning, c(cid:13) 2014 by Shai Shalev-Shwartz and Shai Ben-David
+Published 2014 by Cambridge University Press.
+Personal use only. Not for distribution. Do not post.
+Please link to http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning
+
+448
+
+Index
+
+forward greedy selection, 360
+frequentist, 353
+
+gain, 253
+GD, see gradient descent
+generalization error, 35
+generative models, 342
+Gini index, 254
+Glivenko-Cantelli, 58
+gradient, 158
+gradient descent, 185
+Gram matrix, 219
+growth function, 73
+
+halfspace, 118
+
+homogenous, 118, 205
+non-separable, 119
+separable, 118
+
+Halving, 289
+hidden layers, 270
+Hilbert space, 217
+Hoeﬀding’s inequality, 56, 425
+hold out, 146
+hypothesis, 34
+hypothesis class, 36
+
+i.i.d., 38
+ID3, 252
+improper, see representation independent
+inductive bias, see bias
+information bottleneck, 317
+information gain, 254
+instance, 33
+
+instance space, 33
+
+integral image, 143
+
+Johnson-Lindenstrauss lemma, 329
+
+k-means, 311, 313
+
+soft k-means, 352
+
+k-median, 312
+k-medoids, 312
+Kendall tau, 239
+kernel PCA, 326
+kernels, 215
+
+Gaussian kernel, 220
+kernel trick, 217
+polynomial kernel, 220
+RBF kernel, 220
+
+label, 33
+Lasso, 365, 386
+
+generalization bounds, 386
+
+latent variables, 348
+LDA, 347
+Ldim, 290, 291
+learning curves, 153
+least squares, 124
+likelihood ratio, 348
+linear discriminant analysis, see LDA
+linear predictor, 117
+
+homogenous, 118
+
+linear programming, 119
+linear regression, 122
+linkage, 310
+Lipschitzness, 160, 176, 191
+
+sub-gradient, 190
+
+Littlestone dimension, see Ldim
+local minimum, 158
+logistic regression, 126
+loss, 35
+loss function, 48
+
+0-1 loss, 48, 167
+absolute value loss, 124, 128, 166
+convex loss, 163
+generalized hinge-loss, 233
+hinge loss, 167
+Lipschitz loss, 166
+log-loss, 345
+logistic loss, 127
+ramp loss, 209
+smooth loss, 166
+square loss, 48
+surrogate loss, 167, 302
+
+margin, 203
+Markov’s inequality, 422
+Massart lemma, 380
+max linkage, 310
+maximum a-posteriori, 355
+maximum likelihood, 343
+McDiarmid’s inequality, 378
+MDL, 89, 90, 251
+measure concentration, 55, 422
+Minimum Description Length, see MDL
+mistake bound, 288
+mixture of Gaussians, 348
+model selection, 144, 147
+multiclass, 47, 227, 402
+
+cost-sensitive, 232
+linear predictors, 230, 405
+multi-vector, 231, 406
+Perceptron, 248
+reductions, 227, 405
+SGD, 235
+SVM, 234
+
+multivariate performance measures, 243
+
+Naive Bayes, 347
+Natarajan dimension, 402
+NDCG, 239
+Nearest Neighbor, 258
+
+k-NN, 258
+
+neural networks, 268
+
+feedforward networks, 269
+layered networks, 269
+SGD, 277
+
+no-free-lunch, 61
+non-uniform learning, 84
+
+Index
+
+449
+
+sample complexity, 44
+Sauer’s lemma, 73
+self-boundedness, 162
+sensitivity, 244
+SGD, 190
+shattering, 69, 403
+single linkage, 310
+Singular Value Decomposition, see SVD
+Slud’s inequality, 428
+smoothness, 162, 177, 198
+SOA, 292
+sparsity-inducing norms, 363
+speciﬁcity, 244
+spectral clustering, 315
+SRM, 85, 145
+stability, 173
+Stochastic Gradient Descent, see SGD
+strong learning, 132
+Structural Risk Minimization, see SRM
+structured output prediction, 236
+sub-gradient, 188
+Support Vector Machines, see SVM
+SVD, 431
+SVM, 202, 383
+duality, 211
+generalization bounds, 208, 383
+hard-SVM, 203, 204
+homogenous, 205
+kernel trick, 217
+soft-SVM, 206
+support vectors, 210
+
+target set, 47
+term-frequency, 231
+TF-IDF, 231
+training error, 35
+training set, 33
+true error, 35, 45
+
+underﬁtting, 65, 152
+uniform convergence, 54, 55
+union bound, 39
+unsupervised learning, 308
+
+validation, 144, 146
+
+cross validation, 149
+train-validation-test split, 150
+
+Vapnik-Chervonenkis dimension, see VC
+
+dimension
+
+VC dimension, 67, 70
+version space, 289
+Viola-Jones, 139
+
+weak learning, 130, 131
+Weighted-Majority, 295
+
+Normalized Discounted Cumulative Gain,
+
+see NDCG
+
+Occam’s razor, 91
+OMP, 360
+one-vs-all, 227
+one-vs-rest, see one-vs-all
+one-vs.-all, 404
+online convex optimization, 300
+online gradient descent, 300
+online learning, 287
+optimization error, 168
+oracle inequality, 179
+orthogonal matching pursuit, see OMP
+overﬁtting, 35, 65, 152
+
+PAC, 43
+
+agnostic PAC, 45, 46
+agnostic PAC for general loss, 49
+
+PAC-Bayes, 415
+parametric density estimation, 342
+PCA, 324
+Pearson’s correlation coeﬃcient, 359
+Perceptron, 120
+
+kernelized Perceptron, 225
+multiclass, 248
+online, 301
+
+permutation matrix, 242
+polynomial regression, 125
+precision, 244
+predictor, 34
+preﬁx free language, 89
+Principal Component Analysis, see PCA
+prior knowledge, 63
+Probably Approximately Correct, see PAC
+projection, 193
+
+projection lemma, 193
+
+proper, 49
+pruning, 254
+
+Rademacher complexity, 375
+random forests, 255
+random projections, 329
+ranking, 238
+
+bipartite, 243
+realizability, 37
+recall, 244
+regression, 47, 122, 172
+regularization, 171
+
+Tikhonov, 172, 174
+
+regularized loss minimization, see RLM
+representation independent, 49, 107
+representative sample, 54, 375
+representer theorem, 218
+ridge regression, 172
+
+kernel ridge regression, 225
+
+RIP, 331
+risk, 35, 45, 48
+RLM, 171, 199
+
+

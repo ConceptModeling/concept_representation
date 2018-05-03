@@ -1,0 +1,2175 @@
+Abu-Mostafa, Yaser, 482
+acceptance rate, 365, 369, 394
+acceptance ratio method, 379
+accumulator, 254, 570, 582
+activation function, 471
+activity rule, 470, 471
+adaptive direction sampling, 393
+adaptive models, 101
+adaptive rejection sampling, 370
+address, 201, 468
+Aiyer, Sree, 518
+Alberto, 56
+alchemists, 74
+algebraic coding theory, 19, 574
+algorithm, see learning algorithms
+
+BCJR, 330
+belief propagation, 330, 336
+covariant, 442
+EM, 432
+exact sampling, 413
+expectation{maximization, 432
+function minimization, 473
+genetic, 395, 396
+Hamiltonian Monte Carlo, 387,
+
+496
+
+independent component analysis,
+
+443
+
+Langevin Monte Carlo, 496
+leapfrog, 389
+max{product, 339
+message-passing, 330
+min{sum, 339
+Monte Carlo, see Monte Carlo
+
+methods
+
+Newton{Raphson, 303, 441
+perfect simulation, 413
+sum{product, 336
+Viterbi, 340
+
+Alice, 199
+Allais paradox, 454
+alphabetical ordering, 194
+America, 354
+American, 238, 260
+amino acid, 201, 204, 279, 362
+anagram, 200
+
+Index
+
+annealing, 379, 392, 397
+
+deterministic, 518
+importance sampling, 379
+
+antiferromagnetic, 400
+ape, 269
+approximation
+
+by Gaussian, 2, 301, 341, 350,
+
+496
+
+Laplace, 341, 547
+of complex distribution, 185, 282,
+
+364, 422, 433
+
+of density evolution, 567
+saddle-point, 341
+Stirling, 1
+variational, 422
+
+arabic, 127
+architecture, 470, 529
+arithmetic coding, 101, 110, 111
+
+decoder, 118
+software, 121
+uses beyond compression, 118,
+
+250, 255
+
+arithmetic progression, 344
+arms race, 278
+arti(cid:12)cial intelligence, 121, 129
+associative memory, 468, 505, 507
+assumptions, 26, 50
+astronomy, 551
+asymptotic equipartition, 80, 384
+
+why it is a misleading term, 83
+
+Atlantic, 173
+AutoClass, 306
+automatic relevance determination,
+
+532, 544
+
+automobile data reception, 594
+average, 26, see expectation
+AWGN, 177
+
+background rate, 307
+backpropagation, 473, 475, 528, 535
+backward pass, 244
+bad, see error-correcting code
+Balakrishnan, Sree, 518
+balance, 66
+Baldwin e(cid:11)ect, 279
+ban (unit), 264
+Banburismus, 265
+band-limited signal, 178
+bandwidth, 178, 182
+bar-code, 262, 399
+base transitions, 373
+base-pairing, 280
+basis dependence, 306, 342
+bat, 213, 214
+
+620
+
+battleships, 71
+Bayes’ theorem, 6, 24, 25, 27, 28,
+
+48{50, 53, 148, 324, 344,
+347, 446, 493, 522
+
+Bayes, Rev. Thomas, 51
+Bayesian belief networks, 293
+Bayesian inference, 26, 346, 457
+BCH codes, 13
+BCJR algorithm, 330, 578
+bearing, 307
+Belarusian, 238
+belief, 57
+belief propagation, 330, 557, see
+
+message passing and
+sum{product algorithm
+
+Benford’s law, 446
+bent coin, 1, 30, 38, 51, 76, 113, 307
+Berlekamp, Elwyn, 172, 213
+Bernoulli distribution, 117
+Berrou, C., 186
+bet, 200, 209, 455
+beta distribution, 316
+beta function, 316
+beta integral, 30
+Bethe free energy, 434
+Bhattacharyya parameter, 215
+bias, 345, 506
+
+in neural net, 471
+in statistics, 306, 307, 321
+
+biexponential, 88, 313, 448
+bifurcation, 89, 291, 426
+binary entropy function, 2, 15
+binary erasure channel, 148, 151
+binary images, 399
+binary representations, 132
+binary symmetric channel, 4, 148,
+
+151, 211, 215, 229
+
+binding DNA, 201
+binomial distribution, 1, 311
+bipartite graph, 19
+birthday, 156, 157, 160, 198, 200
+bit, 3, 73
+bit (unit), 264
+bits back, 104, 108, 353
+bivariate Gaussian, 388
+black, 355
+Bletchley Park, 265
+Blind Watchmaker, 269, 396
+block code, 9, see source code or
+
+error-correcting code
+
+block-sorting, 121
+blood group, 55
+blow up, 306
+blur, 549
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+Index
+
+Bob, 199
+Boltzmann entropy, 85
+Boltzmann machine, 522
+bombes, 265
+book ISBN, 235
+bookies, 456
+Bottou, Leon, 121
+bound, 85
+
+union, 166, 216, 230
+
+bounded-distance decoder, 207, 212
+bounding chain, 419
+box, 343, 351
+boyish matters, 58
+brain, 468
+Bridge, 126
+British, 260
+broadcast channel, 237, 239, 594
+Brody, Carlos, 246
+Brownian motion, 280, 316, 535
+BSC, see channel, binary symmetric
+budget, 94, 96
+Bu(cid:11)on’s needle, 38
+BUGS, 371, 431
+buoy, 307
+burglar alarm and earthquake, 293
+Burrows{Wheeler transform, 121
+burst errors, 185, 186
+bus-stop paradox, 39, 46, 107
+byte, 134, 265
+
+cable labelling, 175
+calculator, 320
+camera, 549
+canonical, 88
+capacity, 14, 146, 150, 151, 183, 484
+
+channel with synchronization
+
+errors, 187
+
+constrained channel, 251
+Gaussian channel, 182
+Hop(cid:12)eld network, 514
+neural network, 483
+neuron, 483
+symmetry argument, 151
+
+car data reception, 594
+card, 233
+casting out nines, 198
+Cauchy distribution, 85, 88, 313, 362
+caution, see sermon
+
+equipartition, 83
+Gaussian distribution, 312
+importance sampling, 362, 382
+sampling theory, 64
+
+cave, 214
+caveat, see caution and sermon
+cellphone, see mobile phone
+cellular automaton, 130
+central-limit theorem, 36, 41, 88, 131,
+
+see law of large numbers
+
+centre of gravity, 35
+chain rule, 528
+challenges, 246
+
+Tanner, 569
+
+channel
+
+AWGN, 177
+binary erasure, 148, 151
+
+binary symmetric, 4, 146, 148,
+
+151, 206, 211, 215, 229
+
+broadcast, 237, 239, 594
+bursty, 185, 557
+capacity, 14, 146, 150, 250
+
+connection with physics, 257
+
+coding theorem, see
+
+noisy-channel coding
+theorem
+
+complex, 184, 557
+constrained, 248, 255, 256
+continuous, 178
+discrete memoryless, 147
+erasure, 188, 219, 589
+extended, 153
+fading, 186
+Gaussian, 155, 177, 186
+input ensemble, 150
+multiple access, 237
+multiterminal, 239
+noiseless, 248
+noisy, 3, 146
+noisy typewriter, 148, 152
+symmetric, 171
+two-dimensional, 262
+unknown noise level, 238
+variable symbol durations, 256
+with dependent sources, 236
+with memory, 557
+Z channel, 148, 149, 150, 172
+
+cheat, 200
+Chebyshev inequality, 81, 85
+checkerboard, 404, 520
+Cherno(cid:11) bound, 85
+chess, 451
+chess board, 406, 520
+chi-squared, 27, 40, 323, 458
+Cholesky decomposition, 552
+chromatic aberration, 552
+cinema, 187
+circle, 316
+classical statistics, 64
+
+criticisms, 32, 50, 457
+
+classi(cid:12)er, 532
+Clockville, 39
+clustering, 284, 303
+coalescence, 413
+cocked hat, 307
+code, see error-correcting code, source
+code (for data compression),
+symbol code, arithmetic
+coding, linear code, random
+code or hash code
+
+dual, see error-correcting code,
+
+dual
+
+for constrained channel, 249
+
+variable-length, 255
+
+code-equivalent, 576
+codebreakers, 265
+codeword, see source code, symbol
+code, or error-correcting
+code
+
+coding theory, 4, 19, 205, 215, 574
+coin, 1, 30, 38, 63, 76, 307, 464
+coincidence, 267, 343, 351
+
+621
+
+collective, 403
+collision, 200
+coloured noise, 179
+combination, 2, 490, 598
+commander, 241
+communication, v, 3, 16, 138, 146,
+
+156, 162, 167, 178, 182, 186,
+192, 205, 210, 215, 394, 556,
+562, 596
+
+broadcast, 237
+of dependent information, 236
+over noiseless channels, 248
+perspective on learning, 483, 512
+
+competitive learning, 285
+complexity, 531, 548
+complexity control, 289, 346, 347, 349
+compress, 119
+compression, see source code
+
+future methods, 129
+lossless, 74
+lossy, 74, 284, 285
+of already-compressed (cid:12)les, 74
+of any (cid:12)le, 74
+universal, 121
+
+computer, 370
+concatenation, 185, 214, 220
+
+error-correcting codes, 16, 21,
+
+184, 185, 579
+in compression, 92
+in Markov chains, 373
+
+concave _, 35
+conditional entropy, 138, 146
+cones, 554
+con(cid:12)dence interval, 457, 464
+con(cid:12)dence level, 464
+confused gameshow host, 57
+conjugate gradient, 479
+conjugate prior, 319
+conjuror, 233
+connection between
+
+channel capacity and physics, 257
+error correcting code and latent
+
+variable model, 437
+pattern recognition and
+
+error-correction, 481
+
+supervised and unsupervised
+
+learning, 515
+
+vector quantization and
+
+error-correction, 285
+
+connection matrix, 253, 257
+constrained channel, 248, 257, 260,
+
+399
+
+variable-length code, 249
+
+constraint satisfaction, 516
+content-addressable memory, 192, 193,
+
+469, 505
+
+continuous channel, 178
+control treatment, 458
+conventions, see notation
+convex hull, 102
+convex ^, 35
+convexity, 370
+convolution, 568
+convolutional code, 184, 186, 574, 587
+
+equivalence, 576
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+622
+
+Conway, John H., 86, 520
+Copernicus, 346
+correlated sources, 138, 237
+correlations, 505
+
+among errors, 557
+and phase transitions, 602
+high-order, 524
+in images, 549
+
+cost function, 180, 451
+cost of males, 277
+counting, 241
+counting argument, 21, 222
+coupling from the past, 413
+covariance, 440
+covariance function, 535
+covariance matrix, 176
+covariant algorithm, 442
+Cover, Thomas, 456, 482
+Cox axioms, 26
+crib, 265, 268
+critical (cid:13)uctuations, 403
+critical path, 246
+cross-validation, 353, 531
+crossover, 396
+crossword, 260
+cryptanalysis, 265, 578
+cryptography, 200, 578
+
+digital signatures, 199
+tamper detection, 199
+
+cumulative probability function, 156
+cycles in graphs, 242
+cyclic, 19
+
+Dasher, 119
+data compression, 73, see source code
+
+and compression
+
+data entry, 118
+data modelling, see modelling
+data set, 288
+Davey, Matthew C., 569
+death penalty, 354, 355
+deciban (unit), 264
+decibel, 178, 186
+decision theory, 346, 451
+decoder, 4, 146, 152
+
+bitwise, 220, 324
+bounded-distance, 207
+codeword, 220, 324
+maximum a posteriori, 325
+probability of error, 221
+
+deconvolution, 551
+degree, 568
+degree sequence, see pro(cid:12)le
+degrees of belief, 26
+degrees of freedom, 322, 459
+d(cid:19)ej(cid:18)a vu, 121
+delay line, 575
+Delbr(cid:127)uck, Max, 446
+deletions, 187
+delta function, 438, 600
+density evolution, 566, 567, 592
+density modelling, 284, 303
+dependent sources, 138, 237
+depth of lake, 359
+design theory, 209
+detailed balance, 374, 391
+
+detection of forgery, 199
+deterministic annealing, 518
+dictionary, 72, 119
+die, rolling, 38
+di(cid:11)erence-set cyclic code, 569
+di(cid:11)erentiator, 254
+di(cid:11)usion, 316
+digamma function, 598
+digital cinema, 187
+digital fountain, 590
+digital signature, 199, 200
+digital video broadcast, 593
+dimensions, 180
+dimer, 204
+directory, 193
+Dirichlet distribution, 316
+Dirichlet model, 117
+discriminant function, 179
+discriminative training, 552
+disease, 25, 458
+disk drive, 3, 188, 215, 248, 255
+distance, 205
+DKL, 34
+bad, 207, 214
+distance distribution, 206
+entropy distance, 140
+Gilbert{Varshamov, 212, 221
+good, 207
+Hamming, 206
+isn’t everything, 215
+of code, 206, 214, 220
+
+good/bad, 207
+
+of concatenated code, 214
+of product code, 214
+relative entropy, 34
+very bad, 207
+
+distribution, 311
+
+beta, 316
+biexponential, 313
+binomial, 311
+Cauchy, 85, 312
+Dirichlet, 316
+exponential, 311, 313
+gamma, 313
+Gaussian, 312
+
+sample from, 312
+
+inverse-cosh, 313
+log-normal, 315
+Luria{Delbr(cid:127)uck, 446
+normal, 312
+over periodic variables, 315
+Poisson, 175, 311, 315
+Student-t, 312
+Von Mises, 315
+
+divergence, 34
+DjVu, 121
+DNA, 3, 55, 201, 204, 257, 421
+
+replication, 279, 280
+
+do the right thing, 451
+dodecahedron code, 20, 206, 207
+dongle, 558
+doors, on game show, 57
+Dr. Bloggs, 462
+draw straws, 233
+dream, 524
+
+Index
+
+DSC, see di(cid:11)erence-set cyclic code
+dual, 216
+dumb Metropolis, 394, 496
+
+Eb=N0, 177, 178, 223
+earthquake and burglar alarm, 293
+earthquake, during game show, 57
+Ebert, Todd, 222
+edge, 251
+eigenvalue, 254, 342, 372, 409, 606
+Elias, Peter, 111, 135
+EM algorithm, 283, 432
+email, 201
+empty string, 119
+encoder, 4
+energy, 291, 401, 601
+English, 72, 110, 260
+Enigma, 265, 268
+ensemble, 67
+
+extended, 76
+
+ensemble learning, 429
+entropic distribution, 318, 551
+entropy, 2, 32, 67, 601
+
+Boltzmann, 85
+conditional, 138
+Gibbs, 85
+joint, 138
+marginal, 139
+mutual information, 139
+of continuous variable, 180
+relative, 34
+
+entropy distance, 140
+epicycles, 346
+equipartition, 80
+erasure channel, 219, 589
+erasure correction, 188, 190, 220
+erf, 156, see error function
+ergodic, 120, 373
+error bars, 301, 501
+error correction, see error-correcting
+
+code
+
+in DNA replication, 280
+in protein synthesis, 280
+error detection, 198, 199, 203
+error (cid:13)oor, 581
+error function, 156, 473, 490, 514, 529,
+
+599
+
+error probability
+
+and distance, 215, 221
+block, 152
+in compression, 74
+
+error-correcting code, 188, 203
+
+bad, 183, 207
+block code, 9, 151, 183
+concatenated, 184{186, 214, 579
+convolutional, 184, 574, 587
+cyclic, 19
+decoding, 184
+density evolution, 566
+di(cid:11)erence-set cyclic, 569
+distance, see distance
+dodecahedron, 20, 206, 207
+dual, 216, 218
+equivalence, 576
+erasure channel, 589
+error probability, 171, 215, 221
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+Index
+
+fountain code, 589
+Gallager, 557
+Golay, 209
+good, 183, 184, 207, 214, 218
+Hamming, 19, 214
+in DNA replication, 280
+in protein synthesis, 280
+interleaving, 186
+linear, 9, 171, 183, 184, 229
+
+coding theorem, 229
+
+low-density generator-matrix,
+
+218, 590
+
+low-density parity-check, 20, 187,
+
+218, 557, 596
+
+fast encoding, 569
+pro(cid:12)le, 569
+staircase, 569
+
+LT code, 590
+maximum distance separable, 220
+nonlinear, 187
+P3, 218
+parity-check code, 220
+pentagonful, 221
+perfect, 208, 211, 212, 219, 589
+practical, 183, 187
+product code, 184, 214
+quantum, 572
+random, 184
+random linear, 211, 212
+raptor code, 594
+rate, 152, 229
+rateless, 590
+rectangular, 184
+Reed{Solomon code, 571, 589
+repeat{accumulate, 582
+repetition, 183
+simple parity, 218
+sparse graph, 556
+
+density evolution, 566
+
+syndrome decoding, 11, 371
+variable rate, 238, 590
+very bad, 207
+very good, 183
+weight enumerator, 206
+with varying level of protection,
+
+239
+
+error-reject curves, 533
+errors, see channel
+estimator, 48, 307, 320, 446, 459
+eugenics, 273
+euro, 63
+evidence, 29, 53, 298, 322, 347, 531
+
+typical behaviour of, 54, 60
+
+evolution, 269, 279
+
+as learning, 277
+Baldwin e(cid:11)ect, 279
+colour vision, 554
+of the genetic code, 279
+
+evolutionary computing, 394, 395
+exact sampling, 413
+exchange rate, 601
+exchangeability, 263
+exclusive or, 590
+EXIT chart, 567
+expectation, 27, 35, 37
+
+expectation propagation, 340
+expectation{maximization algorithm,
+
+283, 432
+
+experimental design, 463
+experimental skill, 309
+explaining away, 293, 295
+exploit, 453
+explore, 453
+exponential distribution, 45, 313
+
+on integers, 311
+
+exponential-family, 307, 308
+expurgation, 167, 171
+extended channel, 153, 159
+extended code, 92
+extended ensemble, 76
+extra bit, 98, 101
+extreme value, 446
+eye movements, 554
+
+factor analysis, 437, 444
+factor graph, 334{336, 434, 556, 557,
+
+580, 583
+
+factorial, 2
+fading channel, 186
+feedback, 506, 589
+female, 277
+ferromagnetic, 400
+Feynman, Richard, 422
+Fibonacci, 253
+(cid:12)eld, 605, see Galois (cid:12)eld
+(cid:12)le storage, 188
+(cid:12)nger, 119
+(cid:12)nite (cid:12)eld theory, see Galois (cid:12)eld
+(cid:12)tness, 269, 279
+(cid:12)xed point, 508
+Florida, 355
+(cid:13)uctuation analysis, 446
+(cid:13)uctuations, 401, 404, 427, 602
+focus, 529
+football pools, 209
+forensic, 47, 421
+forgery, 199, 200
+forward pass, 244
+forward probability, 27
+forward{backward algorithm, 326, 330
+Fotherington{Thomas, 241
+fountain code, 589
+Fourier transform, 88, 219, 339, 544,
+
+568
+
+fovea, 554
+free energy, 257, 407, 409, 410, see
+
+partition function
+
+minimization, 423
+variational, 423
+
+frequency, 26
+frequentist, 320, see sampling theory
+Frey, Brendan J., 353
+Frobenius{Perron theorem, 410
+frustration, 406
+full probabilistic model, 156
+function minimization, 473
+functions, 246
+
+gain, 507
+Galileo code, 186
+Gallager code, 557
+
+623
+
+Gallager, Robert G., 170, 187, 557
+Galois (cid:12)eld, 185, 224, 567, 568, 605
+gambling, 455
+game, see puzzle
+Bridge, 126
+chess, 451
+guess that tune, 204
+guessing, 110
+life, 520
+sixty-three, 70
+submarine, 71
+three doors, 57, 60, 454
+twenty questions, 70
+
+game show, 57, 454
+game-playing, 451
+gamma distribution, 313, 319
+gamma function, 598
+ganglion cells, 491
+Gaussian channel, 155, 177
+Gaussian distribution, 2, 36, 176, 312,
+
+321, 398, 549
+
+N {dimensional, 124
+approximation, 501
+parameters, 319
+sample from, 312
+
+Gaussian processes, 535
+
+variational classi(cid:12)er, 547
+
+general position, 484
+generalization, 483
+generalized parity-check matrix, 581
+generating function, 88
+generative model, 27, 156
+generator matrix, 9, 183
+genes, 201
+genetic algorithm, 269, 395, 396
+genetic code, 279
+genome, 201, 280
+geometric progression, 258
+geostatistics, 536, 548
+GF(q), see Galois (cid:12)eld
+Gibbs entropy, 85
+Gibbs sampling, 370, 391, 418, see
+
+Monte Carlo methods
+
+Gibbs’ inequality, 34, 37, 44
+Gilbert{Varshamov conjecture, 212
+Gilbert{Varshamov distance, 212, 221
+Gilbert{Varshamov rate, 212
+Gilks, Wally R., 393
+girlie stu(cid:11), 58
+Glauber dynamics, 370
+Glavieux, A., 186
+Golay code, 209
+golden ratio, 253
+good, see error-correcting code
+Good, Jack, 265
+gradient descent, 476, 479, 498, 529
+
+natural, 443
+
+graduated non-convexity, 518
+Graham, Ronald L., 175
+grain size, 180
+graph, 251
+
+factor graph, 334
+of code, 19, 20, 556
+
+graphs and cycles, 242
+guerilla, 242
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+624
+
+guessing decoder, 224
+guessing game, 110, 111, 115
+Gull, Steve, 48, 61, 551
+gzip, 119
+
+Haldane, J.B.S., 278
+Hamilton, William D., 278
+Hamiltonian Monte Carlo, 387, 397,
+
+496, 497
+
+Hamming code, 8, 17, 183, 184, 190,
+
+208, 209, 214, 219
+
+graph, 19
+
+Hamming distance, 206
+handwritten digits, 156
+hard drive, 593
+hash code, 193, 231
+hash function, 195, 200, 228
+
+linear, 231
+one-way, 200
+
+hat puzzle, 222
+heat bath, 370, 601
+heat capacity, 401, 404
+Hebb, Donald, 505
+Hebbian learning, 505, 507
+Hertz, 178
+Hessian, 501
+hidden Markov model, 437
+hidden neurons, 525
+hierarchical clustering, 284
+hierarchical model, 379, 548
+high dimensions, life in, 37, 124
+hint for computing mutual
+information, 149
+
+Hinton, Geo(cid:11)rey E., 353, 429, 432, 522
+hitchhiker, 280
+homogeneous, 544
+Hooke, Robert, 200
+Hop(cid:12)eld network, 283, 505, 506, 517
+
+capacity, 514
+
+Hop(cid:12)eld, John J., 246, 280, 517
+horse race, 455
+hot-spot, 275
+Hu(cid:11)man code, 91, 99, 103
+
+‘optimality’, 99, 101
+disadvantages, 100, 115
+general alphabet, 104, 107
+
+human, 269
+human{machine interfaces, 119, 127
+hybrid Monte Carlo, 387, see
+
+Hamiltonian Monte Carlo
+
+hydrogen bond, 280
+hyperparameter, 64, 309, 318, 319,
+
+379, 479
+
+hypersphere, 42
+hypothesis testing, see model
+
+comparison, sampling theory
+
+i.i.d., 80
+ICA, see independent component
+
+analysis
+
+ICF (intrinsic correlation function),
+
+551
+
+identical twin, 111
+identity matrix, 600
+ignorance, 446
+ill-posed problem, 309, 310
+
+image, 549
+
+integral, 246
+
+image analysis, 343, 351
+image compression, 74, 284
+image models, 399
+image processing, 246
+image reconstruction, 551
+implicit assumptions, 186
+implicit probabilities, 97, 98, 102
+importance sampling, 361, 379
+
+weakness of, 382
+
+improper, 314, 316, 319, 320, 342, 353
+in-car navigation, 594
+independence, 138
+independent component analysis, 313,
+
+437, 443
+
+indicator function, 600
+inequality, 35, 81
+inference, 27, 529
+
+and learning, 493
+
+information content, 32, 72, 73, 91,
+
+97, 115, 349
+
+how to measure, 67
+Shannon, 67
+
+information maximization, 443
+information retrieval, 193
+information theory, 4
+inner code, 184
+Inquisition, 346
+insertions, 187
+instantaneous, 92
+integral image, 246
+interleaving, 184, 186, 579
+internet, 188, 589
+intersection, 66, 222
+intrinsic correlation function, 549, 551
+invariance, 445
+invariant distribution, 372
+inverse probability, 27
+inverse-arithmetic-coder, 118
+inverse-cosh distribution, 313
+inverse-gamma distribution, 314
+inversion of hash function, 199
+investment portfolio, 455
+irregular, 568
+ISBN, 235
+Ising model, 130, 283, 399, 400
+iterative probabilistic decoding, 557
+
+Jaakkola, Tommi S., 433, 547
+Jacobian, 320
+janitor, 464
+Je(cid:11)reys prior, 316
+Jensen’s inequality, 35, 44
+Jet Propulsion Laboratory, 186
+Johnson noise, 177
+joint ensemble, 138
+joint entropy, 138
+joint typicality, 162
+joint typicality theorem, 163
+Jordan, Michael I., 433, 547
+journal publication policy, 463
+judge, 55
+juggling, 15
+junction tree algorithm, 340
+jury, 26, 55
+
+Index
+
+K-means clustering, 285, 303
+
+derivation, 303
+soft, 289
+
+kaboom, 306, 433
+Kalman (cid:12)lter, 535
+kernel, 548
+key points
+
+communication, 596
+how much data needed, 53
+likelihood principle, 32
+model comparison, 53
+Monte Carlo, 358, 367
+solving probability problems, 61
+
+keyboard, 119
+Kikuchi free energy, 434
+KL distance, 34
+Knowlton{Graham partitions, 175
+Knuth, Donald, xii
+Kolmogorov, Andrei Nikolaevich, 548
+Kraft inequality, 94, 521
+Kraft, L.G., 95
+kriging, 536
+Kullback{Leibler divergence, 34, see
+
+relative entropy
+
+Lagrange multiplier, 174
+lake, 359
+Langevin method, 496, 498
+Langevin process, 535
+language model, 119
+Laplace approximation, see Laplace’s
+
+method
+
+Laplace model, 117
+Laplace prior, 316
+Laplace’s method, 341, 354, 496, 501,
+
+537, 547
+Laplace’s rule, 52
+latent variable, 432, 437
+latent variable model, 283
+
+compression, 353
+
+law of large numbers, 36, 81, 82, 85
+lawyer, 55, 58, 61
+Le Cun, Yann, 121
+leaf, 336
+leapfrog algorithm, 389
+learning, 471
+
+as communication, 483
+as inference, 492, 493
+Hebbian, 505, 507
+in evolution, 277
+
+learning algorithms, 468, see
+
+algorithm
+
+backpropagation, 528
+Boltzmann machine, 522
+classi(cid:12)cation, 475
+competitive learning, 285
+Hop(cid:12)eld network, 505
+K-means clustering, 286, 289,
+
+303
+
+multilayer perceptron, 528
+single neuron, 475
+
+learning rule, 470
+Lempel{Ziv coding, 110, 119{122
+
+criticisms, 128
+
+life, 520
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+Index
+
+life in high dimensions, 37, 124
+likelihood, 6, 28, 49, 152, 324, 529, 558
+
+contrasted with probability, 28
+subjectivity, 30
+
+likelihood equivalence, 447
+likelihood principle, 32, 61, 464
+limit cycle, 508
+linear block code, 9, 11, 19, 171, 183,
+
+186, 206, 229
+
+coding theorem, 229
+decoding, 184
+
+linear regression, 342, 527
+linear-feedback shift-register, 184, 574
+Litsyn, Simon, 572
+little ’n’ large data set, 288
+log-normal, 315
+logarithms, 2
+logit, 307, 316
+long thin strip, 409
+loopy belief propagation, 434
+loopy message-passing, 338, 340, 556
+loss function, 451
+lossy compression, 168, 284, 285
+low-density generator-matrix code,
+
+207, 590
+
+low-density parity-check code, 557,
+see error-correcting code
+
+LT code, 590
+Luby, Michael G., 568, 590
+Luria, Salvador, 446
+Lyapunov function, 287, 291, 508,
+
+520, 521
+
+machine learning, 246
+macho, 319
+MacKay, David J.C., 187, 496, 557
+magician, 233
+magnet, 602
+magnetic recording, 593
+majority vote, 5
+male, 277
+Mandelbrot, Benoit, 262
+MAP, see maximum a posteriori
+mapping, 92
+marginal entropy, 139, 140
+marginal likelihood, 29, 298, 322, see
+
+evidence
+
+marginal probability, 23, 147
+marginalization, 29, 295, 319
+Markov chain, 141, 168
+
+construction, 373
+
+Markov chain Monte Carlo, see Monte
+
+Carlo methods
+
+Markov model, 111, 437, see Markov
+
+chain
+
+marriage, 454
+matrix, 409
+matrix identities, 438
+max{product, 339
+maxent, 308, see maximum entropy
+maximum distance separable, 219
+maximum entropy, 308, 551
+maximum likelihood, 6, 152, 300, 347
+maximum a posteriori, 6, 307, 325,
+
+538
+
+McCollough e(cid:11)ect, 553
+
+MCMC (Markov chain Monte Carlo),
+
+see Monte Carlo methods
+
+McMillan, B., 95
+MD5, 200
+MDL, see minimum description length
+MDS, 220
+mean, 1
+mean (cid:12)eld theory, 422, 425
+melody, 201, 203
+memory, 468
+
+address-based, 468
+associative, 468, 505
+content-addressable, 192, 469
+
+MemSys, 551
+message passing, 187, 241, 248, 283,
+
+324, 407, 556, 591
+
+BCJR, 330
+belief propagation, 330
+forward{backward, 330
+in graphs with cycles, 338
+loopy, 338, 340, 434
+sum{product algorithm, 336
+Viterbi, 329
+
+metacode, 104, 108
+metric, 512
+Metropolis method, 496, see Monte
+
+Carlo methods
+
+M(cid:19)ezard, Marc, 340
+micro-saccades, 554
+microcanonical, 87
+microsoftus, 458
+microwave oven, 127
+min{sum algorithm, 245, 325, 329,
+
+339, 578, 581
+
+mine (hole in ground), 451
+minimax, 455
+minimization, 473, see optimization
+minimum description length, 352
+minimum distance, 206, 214, see
+
+distance
+
+Minka, Thomas, 340
+mirror, 529
+Mitzenmacher, Michael, 568
+mixing coe(cid:14)cients, 298, 312
+mixture modelling, 282, 284, 303, 437
+mixture of Gaussians, 312
+mixtures in Markov chains, 373
+ML, see maximum likelihood
+MLP, see multilayer perceptron
+MML, see minimum description
+
+length
+
+mobile phone, 182, 186
+model, 111, 120
+model comparison, 198, 346, 347, 349
+
+typical evidence, 54, 60
+
+modelling, 285
+
+density modelling, 284, 303
+images, 524
+latent variable models, 353, 432,
+
+437
+
+nonparametric, 538
+moderation, 29, 498, see
+
+marginalization
+
+molecules, 201
+Molesworth, 241
+
+625
+
+momentum, 387, 479
+Monte Carlo methods, 357, 498
+
+acceptance rate, 394
+acceptance ratio method, 379
+and communication, 394
+annealed importance sampling,
+
+379
+
+coalescence, 413
+dependence on dimension, 358
+exact sampling, 413
+for visualization, 551
+Gibbs sampling, 370, 391, 418
+Hamiltonian Monte Carlo, 387,
+
+496
+
+hybrid Monte Carlo, see
+
+Hamiltonian Monte Carlo
+importance sampling, 361, 379
+
+weakness of, 382
+
+Langevin method, 498
+Markov chain Monte Carlo, 365
+Metropolis method, 365
+
+dumb Metropolis, 394, 496
+
+Metropolis{Hastings, 365
+multi-state, 392, 395, 398
+overrelaxation, 390, 391
+perfect simulation, 413
+random walk suppression, 370,
+
+387
+
+random-walk Metropolis, 388
+rejection sampling, 364
+
+adaptive, 370
+
+reversible jump, 379
+simulated annealing, 379, 392
+slice sampling, 374
+thermodynamic integration, 379
+umbrella sampling, 379
+
+Monty Hall problem, 57
+Morse, 256
+motorcycle, 110
+movie, 551
+multilayer perceptron, 529, 535
+multiple access channel, 237
+multiterminal networks, 239
+multivariate Gaussian, 176
+Munro{Robbins theorem, 441
+murder, 26, 58, 61, 354
+music, 201, 203
+mutation rate, 446
+mutual information, 139, 146, 150, 151
+
+how to compute, 149
+
+myth, 347
+
+compression, 74
+
+nat (unit), 264, 601
+natural gradient, 443
+natural selection, 269
+navigation, 594
+Neal, Radford M., 111, 121, 187, 374,
+379, 391, 392, 397, 419, 420,
+429, 432, 496
+
+needle, Bu(cid:11)on’s, 38
+network, 529
+neural network, 468, 470
+
+capacity, 483
+learning as communication, 483
+learning as inference, 492
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+626
+
+neuron, 471
+
+capacity, 483
+
+Newton, Isaac, 200, 552
+Newton{Raphson method, 303, 441
+nines, 198
+noise, 3, see channel
+
+coloured, 179
+spectral density, 177
+white, 177, 179
+
+noisy channel, see channel
+noisy typewriter, 148, 152, 154
+noisy-channel coding theorem, 15,
+
+152, 162, 171, 229
+Gaussian channel, 181
+linear codes, 229
+poor man’s version, 216
+
+noisy-or, 294
+non-confusable inputs, 152
+noninformative, 319
+nonlinear, 535
+nonlinear code, 20, 187
+nonparametric data modelling, 538
+nonrecursive, 575
+noodle, Bu(cid:11)on’s, 38
+normal, 312, see Gaussian
+normal graph, 219, 584
+normalizing constant, see partition
+
+function
+
+not-sum, 335
+notation, 598
+
+absolute value, 33, 599
+conventions of this book, 147
+convex/concave, 35
+entropy, 33
+error function, 156
+expectation, 37
+intervals, 90
+logarithms, 2
+matrices, 147
+probability, 22, 30
+set size, 33, 599
+transition probability, 147
+vectors, 147
+
+NP-complete, 184, 325, 517
+nucleotide, 201, 204
+nuisance parameters, 319
+numerology, 208
+Nyquist sampling theorem, 178
+
+objective function, 473
+Occam factor, 322, 345, 348, 350, 352
+Occam’s razor, 343
+octal, 575
+octave, 478
+odds, 456
+Ode to Joy, 203
+o(cid:14)cer for whimsical departmental
+
+rules, 464
+
+Oliver, 56
+one-way hash function, 200
+optic nerve, 491
+optimal decoder, 152
+optimal input distribution, 150, 162
+optimal linear (cid:12)lter, 549
+optimal stopping, 454
+
+optimization, 169, 392, 429, 479, 505,
+
+516, 531
+
+gradient descent, 476
+Newton algorithm, 441
+of model complexity, 531
+
+order parameter, 604
+ordered overrelaxation, 391
+orthodox statistics, 320, see sampling
+
+theory
+outer code, 184
+over(cid:12)tting, 306, 322, 529, 531
+overrelaxation, 390
+
+p-value, 64, 457, 462
+packet, 188, 589
+paradox, 107
+
+Allais, 454
+bus-stop, 39
+heat capacity, 401
+Simpson’s, 355
+waiting for a six, 38
+
+paranormal, 233
+parasite, 278
+parent, 559
+parity, 9
+parity-check bits, 9, 199, 203
+parity-check code, 220
+parity-check constraints, 20
+parity-check matrix, 12, 183, 229, 332
+
+generalized, 581
+
+parity-check nodes, 19, 219, 567, 568,
+
+583
+
+parse, 119, 448
+Parsons code, 204
+parthenogenesis, 273
+partial order, 418
+partial partition functions, 407
+particle (cid:12)lter, 396
+partition, 174
+partition function, 401, 407, 409, 422,
+
+423, 601, 603
+
+analogy with lake, 360
+partial, 407
+
+partitioned inverse, 543
+path-counting, 244
+pattern recognition, 156, 179, 201
+pentagonful code, 21, 221
+perfect code, 208, 210, 211, 219, 589
+perfect simulation, 413
+periodic variable, 315
+permutation, 19, 268
+Petersen graph, 221
+phase transition, 361, 403, 601
+philosophy, 26, 119, 384
+phone, 125, 594
+
+cellular, see mobile phone
+
+phone directory, 193
+phone number, 58, 129
+photon counter, 307, 342, 448
+physics, 80, 85, 257, 357, 401, 422,
+
+514, 601
+
+pigeon-hole principle, 86, 573
+pitchfork bifurcation, 291, 426
+plaintext, 265
+plankton, 359
+point estimate, 432
+
+Index
+
+point spread function, 549
+pointer, 119
+poisoned glass, 103
+Poisson distribution, 2, 175, 307, 311,
+
+342
+
+Poisson process, 39, 46, 448
+Poissonville, 39, 313
+polymer, 257
+poor man’s coding theorem, 216
+porridge, 280
+portfolio, 455
+positive de(cid:12)nite, 539
+positivity, 551
+posterior probability, 6, 152
+power cost, 180
+power law, 584
+practical, 183, see error-correcting
+
+code
+
+precision, 176, 181, 312, 320, 383
+precisions add, 181
+prediction, 29, 52
+predictive distribution, 111
+pre(cid:12)x code, 92, 95
+prior, 6, 308, 529
+
+assigning, 308
+improper, 353
+Je(cid:11)reys, 316
+subjectivity, 30
+
+prior equivalence, 447
+priority of bits in a message, 239
+prize, on game show, 57
+probabilistic model, 111, 120
+probabilistic movie, 551
+probability, 26, 38
+Bayesian, 50
+contrasted with likelihood, 28
+density, 30, 33
+
+probability distributions, 311, see
+
+distribution
+
+probability of block error, 152
+probability propagation, see
+
+sum{product algorithm
+
+product code, 184, 214
+pro(cid:12)le, of random graph, 568
+pronunciation, 34
+proper, 539
+proposal density, 364, 365
+Propp, Jim G., 413, 418
+prosecutor’s fallacy, 25
+prospecting, 451
+protein, 204, 269
+
+regulatory, 201, 204
+synthesis, 280
+
+protocol, 589
+pseudoinverse, 550
+Punch, 448
+puncturing, 222, 580
+pupil, 553
+puzzle, see game
+
+cable labelling, 173
+chessboard, 520
+(cid:12)delity of DNA replication, 280
+hat, 222, 223
+life, 520
+magic trick, 233, 234
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+Index
+
+poisoned glass, 103
+secretary, 454
+southeast, 520
+transatlantic cable, 173
+weighing 12 balls, 68
+
+quantum error-correction, 572
+queue, 454
+QWERTY, 119
+
+R3, see repetition code
+race, 354
+radial basis function, 535, 536
+radio, 186
+radix, 104
+RAID, 188, 190, 219, 593
+random, 26, 357
+random cluster model, 418
+random code, 156, 161, 164, 165, 184,
+
+192, 195, 214, 565
+
+for compression, 231
+
+random number generator, 578
+random variable, 26, 463
+random walk, 367
+
+suppression, 370, 387, 390, 395
+
+random-coding exponent, 171
+random-walk Metropolis method, 388
+rant, see sermon
+raptor codes, 594
+rate, 152
+rate-distortion theory, 167
+rateless code, 590
+reading aloud, 529
+receiver operating characteristic, 533
+recognition, 204
+record breaking, 446
+rectangular code, 184
+reducible, 373
+redundancy, 4, 33
+
+in channel code, 146
+
+redundant array of independent disks,
+
+188, 190, 219, 593
+
+redundant constraints in code, 20
+Reed{Solomon code, 185, 571, 589
+regression, 342, 536
+regret, 455
+regular, 557
+regularization, 529, 550
+regularization constant, 309, 479
+reinforcement learning, 453
+rejection, 364, 366, 533
+rejection sampling, 364
+
+adaptive, 370
+
+relative entropy, 34, 98, 102, 142, 422,
+
+429, 435, 475
+reliability function, 171
+repeat{accumulate code, 582
+repetition code, 5, 13, 15, 16, 46, 183
+responsibility, 289
+retransmission, 589
+reverse, 110
+reversible, 374
+reversible jump, 379
+Richardson, Thomas J., 570, 595
+Rissanen, Jorma, 111
+ROC, 533
+
+rolling die, 38
+roman, 127
+rule of thumb, 380
+runlength, 256
+runlength-limited channel, 249
+
+saccades, 554
+saddle-point approximation, 341
+sailor, 307
+sample, 312, 356
+
+from Gaussian, 312
+
+sampler density, 362
+sampling distribution, 459
+sampling theory, 38, 320
+
+criticisms, 32, 64
+
+sandwiching method, 419
+satellite communications, 186, 594
+scaling, 203
+Sch(cid:127)onberg, 203
+Schottky anomaly, 404
+scientists, 309
+secret, 200
+secretary problem, 454
+security, 199, 201
+seek time, 593
+Sejnowski, Terry J., 522
+self-delimiting, 132
+self-dual, 218
+self-orthogonal, 218
+self-punctuating, 92
+separation, 242, 246
+sequence, 344
+sequential decoding, 581
+sequential probability ratio test, 464
+sermon, see caution
+
+classical statistics, 64
+con(cid:12)dence level, 465
+dimensions, 180
+gradient descent, 441
+illegal integral, 180
+importance sampling, 382
+interleaving, 189
+MAP method, 283, 306
+maximum entropy, 308
+maximum likelihood, 306
+most probable is atypical, 283
+p-value, 463
+sampling theory, 64
+sphere-packing, 209, 212
+stopping rule, 463
+turbo codes, 581
+unbiased estimator, 307
+worst-case-ism, 207
+
+set, 66
+shannon (unit), 265
+Shannon, Claude, 3, 14, 15, 152, 164,
+
+212, 215, 262, see
+noisy-channel coding
+theorem, source coding
+theorem, information
+content
+
+shattering, 485
+shifter ensemble, 524
+Shokrollahi, M. Amin, 568
+shortening, 222
+Siegel, Paul, 262
+
+627
+
+sigmoid, 473, 527
+signal-to-noise ratio, 177, 178, 223
+signi(cid:12)cance level, 51, 64, 457, 463
+simplex, 173, 316
+Simpson’s paradox, 355
+Simpson, O.J., see wife-beaters
+simulated annealing, 379, 392, see
+
+annealing
+six, waiting for, 38
+Skilling, John, 392
+sleep, 524, 554
+Slepian{Wolf, see dependent sources
+slice sampling, 374
+
+multi-dimensional, 378
+soft K-means clustering, 289
+softmax, softmin, 289, 316, 339
+software, xi
+
+arithmetic coding, 121
+BUGS, 371
+Dasher, 119
+free, xii
+Gaussian processes, 534
+hash function, 200
+VIBES, 431
+
+solar system, 346
+soldier, 241
+soliton distribution, 592
+sound, 187
+source code, 73, see compression,
+symbol code, arithmetic
+coding, Lempel{Ziv
+
+algorithms, 119, 121
+block code, 76
+block-sorting compression, 121
+Burrows{Wheeler transform, 121
+for complex sources, 353
+for constrained channel, 249, 255
+for integers, 132
+Hu(cid:11)man, see Hu(cid:11)man code
+implicit probabilities, 102
+optimal lengths, 97, 102
+pre(cid:12)x code, 95
+software, 121
+stream codes, 110{130
+supermarket, 96, 104, 112
+symbol code, 91
+uniquely decodeable, 94
+variable symbol durations, 125,
+
+256
+
+source coding theorem, 78, 91, 229,
+
+231
+
+southeast puzzle, 520
+span, 331
+sparse-graph code, 338, 556
+density evolution, 566
+pro(cid:12)le, 569
+
+sparsi(cid:12)er, 255
+species, 269
+spell, 201
+sphere packing, 182, 205
+sphere-packing exponent, 172
+Spielman, Daniel A., 568
+spin system, 400
+spines, 525
+spline, 538
+
+Copyright Cambridge University Press 2003. On-screen viewing permitted. Printing not permitted. http://www.cambridge.org/0521642981
+You can buy this book for 30 pounds or $50. See http://www.inference.phy.cam.ac.uk/mackay/itila/ for links.
+
+628
+
+spread spectrum, 182, 188
+spring, 291
+spy, 464
+square, 38
+staircase, 569, 587
+stalactite, 214
+standard deviation, 320
+stars, 307
+state diagram, 251
+statistic, 458
+
+su(cid:14)cient, 300
+
+statistical physics, see physics
+statistical test, 51, 458
+steepest descents, 441
+stereoscopic vision, 524
+sti(cid:11)ness, 289
+Stirling’s approximation, 1, 8
+stochastic, 472
+stochastic dynamics, see Hamiltonian
+
+Monte Carlo
+
+stochastic gradient, 476
+stop-when-it’s-done, 561, 583
+stopping rule, 463
+straws, drawing, 233
+stream codes, 110{130
+student, 125
+Student-t distribution, 312, 323
+subjective probability, 26, 30
+submarine, 71
+subscriber, 593
+subset, 66
+substring, 119
+su(cid:14)cient statistics, 300
+sum rule, 39, 46
+sum{product algorithm, 187, 245, 326,
+336, 407, 434, 556, 572, 578
+
+summary, 335
+summary state, 418
+summation convention, 438
+super-channel, 184
+supermarket (codewords), 96, 104, 112
+support vector, 548
+surprise value, 264
+survey propagation, 340
+suspicious coincidences, 351
+symbol code, 91
+
+budget, 94, 96
+codeword, 92
+disadvantages, 100
+optimal, 91
+self-delimiting, 132
+supermarket, 112
+
+symmetric channel, 171
+symmetry argument, 151
+synchronization, 249
+synchronization errors, 187
+syndrome, 10, 11, 20
+syndrome decoding, 11, 216, 229, 371
+systematic, 575
+
+t-distribution, see Student-t
+tail, 85, 312, 313, 440, 446, 503, 584
+tamper detection, 199
+Tank, David W., 517
+Tanner challenge, 569
+Tanner product code, 571
+Tanner, Michael, 569
+
+Tanzanite, 451
+tap, 575
+telephone, see phone
+telescope, 529
+temperature, 392, 601
+termination, 579
+terminology, 598, see notation
+
+Monte Carlo methods, 372
+
+test
+
+(cid:13)uctuation, 446
+statistical, 51, 458
+
+text entry, 118
+thermal distribution, 88
+thermodynamic integration, 379
+thermodynamics, 404, 601
+
+third law, 406
+
+Thiele, T.N., 548
+thin shell, 37, 125
+third law of thermodynamics, 406
+Thitimajshima, P., 186
+three cards, 142
+three doors, 57
+threshold, 567
+tiling, 420
+time-division, 237
+timing, 187
+training data, 529
+transatlantic, 173
+transfer matrix method, 407
+transition, 251
+transition probability, 147, 356, 607
+translation-invariant, 409
+travelling salesman problem, 246, 517
+tree, 242, 336, 343, 351
+trellis, 251, 326, 574, 577, 580, 583,
+
+608
+
+section, 251, 257
+termination, 579
+
+triangle, 307
+truth function, 211, 600
+tube, 257
+turbo code, 186, 556
+turbo product code, 571
+Turing, Alan, 265
+twenty questions, 70, 103
+twin, 111
+twos, 156
+typical evidence, 54, 60
+typical set, 80, 154, 363
+for compression, 80
+for noisy channel, 154
+
+typical-set decoder, 165, 230
+typicality, 78, 80, 162
+
+umbrella sampling, 379
+unbiased estimator, 307, 321, 449
+uncompression, 231
+union, 66
+union bound, 166, 216, 230
+uniquely decodeable, 93, 94
+units, 264
+universal, 110, 120, 121, 135, 590
+universality, in physics, 400
+Urbanke, R(cid:127)udiger, 570, 595
+urn, 31
+user interfaces, 118
+utility, 451
+
+Index
+
+vaccination, 458
+Vapnik{Chervonenkis dimension, 489
+variable-length code, 249, 255
+variable-rate error-correcting codes,
+
+238, 590
+
+variance, 1, 27, 88, 321
+variance{covariance matrix, 176
+variances add, 1, 181
+variational Bayes, 429
+variational free energy, 422, 423
+variational methods, 422, 433, 496,
+
+508
+
+typical properties, 435
+variational Gaussian process, 547
+
+VC dimension, 489
+vector quantization, 284, 290
+very good, see error-correcting code
+VIBES, 431
+Virtakallio, Juhani, 209
+vision, 554
+visualization, 551
+Viterbi algorithm, 245, 329, 340, 578
+volume, 42, 90
+Von Mises distribution, 315
+
+Wainwright, Martin, 340
+waiting for a bus, 39, 46
+warning, see caution and sermon
+Watson{Crick base pairing, 280
+weather collator, 236
+weighing babies, 164
+weighing problem, 66, 68
+weight
+
+importance sampling, 362
+in neural net, 471
+of binary vector, 20
+
+weight decay, 479, 529
+weight enumerator, 206, 211, 214, 216
+
+typical, 572
+
+weight space, 473, 474, 487
+Wenglish, 72, 260
+what number comes next?, 344
+white, 355
+white noise, 177, 179
+Wiberg, Niclas, 187
+widget, 309
+Wiener process, 535
+Wiener, Norbert, 548
+wife-beater, 58, 61
+Wilson, David B., 413, 418
+window, 307
+Winfree, Erik, 520
+wodge, 309
+Wolf, Jack, 262
+word-English, 260
+world record, 446
+worst-case-ism, 207, 213
+writing, 118
+
+Yedidia, Jonathan, 340
+
+Z channel, 148, 149{151, 155
+Zipf plot, 262, 263, 317
+Zipf’s law, 40, 262, 263
+Zipf, George K., 262
+
+

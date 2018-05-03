@@ -1,0 +1,1484 @@
+Abu-Mostafa
+acceptance rate
+acceptance ratio method
+accumulator
+activation function
+activity rule
+adaptive direction sampling
+adaptive models
+adaptive rejection sampling
+address
+Aiyer
+Alberto
+alchemists
+algebraic coding theory
+BCJR
+belief propagation
+covariant
+EM
+exact sampling
+expectation{maximization
+function minimization
+genetic
+Hamiltonian Monte Carlo
+Langevin Monte Carlo
+leapfrog
+max{product
+message-passing
+min{sum
+Newton{Raphson
+perfect simulation
+sum{product
+Viterbi
+Alice
+Allais paradox
+alphabetical ordering
+America
+American
+amino acid
+anagram
+annealing
+deterministic
+importance sampling
+antiferromagnetic
+ape
+by Gaussian
+Laplace
+of complex distribution
+of density evolution
+saddle-point
+Stirling
+variational
+arabic
+architecture
+arithmetic coding
+decoder
+software
+uses beyond compression
+arithmetic progression
+arms race
+arti(cid:12)cial intelligence
+associative memory
+assumptions
+astronomy
+asymptotic equipartition
+why it is a misleading term
+Atlantic
+AutoClass
+automobile data reception
+AWGN
+background rate
+backpropagation
+backward pass
+Balakrishnan
+balance
+Baldwin e(cid:11)ect
+ban (unit)
+Banburismus
+band-limited signal
+bandwidth
+bar-code
+base transitions
+base-pairing
+basis dependence
+bat
+battleships
+Bayes’ theorem
+Bayes
+Bayesian belief networks
+Bayesian inference
+BCH codes
+BCJR algorithm
+bearing
+Belarusian
+belief
+Benford’s law
+bent coin
+Berlekamp
+Bernoulli distribution
+Berrou
+bet
+beta distribution
+beta function
+beta integral
+Bethe free energy
+Bhattacharyya parameter
+bias
+in neural net
+in statistics
+biexponential
+bifurcation
+binary entropy function
+binary erasure channel
+binary images
+binary representations
+binary symmetric channel
+binding DNA
+binomial distribution
+bipartite graph
+birthday
+bit
+bit (unit)
+bits back
+bivariate Gaussian
+black
+Bletchley Park
+Blind Watchmaker
+block-sorting
+blood group
+blow up
+blur
+Bob
+Boltzmann entropy
+Boltzmann machine
+bombes
+book ISBN
+bookies
+Bottou
+bound
+union
+bounded-distance decoder
+bounding chain
+box
+boyish matters
+brain
+Bridge
+British
+broadcast channel
+Brody
+Brownian motion
+budget
+Bu(cid:11)on’s needle
+BUGS
+buoy
+burglar alarm and earthquake
+Burrows{Wheeler transform
+burst errors
+bus-stop paradox
+byte
+cable labelling
+calculator
+camera
+canonical
+capacity
+errors
+constrained channel
+Gaussian channel
+Hop(cid:12)eld network
+neural network
+neuron
+symmetry argument
+car data reception
+card
+casting out nines
+Cauchy distribution
+equipartition
+Gaussian distribution
+importance sampling
+sampling theory
+cave
+cellular automaton
+central-limit theorem
+centre of gravity
+chain rule
+challenges
+Tanner
+AWGN
+binary erasure
+binary symmetric
+broadcast
+bursty
+capacity
+connection with physics
+complex
+constrained
+continuous
+discrete memoryless
+erasure
+extended
+fading
+Gaussian
+input ensemble
+multiple access
+multiterminal
+noiseless
+noisy
+noisy typewriter
+symmetric
+two-dimensional
+unknown noise level
+variable symbol durations
+with dependent sources
+with memory
+Z channel
+cheat
+Chebyshev inequality
+checkerboard
+Cherno(cid:11) bound
+chess
+chess board
+chi-squared
+Cholesky decomposition
+chromatic aberration
+cinema
+circle
+classical statistics
+criticisms
+classi(cid:12)er
+Clockville
+clustering
+coalescence
+cocked hat
+for constrained channel
+variable-length
+code-equivalent
+codebreakers
+coding theory
+coin
+coincidence
+collective
+collision
+coloured noise
+combination
+commander
+communication
+broadcast
+of dependent information
+over noiseless channels
+perspective on learning
+competitive learning
+complexity
+complexity control
+compress
+future methods
+lossless
+lossy
+of already-compressed (cid:12)les
+of any (cid:12)le
+universal
+computer
+concatenation
+error-correcting codes
+in compression
+in Markov chains
+concave _
+conditional entropy
+cones
+con(cid:12)dence interval
+con(cid:12)dence level
+confused gameshow host
+conjugate gradient
+conjugate prior
+conjuror
+channel capacity and physics
+variable model
+error-correction
+learning
+error-correction
+connection matrix
+constrained channel
+variable-length code
+constraint satisfaction
+content-addressable memory
+continuous channel
+control treatment
+convex hull
+convex ^
+convexity
+convolution
+convolutional code
+equivalence
+Conway
+Copernicus
+correlated sources
+correlations
+among errors
+and phase transitions
+high-order
+in images
+cost function
+cost of males
+counting
+counting argument
+coupling from the past
+covariance
+covariance function
+covariance matrix
+covariant algorithm
+Cover
+Cox axioms
+crib
+critical (cid:13)uctuations
+critical path
+cross-validation
+crossover
+crossword
+cryptanalysis
+cryptography
+digital signatures
+tamper detection
+cumulative probability function
+cycles in graphs
+cyclic
+Dasher
+data entry
+data set
+Davey
+death penalty
+deciban (unit)
+decibel
+decision theory
+decoder
+bitwise
+bounded-distance
+codeword
+maximum a posteriori
+probability of error
+deconvolution
+degree
+degrees of belief
+degrees of freedom
+d(cid:19)ej(cid:18)a vu
+delay line
+Delbr(cid:127)uck
+deletions
+delta function
+density evolution
+density modelling
+dependent sources
+depth of lake
+design theory
+detailed balance
+detection of forgery
+deterministic annealing
+dictionary
+die
+di(cid:11)erence-set cyclic code
+di(cid:11)erentiator
+di(cid:11)usion
+digamma function
+digital cinema
+digital fountain
+digital signature
+digital video broadcast
+dimensions
+dimer
+directory
+Dirichlet distribution
+Dirichlet model
+discriminant function
+discriminative training
+disease
+disk drive
+distance
+DKL
+bad
+distance distribution
+entropy distance
+Gilbert{Varshamov
+good
+Hamming
+isn’t everything
+of code
+good/bad
+of concatenated code
+of product code
+relative entropy
+very bad
+distribution
+beta
+biexponential
+binomial
+Cauchy
+Dirichlet
+exponential
+gamma
+Gaussian
+sample from
+inverse-cosh
+log-normal
+Luria{Delbr(cid:127)uck
+normal
+over periodic variables
+Poisson
+Student-t
+Von Mises
+divergence
+DjVu
+DNA
+replication
+do the right thing
+dodecahedron code
+dongle
+doors
+Dr. Bloggs
+draw straws
+dream
+dual
+dumb Metropolis
+Eb=N0
+earthquake and burglar alarm
+earthquake
+Ebert
+edge
+eigenvalue
+Elias
+EM algorithm
+email
+empty string
+encoder
+energy
+English
+Enigma
+ensemble
+extended
+ensemble learning
+entropic distribution
+entropy
+Boltzmann
+conditional
+Gibbs
+joint
+marginal
+mutual information
+of continuous variable
+relative
+entropy distance
+epicycles
+equipartition
+erasure channel
+erasure correction
+ergodic
+error bars
+in DNA replication
+in protein synthesis
+error detection
+error (cid:13)oor
+error function
+and distance
+block
+in compression
+error-correcting code
+bad
+block code
+concatenated
+convolutional
+cyclic
+decoding
+density evolution
+di(cid:11)erence-set cyclic
+dodecahedron
+dual
+equivalence
+erasure channel
+error probability
+fountain code
+Gallager
+Golay
+good
+Hamming
+in DNA replication
+in protein synthesis
+interleaving
+linear
+coding theorem
+low-density parity-check
+fast encoding
+pro(cid:12)le
+staircase
+LT code
+maximum distance separable
+nonlinear
+P3
+parity-check code
+pentagonful
+perfect
+practical
+product code
+quantum
+random
+random linear
+raptor code
+rate
+rateless
+rectangular
+Reed{Solomon code
+repeat{accumulate
+repetition
+simple parity
+sparse graph
+density evolution
+syndrome decoding
+variable rate
+very bad
+very good
+weight enumerator
+error-reject curves
+estimator
+eugenics
+euro
+evidence
+typical behaviour of
+evolution
+as learning
+Baldwin e(cid:11)ect
+colour vision
+of the genetic code
+evolutionary computing
+exact sampling
+exchange rate
+exchangeability
+exclusive or
+EXIT chart
+expectation
+expectation propagation
+experimental design
+experimental skill
+explaining away
+exploit
+explore
+exponential distribution
+on integers
+exponential-family
+expurgation
+extended channel
+extended code
+extended ensemble
+extra bit
+extreme value
+eye movements
+factor analysis
+factor graph
+factorial
+fading channel
+feedback
+female
+ferromagnetic
+Feynman
+Fibonacci
+Florida
+focus
+football pools
+forensic
+forgery
+forward pass
+forward probability
+forward{backward algorithm
+Fotherington{Thomas
+fountain code
+Fourier transform
+fovea
+minimization
+variational
+frequency
+Frey
+Frobenius{Perron theorem
+frustration
+full probabilistic model
+function minimization
+functions
+gain
+Galileo code
+Gallager code
+Gallager
+Galois (cid:12)eld
+gambling
+Bridge
+chess
+guess that tune
+guessing
+life
+sixty-three
+submarine
+three doors
+twenty questions
+game show
+game-playing
+gamma distribution
+gamma function
+ganglion cells
+Gaussian channel
+Gaussian distribution
+N {dimensional
+approximation
+parameters
+sample from
+Gaussian processes
+variational classi(cid:12)er
+general position
+generalization
+generalized parity-check matrix
+generating function
+generative model
+generator matrix
+genes
+genetic algorithm
+genetic code
+genome
+geometric progression
+geostatistics
+Gibbs entropy
+Gibbs’ inequality
+Gilbert{Varshamov conjecture
+Gilbert{Varshamov distance
+Gilbert{Varshamov rate
+Gilks
+girlie stu(cid:11)
+Glauber dynamics
+Glavieux
+Golay code
+golden ratio
+Good
+gradient descent
+natural
+graduated non-convexity
+Graham
+grain size
+graph
+factor graph
+of code
+graphs and cycles
+guerilla
+guessing decoder
+guessing game
+Gull
+gzip
+Haldane
+Hamilton
+Hamiltonian Monte Carlo
+Hamming code
+graph
+Hamming distance
+handwritten digits
+hard drive
+hash code
+hash function
+linear
+one-way
+hat puzzle
+heat bath
+heat capacity
+Hebb
+Hebbian learning
+Hertz
+Hessian
+hidden Markov model
+hidden neurons
+hierarchical clustering
+hierarchical model
+high dimensions
+information
+Hinton
+hitchhiker
+homogeneous
+Hooke
+Hop(cid:12)eld network
+capacity
+Hop(cid:12)eld
+horse race
+hot-spot
+Hu(cid:11)man code
+disadvantages
+general alphabet
+human
+human{machine interfaces
+hydrogen bond
+hyperparameter
+hypersphere
+i.i.d.
+identical twin
+identity matrix
+ignorance
+ill-posed problem
+image
+integral
+image analysis
+image compression
+image models
+image processing
+image reconstruction
+implicit assumptions
+implicit probabilities
+importance sampling
+weakness of
+improper
+in-car navigation
+independence
+independent component analysis
+indicator function
+inequality
+inference
+and learning
+information content
+how to measure
+Shannon
+information maximization
+information retrieval
+information theory
+inner code
+Inquisition
+insertions
+instantaneous
+integral image
+interleaving
+internet
+intersection
+intrinsic correlation function
+invariance
+invariant distribution
+inverse probability
+inverse-arithmetic-coder
+inverse-cosh distribution
+inverse-gamma distribution
+inversion of hash function
+investment portfolio
+irregular
+ISBN
+Ising model
+iterative probabilistic decoding
+Jaakkola
+Jacobian
+janitor
+Je(cid:11)reys prior
+Jensen’s inequality
+Jet Propulsion Laboratory
+Johnson noise
+joint ensemble
+joint entropy
+joint typicality
+joint typicality theorem
+Jordan
+journal publication policy
+judge
+juggling
+junction tree algorithm
+jury
+K-means clustering
+derivation
+soft
+kaboom
+Kalman (cid:12)lter
+kernel
+communication
+how much data needed
+likelihood principle
+model comparison
+Monte Carlo
+solving probability problems
+keyboard
+Kikuchi free energy
+KL distance
+Knowlton{Graham partitions
+Kolmogorov
+Kraft inequality
+Kraft
+kriging
+Lagrange multiplier
+lake
+Langevin method
+Langevin process
+language model
+Laplace model
+Laplace prior
+Laplace’s method
+Laplace’s rule
+latent variable
+latent variable model
+compression
+law of large numbers
+lawyer
+Le Cun
+leaf
+leapfrog algorithm
+learning
+as communication
+as inference
+Hebbian
+in evolution
+backpropagation
+Boltzmann machine
+classi(cid:12)cation
+competitive learning
+Hop(cid:12)eld network
+K-means clustering
+multilayer perceptron
+single neuron
+learning rule
+Lempel{Ziv coding
+criticisms
+life
+life in high dimensions
+likelihood
+contrasted with probability
+subjectivity
+likelihood equivalence
+likelihood principle
+limit cycle
+linear block code
+coding theorem
+decoding
+linear regression
+linear-feedback shift-register
+Litsyn
+little ’n’ large data set
+log-normal
+logarithms
+logit
+long thin strip
+loopy belief propagation
+loopy message-passing
+loss function
+lossy compression
+low-density parity-check code
+LT code
+Luby
+Luria
+Lyapunov function
+machine learning
+macho
+MacKay
+magician
+magnet
+magnetic recording
+majority vote
+male
+Mandelbrot
+mapping
+marginal entropy
+marginal probability
+marginalization
+Markov chain
+construction
+marriage
+matrix
+matrix identities
+max{product
+maximum distance separable
+maximum entropy
+maximum likelihood
+maximum a posteriori
+McCollough e(cid:11)ect
+McMillan
+MD5
+MDS
+mean
+mean (cid:12)eld theory
+melody
+memory
+address-based
+associative
+content-addressable
+MemSys
+message passing
+BCJR
+belief propagation
+forward{backward
+in graphs with cycles
+loopy
+sum{product algorithm
+Viterbi
+metacode
+metric
+M(cid:19)ezard
+micro-saccades
+microcanonical
+microsoftus
+microwave oven
+min{sum algorithm
+mine (hole in ground)
+minimax
+minimum description length
+Minka
+mirror
+Mitzenmacher
+mixing coe(cid:14)cients
+mixture modelling
+mixture of Gaussians
+mixtures in Markov chains
+mobile phone
+model
+model comparison
+typical evidence
+modelling
+density modelling
+images
+latent variable models
+nonparametric
+molecules
+Molesworth
+momentum
+Monte Carlo methods
+acceptance rate
+acceptance ratio method
+and communication
+coalescence
+dependence on dimension
+exact sampling
+for visualization
+Gibbs sampling
+Hamiltonian Monte Carlo
+importance sampling
+weakness of
+Langevin method
+Markov chain Monte Carlo
+Metropolis method
+dumb Metropolis
+Metropolis{Hastings
+multi-state
+overrelaxation
+perfect simulation
+random walk suppression
+random-walk Metropolis
+rejection sampling
+adaptive
+reversible jump
+simulated annealing
+slice sampling
+thermodynamic integration
+umbrella sampling
+Monty Hall problem
+Morse
+motorcycle
+movie
+multilayer perceptron
+multiple access channel
+multiterminal networks
+multivariate Gaussian
+Munro{Robbins theorem
+murder
+music
+mutation rate
+mutual information
+how to compute
+myth
+compression
+nat (unit)
+natural gradient
+natural selection
+navigation
+Neal
+needle
+network
+neural network
+capacity
+learning as communication
+learning as inference
+neuron
+capacity
+Newton
+Newton{Raphson method
+nines
+coloured
+spectral density
+white
+noisy typewriter
+noisy-channel coding theorem
+Gaussian channel
+linear codes
+poor man’s version
+noisy-or
+non-confusable inputs
+noninformative
+nonlinear
+nonlinear code
+nonparametric data modelling
+nonrecursive
+noodle
+normal graph
+not-sum
+notation
+absolute value
+conventions of this book
+convex/concave
+entropy
+error function
+expectation
+intervals
+logarithms
+matrices
+probability
+set size
+transition probability
+vectors
+NP-complete
+nucleotide
+nuisance parameters
+numerology
+Nyquist sampling theorem
+objective function
+Occam factor
+Occam’s razor
+octal
+octave
+odds
+Ode to Joy
+rules
+Oliver
+one-way hash function
+optic nerve
+optimal decoder
+optimal input distribution
+optimal linear (cid:12)lter
+optimal stopping
+optimization
+gradient descent
+Newton algorithm
+of model complexity
+order parameter
+ordered overrelaxation
+outer code
+over(cid:12)tting
+overrelaxation
+p-value
+packet
+paradox
+Allais
+bus-stop
+heat capacity
+Simpson’s
+waiting for a six
+paranormal
+parasite
+parent
+parity
+parity-check bits
+parity-check code
+parity-check constraints
+parity-check matrix
+generalized
+parity-check nodes
+parse
+Parsons code
+parthenogenesis
+partial order
+partial partition functions
+particle (cid:12)lter
+partition
+partition function
+analogy with lake
+partial
+partitioned inverse
+path-counting
+pattern recognition
+pentagonful code
+perfect code
+perfect simulation
+periodic variable
+permutation
+Petersen graph
+phase transition
+philosophy
+phone
+phone directory
+phone number
+photon counter
+physics
+pigeon-hole principle
+pitchfork bifurcation
+plaintext
+plankton
+point estimate
+point spread function
+pointer
+poisoned glass
+Poisson distribution
+Poisson process
+Poissonville
+polymer
+poor man’s coding theorem
+porridge
+portfolio
+positive de(cid:12)nite
+positivity
+posterior probability
+power cost
+power law
+precision
+precisions add
+prediction
+predictive distribution
+pre(cid:12)x code
+prior
+assigning
+improper
+Je(cid:11)reys
+subjectivity
+prior equivalence
+priority of bits in a message
+prize
+probabilistic model
+probabilistic movie
+probability
+Bayesian
+contrasted with likelihood
+density
+probability of block error
+product code
+pro(cid:12)le
+pronunciation
+proper
+proposal density
+Propp
+prosecutor’s fallacy
+prospecting
+protein
+regulatory
+synthesis
+protocol
+pseudoinverse
+Punch
+puncturing
+pupil
+cable labelling
+chessboard
+hat
+life
+magic trick
+poisoned glass
+secretary
+southeast
+transatlantic cable
+weighing 12 balls
+quantum error-correction
+queue
+QWERTY
+race
+radial basis function
+radio
+radix
+RAID
+random
+random cluster model
+random code
+for compression
+random number generator
+random variable
+random walk
+suppression
+random-coding exponent
+random-walk Metropolis method
+raptor codes
+rate
+rate-distortion theory
+rateless code
+reading aloud
+receiver operating characteristic
+recognition
+record breaking
+rectangular code
+reducible
+redundancy
+in channel code
+redundant constraints in code
+Reed{Solomon code
+regression
+regret
+regular
+regularization
+regularization constant
+reinforcement learning
+rejection
+rejection sampling
+adaptive
+relative entropy
+reliability function
+repeat{accumulate code
+repetition code
+responsibility
+retransmission
+reverse
+reversible
+reversible jump
+Richardson
+Rissanen
+ROC
+rolling die
+roman
+rule of thumb
+runlength
+runlength-limited channel
+saccades
+saddle-point approximation
+sailor
+sample
+from Gaussian
+sampler density
+sampling distribution
+sampling theory
+criticisms
+sandwiching method
+satellite communications
+scaling
+Sch(cid:127)onberg
+Schottky anomaly
+scientists
+secret
+secretary problem
+security
+seek time
+Sejnowski
+self-delimiting
+self-dual
+self-orthogonal
+self-punctuating
+separation
+sequence
+sequential decoding
+sequential probability ratio test
+classical statistics
+con(cid:12)dence level
+dimensions
+gradient descent
+illegal integral
+importance sampling
+interleaving
+MAP method
+maximum entropy
+maximum likelihood
+most probable is atypical
+p-value
+sampling theory
+sphere-packing
+stopping rule
+turbo codes
+unbiased estimator
+worst-case-ism
+set
+shannon (unit)
+Shannon
+shattering
+shifter ensemble
+Shokrollahi
+shortening
+Siegel
+sigmoid
+signal-to-noise ratio
+signi(cid:12)cance level
+simplex
+Simpson’s paradox
+six
+Skilling
+sleep
+slice sampling
+multi-dimensional
+soft K-means clustering
+softmax
+arithmetic coding
+BUGS
+Dasher
+Gaussian processes
+hash function
+VIBES
+solar system
+soldier
+soliton distribution
+sound
+algorithms
+block code
+block-sorting compression
+Burrows{Wheeler transform
+for complex sources
+for constrained channel
+for integers
+implicit probabilities
+optimal lengths
+pre(cid:12)x code
+software
+stream codes
+supermarket
+symbol code
+uniquely decodeable
+variable symbol durations
+source coding theorem
+southeast puzzle
+span
+sparse-graph code
+density evolution
+pro(cid:12)le
+sparsi(cid:12)er
+species
+spell
+sphere packing
+sphere-packing exponent
+Spielman
+spin system
+spines
+spline
+spread spectrum
+spring
+spy
+square
+staircase
+stalactite
+standard deviation
+stars
+state diagram
+statistic
+su(cid:14)cient
+statistical test
+steepest descents
+stereoscopic vision
+sti(cid:11)ness
+Stirling’s approximation
+stochastic
+stochastic gradient
+stop-when-it’s-done
+stopping rule
+straws
+stream codes
+student
+Student-t distribution
+subjective probability
+submarine
+subscriber
+subset
+substring
+su(cid:14)cient statistics
+sum rule
+sum{product algorithm
+summary
+summary state
+summation convention
+super-channel
+supermarket (codewords)
+support vector
+surprise value
+survey propagation
+suspicious coincidences
+symbol code
+budget
+codeword
+disadvantages
+optimal
+self-delimiting
+supermarket
+symmetric channel
+symmetry argument
+synchronization
+synchronization errors
+syndrome
+syndrome decoding
+systematic
+tail
+tamper detection
+Tank
+Tanner challenge
+Tanner product code
+Tanner
+Tanzanite
+tap
+telescope
+temperature
+termination
+Monte Carlo methods
+statistical
+text entry
+thermal distribution
+thermodynamic integration
+thermodynamics
+third law
+Thiele
+thin shell
+third law of thermodynamics
+Thitimajshima
+three cards
+three doors
+threshold
+tiling
+time-division
+timing
+training data
+transatlantic
+transfer matrix method
+transition
+transition probability
+translation-invariant
+travelling salesman problem
+tree
+trellis
+section
+termination
+triangle
+truth function
+tube
+turbo code
+turbo product code
+Turing
+twenty questions
+twin
+twos
+typical evidence
+typical set
+for compression
+for noisy channel
+typical-set decoder
+typicality
+umbrella sampling
+unbiased estimator
+uncompression
+union
+union bound
+uniquely decodeable
+units
+universal
+universality
+Urbanke
+urn
+user interfaces
+utility
+vaccination
+Vapnik{Chervonenkis dimension
+variable-length code
+variance
+variance{covariance matrix
+variances add
+variational Bayes
+variational free energy
+variational methods
+typical properties
+variational Gaussian process
+VC dimension
+vector quantization
+VIBES
+Virtakallio
+vision
+visualization
+Viterbi algorithm
+volume
+Von Mises distribution
+Wainwright
+waiting for a bus
+Watson{Crick base pairing
+weather collator
+weighing babies
+weighing problem
+importance sampling
+in neural net
+of binary vector
+weight decay
+weight enumerator
+typical
+weight space
+Wenglish
+what number comes next?
+white
+white noise
+Wiberg
+widget
+Wiener process
+Wiener
+wife-beater
+Wilson
+window
+Winfree
+wodge
+Wolf
+word-English
+world record
+worst-case-ism
+writing
+Yedidia
+Z channel
+Zipf plot
+Zipf’s law
+Zipf

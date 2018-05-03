@@ -1,0 +1,2376 @@
+3D Rotations, see Rotations
+3D alignment, 320
+
+absolute orientation, 320, 588
+orthogonal Procrustes, 320
+
+3D photography, 613
+3D video, 643
+
+Absolute orientation, 320, 588
+Active appearance model (AAM), 680
+Active contours, 270
+Active illumination, 585
+Active rangeﬁnding, 585
+Active shape model (ASM), 276, 680
+Activity recognition, 610
+Adaptive smoothing, 127
+Afﬁne transforms, 37, 40
+Afﬁnities (segmentation), 296
+
+normalizing, 297
+
+Algebraic multigrid, 288
+Algorithms
+
+testing, viii
+Aliasing, 77, 476
+Alignment, see Image alignment
+Alpha
+
+opacity, 106
+pre-multiplied, 106
+
+Alpha matte, 105
+
+Ambient illumination, 65
+Analog to digital conversion (ADC), 77
+Anisotropic diffusion, 127
+Anisotropic ﬁltering, 168
+Anti-aliasing ﬁlter, 78, 476
+Aperture, 69
+Aperture problem, 394
+Applications, 5
+
+3D model reconstruction, 362, 371
+3D photography, 613
+augmented reality, 326, 368
+automotive safety, 5
+background replacement, 558
+biometrics, 668
+colorization, 504
+de-interlacing, 415
+digital heritage, 590
+document scanning, 432
+edge editing, 249
+facial animation, 603
+ﬂash photography, 494
+frame interpolation, 418
+gaze correction, 552
+head tracking, 551
+hole ﬁlling, 521
+image restoration, 192
+image search, 717
+
+934
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+industrial, 7
+intelligent photo editing, 709
+Internet photos, 371
+location recognition, 693
+machine inspection, 5
+match move, 368
+medical imaging, 5, 304, 408
+morphing, 173
+mosaic-based video compression, 436
+non-photorealistic rendering, 522
+Optical character recognition (OCR), 5
+panography, 314
+performance-driven animation, 237
+photo pop-up, 710
+Photo Tourism, 624
+Photomontage, 459
+planar pattern tracking, 326
+rotoscoping, 282
+scene completion, 709
+scratch removal, 521
+single view reconstruction, 331
+tonal adjustment, 111
+video denoising, 414
+video stabilization, 401
+video summarization, 436
+video-based walkthroughs, 645
+VideoMouse, 326
+view morphing, 357
+visual effects, 5
+whiteboard scanning, 432
+z-keying, 558
+
+Arc length parameterization of a curve, 246
+Architectural reconstruction, 598
+Area statistics, 132
+
+mean (centroid), 132
+perimeter, 132
+second moment (inertia), 132
+
+Aspect ratio, 52, 53
+
+Augmented reality, 326, 338, 368
+Auto-calibration, 355
+Automatic gain control (AGC), 76
+Axis/angle representation of rotations, 41
+
+B-snake, 273
+B-spline, 171, 172, 250, 273, 279, 408
+
+cubic, 146
+multilevel, 592
+octree, 597
+
+Background plate, 518
+Background subtraction (maintenance), 606
+Bag of words (keypoints), 697, 727
+
+distance metrics, 698
+
+Band-pass ﬁlter, 118
+Bartlett ﬁlter, see Bilinear kernel
+Bayer pattern (RGB sensor mosaic), 85
+
+demosaicing, 86, 502
+Bayes’ rule, 141, 180, 762
+
+MAP (maximum a posteriori) estimate,
+
+763
+
+posterior distribution, 762
+
+Bayesian modeling, 180, 762
+MAP estimate, 180, 763
+matting, 510
+posterior distribution, 180, 762
+prior distribution, 180, 762
+uncertainty, 180
+
+Belief propagation (BP), 185, 768
+
+update rule, 769
+
+Bias, 104, 386
+Bidirectional Reﬂectance Distribution Func-
+
+tion, see BRDF
+
+Bilateral ﬁlter, 125
+
+joint, 496
+range kernel, 125
+tone mapping, 489
+Bilinear blending, 110
+
+Index
+
+Bilinear kernel, 117
+Biometrics, 668
+Bipartite problem, 364
+Blind image deconvolution, 498
+Block-based motion estimation
+
+(block matching), 387
+
+Blocks world, 11
+Blue screen matting, 106, 195, 507
+Blur kernel, 69
+
+estimation, 476, 528
+
+Blur removal, 144, 197
+Body color, 63
+Boltzmann distribution, 181, 763
+Boosting, 663
+
+AdaBoost algorithm, 665
+decision stump, 663
+weak learner, 663
+
+Border (boundary) effects, 114, 196
+Boundary detection, 244
+Box ﬁlter, 117
+Boxlet, 121
+BRDF, 62
+
+935
+
+intrinsic, 50, 327
+optical blur, 476, 528
+patterns, 327
+photometric, 470
+plumb-line method, 335, 341
+point spread function, 476, 528
+radial distortion, 334
+radiometric, 470, 481, 526
+rotational motion, 332, 339
+slant edge, 476
+vanishing points, 329
+vignetting, 474
+
+Camera matrix, 51, 54
+Catadioptric optics, 71
+Category-level recognition, 696
+
+bag of words, 697, 727
+data sets, 718
+part-based, 701
+segmentation, 704
+surveys, 723
+
+CCD, 74
+
+blooming, 74
+
+anisotropic, 62
+isotropic, 62
+recovery, 612
+spatially varying (SVBRDF), 612
+
+Brightness, 104
+Brightness constancy, 3, 384
+Brightness constancy constraint, 384, 393,
+
+410
+
+Bundle adjustment, 363
+
+Calibration, see Camera calibration
+Calibration matrix, 51
+Camera calibration, 50, 97
+
+accuracy, 340
+aliasing, 476
+extrinsic, 51, 321
+
+Central difference, 118
+Chained transformations, 325, 364
+Chamfer matching, 129
+Characteristic function, 131, 281, 590, 596
+Characteristic polynomial, 740
+Chirality, 347, 351
+Cholesky factorization, 741
+
+algorithm, 741
+incomplete, 752
+sparse, 749
+
+Chromatic aberration, 71, 342
+Chromaticity coordinates, 83
+CIE L*a*b*, see Color
+CIE L*u*v*, see Color
+CIE XYZ, see Color
+Circle of confusion, 69
+
+936
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+CLAHE, see Histogram equalization
+Clustering
+
+agglomerative, 286
+cluster analysis, 269, 305
+divisive, 286
+
+CMOS, 74
+Co-vector, 37
+Coefﬁcient matrix, 177
+Collineation, 40
+Color, 80
+
+balance, 86, 97, 194
+camera, 84
+demosaicing, 86, 502
+fringing, 504
+hue, saturation, value (HSV), 90
+L*a*b*, 83
+L*u*v*, 84, 289
+primaries, 81
+proﬁle, 473
+ratios, 90
+RGB, 81
+transform, 104
+twist, 86, 105
+XYZ, 81
+YIQ, 88
+YUV, 88
+
+Color ﬁlter array (CFA), 85, 502
+Color line model, 513
+ColorChecker chart, 473
+Colorization, 504
+Compositing, 105, 192, 195
+
+image stitching, 450
+opacity, 106
+over operator, 106
+surface, 451
+transparency, 106
+
+Compression, 90
+Computational photography, 467
+
+active illumination, 496
+ﬂash and non-ﬂash, 494
+high dynamic range, 479
+references, 469, 524
+tone mapping, 487
+
+Concentric mosaic, 437, 634
+CONDENSATION, 279
+Condition number, 750
+Conditional random ﬁeld (CRF), 188, 553,
+
+708
+
+Confusion matrix (table), 226
+Conic section, 33
+Conjugate gradient descent (CG), 749
+
+algorithm, 751
+non-linear, 750
+preconditioned, 751
+
+Connected components, 131, 198
+Constellation model, 704
+Content based image retrieval (CBIR), 717
+Continuation method, 179
+Contour
+
+arc length parameterization, 246
+chain code, 246
+matching, 248, 263
+smoothing, 248
+
+Contrast, 104
+Controlled-continuity spline, 175
+Convolution, 112
+kernel, 111
+mask, 111
+superposition, 112
+
+Coring, 153, 201
+Correlation, 111, 386
+windowed, 390
+
+Correspondence map, 398
+Cramer–Rao lower bound, 320, 397, 775
+Cube map
+
+Hough transform, 253
+
+Index
+
+937
+
+image stitching, 451
+
+selectivity, 120
+
+Curve
+
+arc length parameterization, 246
+evolution, 248
+matching, 248
+smoothing, 248
+
+Discrete cosine transform (DCT), 91, 142
+Discrete Fourier transform (DFT), 134
+Discriminative random ﬁeld (DRF), 190
+Disparity, 49, 539
+Disparity map, 540, 562
+
+Cylindrical coordinates, 438
+
+multiple, 561
+
+Data energy (term), 181, 763
+Data sets and test databases, 778
+
+recognition, 718
+
+De-interlacing, 415
+Decimation, 148
+Decimation kernels
+
+bicubic, 150
+binomial, 148, 150
+QMF, 150
+windowed sinc, 148
+
+Demosaicing (Bayer), 86, 502
+Depth from defocus, 584
+Depth map, see Disparity map
+Depth of ﬁeld, 69, 95
+Di-chromatic reﬂection model, 67
+Difference matting (keying), 106, 195, 508,
+
+606
+
+Difference of Gaussians (DoG), 152
+Difference of low-pass (DOLP), 152
+Diffuse reﬂection, 63
+Diffusion
+
+anisotropic, 127
+
+Digital camera, 73
+
+color, 84
+color ﬁlter array (CFA), 85
+compression, 90
+
+Direct current (DC), 92
+Direct linear transform (DLT), 322
+Direct sparse matrix techniques, 747
+Directional derivative, 119
+
+Disparity space image (DSI), 540
+
+generalized, 542
+
+Displaced frame difference (DFD), 384
+Displacement ﬁeld, 170
+Distance from face space (DFFS), 672
+Distance in face space (DIFS), 672
+Distance map, see Distance transform
+Distance transform, 129, 198
+
+Euclidean, 129
+image stitching, 455
+Manhattan (city block), 129
+signed, 130
+
+Domain (of a function), 103
+Domain scaling law, 167
+Downsampling, see Decimation
+Dynamic programming (DP), 554, 766
+
+monotonicity, 556
+ordering constraint, 556
+scanline optimization, 556
+
+Dynamic snake, 276
+Dynamic texture, 642
+
+Earth mover’s distance (EMD), 698
+Edge detection, 238, 261
+
+boundary detection, 244
+Canny, 239
+chain code, 246
+color, 243
+Difference of Gaussian, 240
+edgel (edge element), 241
+hysteresis, 246
+
+938
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Laplacian of Gaussian, 240
+linking, 244, 262
+marching cubes, 241
+scale selection, 242
+steerable ﬁlter, 241
+zero crossing, 241
+
+Eigenface, 671
+Eigenvalue decomposition, 275, 671, 737
+Eigenvector, 737
+Elastic deformations, 408
+
+image registration, 408
+
+Elastic nets, 272
+Elliptical weighted average (EWA), 168
+Environment map, 61, 633
+Environment matte, 634
+Epanechnikov kernel, 294
+Epipolar constraint, 348
+Epipolar geometry, 348, 537
+
+pure rotation, 353
+pure translation, 352
+
+Epipolar line, 537
+Epipolar plane, 537, 544
+
+image (EPI), 559, 629
+
+Epipolar volume, 629
+Epipole, 348, 537
+Error rates
+
+accuracy (ACC), 229
+false negative (FN), 226
+false positive (FP), 226
+positive predictive value (PPV), 229
+precision, 229
+recall, 229
+ROC curve, 229
+true negative (TN), 226
+true positive (TP), 226
+
+Errors-in-variable model, 442, 744
+
+heteroscedastic, 746
+
+Essential matrix, 348
+
+5-point algorithm, 352
+eight-point algorithm, 349
+re-normalization, 350
+seven-point algorithm, 350
+twisted pair, 351
+Estimation theory, 757
+Euclidean transformation, 36, 40
+Euler angles, 41
+Expectation maximization (EM), 291
+Exponential twist, 43
+Exposure bracketing, 480
+Exposure value (EV), 70, 470
+
+F-number (stop), 69, 95
+Face detection, 658
+boosting, 663
+cascade of classiﬁers, 664
+clustering and PCA, 660
+data sets, 718
+neural networks, 661
+support vector machines, 662
+
+Face modeling, 601
+Face recognition, 668
+
+active appearance model, 680
+data sets, 718
+eigenface, 671
+elastic bunch graph matching, 679
+local binary patterns (LBP), 722
+local feature analysis, 679
+
+Face transfer, 639
+Facial motion capture, 603, 605, 639
+Factor graph, 181, 764, 768
+Factorization, 15, 357
+missing data, 360
+projective, 360
+
+Fast Fourier transform (FFT), 134
+Fast marching method (FMM), 282
+Feature descriptor, 222, 260
+
+Index
+
+bias and gain normalization, 222
+GLOH, 223
+patch, 222
+PCA-SIFT, 223
+performance (evaluation), 224
+quantization, 234, 691, 698
+SIFT, 223
+steerable ﬁlter, 224
+
+Feature detection, 207, 209, 259
+
+Adaptive non-maximal suppression, 215
+afﬁne invariance, 219
+auto-correlation, 210
+F¨orstner, 212
+Harris, 212
+Laplacian of Gaussian, 217
+MSER, 220
+region, 221
+repeatability, 215
+rotation invariance, 218
+scale invariance, 216
+
+Feature matching, 207, 225, 261
+
+densiﬁcation, 234
+efﬁciency, 232
+error rates, 226
+hashing, 232
+indexing structure, 232
+k-d trees, 233
+locality sensitive hashing, 233
+nearest neighbor, 229
+strategy, 226
+veriﬁcation, 234
+
+Feature tracking, 235, 261
+
+afﬁne, 235
+learning, 236
+
+Feature tracks, 357, 371
+Feature-based alignment, 311
+
+2D, 311
+3D, 320
+
+939
+
+iterative, 315
+Jacobian, 312
+least squares, 312
+match veriﬁcation, 686
+RANSAC, 318
+robust, 318
+
+Field of Experts (FoE), 186
+Fill factor, 75
+Fill-in, 366, 748
+Filter
+
+adaptive, 127
+band-pass, 118
+bilateral, 125
+directional derivative, 119
+edge-preserving, 124, 127
+Laplacian of Gaussian, 119
+median, 124
+moving average, 117
+non-linear, 122
+separable, 115, 197
+steerable, 119, 198
+Filter coefﬁcients, 111
+Filter kernel, see Kernel
+Finding faces, see Face detection
+Finite element analysis, 176
+
+stiffness matrix, 177
+
+Finite impulse response (FIR) ﬁlter, 111, 122
+Fisher information matrix, 313, 320, 758,
+
+775
+
+Fisher’s linear discriminant (FLD), 676
+Fisheye lens, 59
+Flash and non-ﬂash merging, 494
+Flash matting, 517
+Flip-book animation, 336
+Flying spot scanner, 587
+Focal length, 52, 53, 69
+Focus, 69
+
+shape-from, 584, 616
+
+940
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Focus of expansion (FOE), 352
+Form factor, 68
+Forward mapping, see Forward warping
+Forward warping, 164, 202
+Fourier transform, 132, 198
+
+discrete, 134
+examples, 136
+magnitude (gain), 133
+pairs, 136
+Parseval’s Theorem, 136
+phase (shift), 133
+power spectrum, 140
+properties, 134
+two-dimensional, 140
+
+Fourier-based motion estimation, 388
+
+rotations and scale, 391
+
+Frame interpolation, 418
+Free-viewpoint video, 644
+Fundamental matrix, 353
+
+estimation, see Essential matrix
+Fundamental radiometric relation, 73
+
+Gain, 104, 386
+Gamma, 104
+Gamma correction, 87, 96
+Gap closing (image stitching), 435
+Garbage matte, 518
+Gaussian kernel, 117
+Gaussian Markov random ﬁeld (GMRF),
+
+184, 191, 499
+
+Gaussian mixtures, see Mixture of Gaussians
+Gaussian pyramid, 150
+Gaussian scale mixtures (GSM), 186
+Gaze correction, 552
+Geman–McClure function, 385
+Generalized cylinders, 12, 588, 593
+Geodesic active contour, 282
+Geodesic distance (segmentation), 304
+
+Geometric image formation, 31
+Geometric lens aberrations, 70
+Geometric primitives, 32
+
+homogeneous coordinates, 32
+lines, 32, 34
+normal vector, 32
+normal vectors, 34
+planes, 33
+points, 32, 33
+
+Geometric transformations
+
+2D, 35, 163
+3D, 39
+3D perspective, 40
+3D rotations, 41
+afﬁne, 37, 40
+bilinear, 39
+calibration matrix, 51
+collineation, 40
+Euclidean, 36, 40
+forward warping, 164, 202
+hierarchy, 37
+homography, 37, 40, 56, 431
+inverse warping, 165
+perspective, 37
+projections, 46
+projective, 37
+rigid body, 36, 40
+scaled rotation, 36, 40
+similarity, 36, 40
+translation, 36, 39
+Geometry image, 594
+Gesture recognition, 605
+Gibbs distribution, 181, 763
+Gibbs sampler, 765
+Gimbal lock, 41
+Gist (of a scene), 709, 714
+Global illumination, 67
+Global optimization, 174
+
+Index
+
+941
+
+GPU algorithms, 789
+Gradient
+
+location-orientation
+
+histogram
+
+(GLOH), 223
+
+Graduated non-convexity (GNC), 179
+Graph cuts
+
+MRF inference, 183, 770
+normalized cuts, 296
+
+Graph-based segmentation, 286
+Grassﬁre transform, 130, 248, 455
+Ground control points, 350, 429
+
+Hammersley–Clifford theorem, 181, 763
+Hann window, 138
+Harris corner detector, see Feature detection
+Head tracking, 551
+
+active appearance model (AAM), 680
+
+Helmholtz reciprocity, 62
+Hessian, 177, 213, 313, 315, 320, 394, 399,
+
+743
+
+eigenvalues, 397
+image, 394, 411
+inverse, 320, 397, 401
+local, 410
+patch-based, 400
+rank-deﬁcient, 370
+reduced motion, 366
+sparse, 366, 379, 747
+Heteroscedastic, 313, 746
+Hidden Markov model (HMM), 642
+Hierarchical motion estimation, 387
+High dynamic range (HDR) imaging, 479
+
+formats, 486
+tone mapping, 487
+
+Highest conﬁdence ﬁrst, 765
+Highest conﬁdence ﬁrst (HCF), 182
+Hilbert transform pair, 120
+Histogram equalization, 107, 196
+
+locally adaptive, 109, 196
+
+Histogram intersection, 698
+Histogram of oriented gradients (HOG), 666
+History of computer vision, 10
+Hole ﬁlling, 521
+Homogeneous coordinates, 32, 347
+Homography, 37, 56, 431
+Hough transform, 251, 264
+
+cascaded, 253
+cube map, 253
+generalized, 251
+
+Human body shape modeling, 609
+Human motion tracking, 605
+activity recognition, 610
+adaptive shape modeling, 609
+background subtraction, 606
+ﬂow-based, 607
+initialization, 607
+kinematic models, 607
+particle ﬁltering, 608
+probabilistic models, 608
+
+Hyper-Laplacian, 179, 184, 186
+
+Ideal points, 32
+Ill-posed (ill-conditioned) problems, 175
+Illusions, 3
+Image alignment
+
+feature-based, 311, 543
+intensity-based, 384
+intensity-based vs. feature-based, 450
+
+Image analogies, 522
+Image blending
+
+feathering, 455
+GIST, 461
+gradient domain, 459
+image stitching, 453
+Poisson, 460
+pyramid, 160, 459
+
+Image compositing, see Compositing
+
+942
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Image compression, 90
+Image decimation, 148
+Image deconvolution, see Blur removal
+Image ﬁltering, 111
+Image formation
+
+geometric, 31
+photometric, 60
+
+Image gradient, 119, 127, 392
+
+constraint, 177
+
+Image interpolation, 145
+Image matting, 505, 529
+Image processing, 101
+
+textbooks, 101, 192
+Image pyramid, 144, 200
+Image resampling, 163, 199
+
+test images, 200
+
+Image restoration, 144, 192
+
+blur removal, 144, 197, 199
+deblocking, 204
+inpainting, 192
+noise removal, 144, 197, 203
+using MRFs, 192
+
+Image search, 717
+Image segmentation, see Segmentation
+Image sensing, see Sensing
+Image statistics, 132
+Image stitching, 427
+automatic, 446
+bundle adjustment, 441
+compositing, 450
+coordinate transformations, 452
+cube map, 451
+cylindrical, 438, 463
+de-ghosting, 446, 456, 464
+direct vs. feature-based, 450
+exposure compensation, 462
+feathering, 455
+gap closing, 435
+
+global alignment, 441
+homography, 431
+motion models, 430
+panography, 314
+parallax removal, 445
+photogrammetry, 429
+pixel selection, 453
+planar perspective motion, 431
+recognizing panoramas, 446
+rotational motion, 433
+seam selection, 456
+spherical, 439
+up vector selection, 444
+Image warping, 163, 201, 388
+Image-based modeling, 623
+Image-based rendering, 619
+concentric mosaic, 634
+environment matte, 634
+impostors, 626
+layered depth image, 626
+layers, 626
+light ﬁeld, 628
+Lumigraph, 628
+modeling vs. rendering continuum, 637
+sprites, 626
+surface light ﬁeld, 632
+unstructured Lumigraph, 632
+view interpolation, 621
+view-dependent texture maps, 623
+
+Image-based visual hull, 569
+ImageNet, 716
+Implicit surface, 596
+Impostors, see Sprites
+Impulse response, 112
+Incremental reﬁnement
+
+motion estimation, 388, 392
+
+Incremental rotation, 45
+Indexing structure, 232
+
+Index
+
+943
+
+Indicator function, 596
+Industrial applications, 7
+Inﬁnite impulse response (IIR) ﬁlter, 122
+Inﬂuence function, 179, 318, 761
+Information matrix, 313, 320, 370, 758, 775
+Inpainting, 521
+Instance recognition, 685
+
+algorithm, 690
+data sets, 718
+geometric alignment, 686
+inverted index, 687
+large scale, 687
+match veriﬁcation, 686
+query expansion, 692
+stop list, 689
+visual words, 688
+vocabulary tree, 691
+
+Integrability constraint, 581
+Integral image, 120
+Integrating sphere, 472
+Intelligent scissors, 280
+Interaction potential, 181, 763, 768
+Interactive computer vision, 614
+International Color Consortium (ICC), 473
+Internet photos, 371
+Interpolation, 145
+Interpolation kernels
+
+bicubic, 146
+bilinear, 145
+binomial, 145
+sinc, 148
+spline, 148
+
+Intrinsic camera calibration, 327
+Intrinsic images, 12
+Inverse kinematics (IK), 607
+Inverse mapping, see Inverse warping
+Inverse problems, 3, 175
+Inverse warping, 165
+
+ISO setting, 76
+Iterated closest point (ICP), 272, 321, 588
+Iterated conditional modes (ICM), 182, 765
+Iterative back projection (IBP), 499
+Iterative feature-based alignment, 315
+Iterative sparse matrix techniques, 748
+
+conjugate gradient, 749
+
+Iteratively reweighted least squares
+
+(IRLS), 318, 324, 398, 761
+
+Jacobian, 312, 325, 364, 392, 746
+
+image, 394
+motion, 399
+sparse, 366, 379, 747
+
+Joint bilateral ﬁlter, 496
+Joint domain (feature space), 294
+
+K-d trees, 233
+K-means, 289
+Kalman snakes, 276
+Kanade–Lucas–Tomasi (KLT) tracker, 235
+Karhunen–Lo`eve transform, 143, 671
+Kernel, 117
+
+bilinear, 117
+Gaussian, 117
+low-pass, 117
+Sobel operator, 118
+unsharp mask, 117
+
+Kernel basis function, 176
+Kernel density estimation, 292
+Keypoint detection, see Feature detection
+Kinematic model (chain), 607
+Kruppa equations, 356
+
+L*a*b*, see Color
+L*u*v*, see Color
+L1 norm, 179, 385, 411, 597
+L∞ norm, 367
+Lambertian reﬂection, 63
+
+944
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Laplacian matting, 515
+Laplacian of Gaussian (LoG) ﬁlter, 119
+Laplacian pyramid, 151
+
+blending, 160, 200, 459
+perfect reconstruction, 151
+
+Latent Dirichlet process (LDP), 713
+Layered depth image (LDI), 626
+Layered depth panorama, 634
+Layered motion estimation, 415
+
+transparent, 419
+
+Layers
+
+image-based rendering, 626
+
+Layout consistent random ﬁeld, 708
+Learning in computer vision, 714
+Least median of squares (LMS), 318
+Least squares
+
+iterative solvers, 324, 748
+linear, 94, 312, 320, 384, 738, 742, 756,
+
+760, 786
+
+non-linear, 315, 324, 347, 746, 760, 787
+robust, see Robust least squares
+sparse, 364, 748, 787
+total, 744
+weighted, 313, 494, 498, 505
+
+Lens
+
+compound, 71
+nodal point, 71
+thin, 69
+
+Lens distortions, 58
+calibration, 334
+decentering, 59
+radial, 58
+spline-based, 59
+tangential, 59
+
+Lens law, 69
+Level of detail (LOD), 594
+Level sets, 281, 282
+
+fast marching method, 282
+
+geodesic active contour, 282
+
+Levenberg–Marquardt, 316, 371, 379, 747,
+
+783
+
+Lifting, see Wavelets
+Light ﬁeld
+
+higher dimensional, 636
+light slab, 629
+ray space, 631
+rendering, 628
+surface, 632
+
+Lightness, 84
+Line at inﬁnity, 32
+Line detection, 250
+
+Hough transform, 251, 264
+RANSAC, 254
+simpliﬁcation, 250, 264
+successive approximation, 251, 264
+
+Line equation, 32, 34
+Line ﬁtting, 94, 264
+uncertainty, 265
+
+Line hull, see Visual hull
+Line labeling, 11
+Line process, 194, 553, 764
+Line spread function (LSF), 476
+Line-based structure from motion, 374
+Linear algebra, 735
+
+least squares, 742
+matrix decompositions, 736
+references, 736
+
+Linear blend, 104
+Linear discriminant analysis (LDA), 676
+Linear ﬁltering, 111
+Linear operator, 104
+
+superposition, 104
+
+Linear shift invariant (LSI) ﬁlter, 112
+Live-wire, 280
+Local distance functions, 679
+Local operator, 111
+
+Index
+
+945
+
+Locality sensitive hashing (LSH), 233
+Locally adaptive histogram equalization, 109
+Location recognition, 693
+Loopy belief propagation (LBP), 185, 769
+Low-pass ﬁlter, 117
+
+sinc, 117
+
+Lumigraph, 628
+
+unstructured, 632
+
+Luminance, 82
+Lumisphere, 633
+
+M-estimator, 318, 384, 761
+Mahalanobis distance, 291, 673, 677, 758
+Manifold mosaic, 455, 649
+Markov chain Monte Carlo (MCMC), 760,
+
+765
+
+Markov random ﬁeld, 180, 763
+
+cliques, 181, 764
+directed edges, 302
+dynamic, 772
+ﬂux, 302
+inference, see MRF inference
+layout consistent, 708
+learning parameters, 180
+line process, 194, 553, 764
+neighborhood, 181, 763
+order, 181, 765
+random walker, 303
+stereo matching, 553
+
+Marr’s framework, 13
+
+computational theory, 13
+hardware implementation, 13
+representations and algorithms, 13
+
+Match move, 368
+Matrix decompositions, 736
+
+Cholesky, 741
+eigenvalue (ED), 737
+QR, 740
+
+singular value (SVD), 736
+square root, 741
+
+Matte reﬂection, 63
+Matting, 105, 106, 505, 529
+
+alpha matte, 105
+Bayesian, 510
+blue screen, 106, 195, 507
+difference, 106, 195, 508, 606
+ﬂash, 517
+GrabCut, 513
+Laplacian, 514
+natural, 509
+optimization-based, 513
+Poisson, 513
+shadow, 517
+smoke, 516
+triangulation, 507, 518
+trimap, 509
+two screen, 507
+video, 518
+
+Maximally stable extremal region (MSER),
+
+220
+
+Maximum a posteriori (MAP) estimate, 180,
+
+763
+
+Mean absolute difference (MAD), 547
+Mean average precision, 229
+Mean shift, 289, 292
+
+bandwidth selection, 295
+
+Mean square error (MSE), 92, 547
+Measurement equation (model), 346, 757
+Measurement matrix, 359
+Measurement model, see Bayesian model
+Medial axis transform (MAT), 130
+Median absolute deviation (MAD), 385
+Median ﬁlter, 124
+weighted, 124
+
+Medical image registration, 408
+Medical image segmentation, 304
+
+946
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Membrane, 175
+Mesh-based warping, 170, 201
+Metamer, 82
+Metric learning, 679
+Metric tree, 234
+MIP-mapping, 167
+trilinear, 168
+
+Mixture of Gaussians, 272, 279, 289
+
+color model, 509
+expectation maximization (EM), 291
+mixing coefﬁcient, 291
+soft assignment, 291
+Model selection, 430, 763
+Model-based reconstruction, 598
+
+architecture, 598
+heads and faces, 601
+human body, 605
+
+Model-based stereo, 599, 624
+Models
+
+Bayesian, 180, 762
+forward, 3
+physically based, 14
+physics-based, 3
+probabilistic, 3
+
+Modular eigenspace, 678
+Modulation transfer function (MTF), 79, 476
+Morphable model
+
+body, 609
+face, 603, 639
+multidimensional, 639
+
+Morphing, 173, 202, 622, 623
+
+3D body, 609
+3D face, 603
+automated, 424
+facial feature, 639
+feature-based, 173, 202
+ﬂow-based, 424
+video textures, 642
+
+view morphing, 623, 650
+Morphological operator, 127
+
+closing, 128
+dilation, 128
+erosion, 128
+opening, 128
+Morphology, 127
+Mosaic, see Image stitching
+Mosaics
+
+motion models, 430
+video compression, 436
+whiteboard and document scanning, 432
+Motion compensated video compression,
+
+387, 421
+
+Motion compensation, 92
+Motion estimation, 383
+
+afﬁne, 398
+aperture problem, 394
+compositional, 400
+Fourier-based, 388
+frame interpolation, 418
+hierarchical, 387
+incremental reﬁnement, 392
+layered, 415
+learning, 403, 411
+linear appearance variation, 397
+optical ﬂow, 409
+parametric, 398
+patch-based, 384, 399
+phase correlation, 390
+quadtree spline-based, 407
+reﬂections, 419
+spline-based, 404
+translational, 384
+transparent, 419
+uncertainty modeling, 395
+
+Motion ﬁeld, 398
+Motion models
+
+Index
+
+learned, 403
+
+Motion segmentation, 425
+Motion stereo, 561
+Motion-based user interaction, 425
+Moving least squares (MLS), 596
+MRF inference, 182, 765
+
+alpha expansion, 185, 772
+belief propagation, 185, 768
+dynamic programming, 766
+expansion move, 185, 772
+gradient descent, 765
+graph cuts, 183, 770
+highest conﬁdence ﬁrst, 182
+highest conﬁdence ﬁrst (HCF), 765
+iterated conditional modes, 182, 765
+linear programming (LP), 773
+loopy belief propagation, 185, 769
+Markov chain Monte Carlo, 765
+simulated annealing, 182, 766
+stochastic gradient descent, 182, 765
+swap move (alpha-beta), 185, 772
+Swendsen–Wang, 766
+
+947
+
+volumetric, 562
+voxel coloring, 566
+
+Multigrid, 753
+
+algebraic (AMG), 288, 753
+Multiple hypothesis tracking, 279
+Multiple-center-of-projection images, 437,
+
+649
+
+Multiresolution representation, 150
+Mutual information, 386, 408
+
+Natural image matting, 509
+Nearest neighbor
+
+distance ratio (NNDR), 230
+matching, see Feature matching
+
+Negative posterior log likelihood, 180, 758,
+
+762
+
+Neighborhood operator, 111, 122
+Neural networks, 661
+Nintendo Wii, 326
+Nodal point, 71
+Noise
+
+sensor, 76, 473
+
+Multi-frame motion estimation, 413
+Multi-pass transforms, 169
+Multi-perspective panoramas, 437
+Multi-perspective plane sweep (MPPS), 445
+Multi-view stereo, 558
+
+epipolar plane image, 559
+evaluation, 567
+initialization requirements, 566
+reconstruction algorithm, 565
+scene representation, 563
+shape priors, 565
+silhouettes, 567
+space carving, 566
+spatio-temporally shiftable window, 560
+taxonomy, 563
+visibility, 565
+
+Noise level function (NLF), 76, 96, 473, 527
+Noise removal, 144, 197, 203
+Non-linear ﬁlter, 122, 193
+Non-linear least squares
+
+seeLeast squares, 315
+
+Non-maximal suppression, see Feature detec-
+
+tion
+
+Non-parametric density modeling, 292
+Non-photorealistic rendering (NPR), 522
+Non-rigid motion, 377
+Normal equations, 313, 393, 743, 746
+Normal map (geometry image), 594
+Normal vector, 34
+Normalized cross-correlation (NCC), 386,
+
+422, 547
+
+Normalized cuts, 296
+
+948
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+intervening contour, 298
+
+total variation, 411
+
+Normalized device coordinates (NDC), 49,
+
+54
+
+Normalized sum of squared differences
+
+(NSSD), 387
+
+Norms
+
+L1, 179, 385, 411, 597
+L∞, 367
+
+Nyquist rate / frequency, 78
+
+Object detection, 658
+
+car, 666, 722
+face, 658
+part-based, 667
+pedestrian, 666, 684
+
+Object-centered projection, 57
+Occluding contours, 543
+Octree reconstruction, 569
+Octree spline, 409
+Omnidirectional vision systems, 646
+Opacity, 106
+Operator
+
+linearity, 104
+
+Optic ﬂow, see Optical ﬂow
+Optical center, 52
+Optical ﬂow, 409
+
+anisotropic smoothness, 411
+evaluation, 413
+fusion move, 413
+global and local, 410
+Markov random ﬁeld, 411
+multi-frame, 413
+normal ﬂow, 394
+patch-based, 409
+region-based, 417
+regularization, 410
+robust regularization, 411
+smoothness, 410
+
+Optical ﬂow constraint equation, 393
+Optical illusions, 3
+Optical transfer function (OTF), 79, 476
+Optical triangulation, 586
+Optics, 68
+
+chromatic aberration, 71
+Seidel aberrations, 70
+vignetting, 72, 527
+
+Optimal motion estimation, 363
+Oriented particles (points), 595
+Orthogonal Procrustes, 320
+Orthographic projection, 46
+Osculating circle, 544
+Over operator, 106
+Overview, 19
+
+Padding, 114, 196
+Panography, 314, 337
+Panorama, see Image stitching
+Panorama with depth, 438, 542, 634
+Para-perspective projection, 48
+Parallel tracking and mapping (PTAM), 369
+Parameter sensitive hashing, 233
+Parametric motion estimation, 398
+Parametric surface, 593
+Parametric transformation, 163, 201
+Parseval’s Theorem, see Fourier transform
+Part-based recognition, 701
+
+constellation model, 704
+Particle ﬁltering, 279, 608, 760
+Parzen window, 292
+PASCAL Visual Object Classes Challenge
+
+(VOC), 718
+
+Patch-based motion estimation, 384
+Peak signal-to-noise Ratio (PSNR), 92, 144
+Pedestrian detection, 666
+Penumbra, 60
+
+Index
+
+949
+
+Performance-driven animation, 237, 605, 639
+Perspective n-point problem (PnP), 322
+Perspective projection, 48
+Perspective transform (2D), 37
+Phase correlation, 390, 422
+Phong shading, 65
+Photo pop-up, 710
+Photo Tourism, 624
+Photo-mosaic, 429
+Photoconsistency, 540, 565
+Photometric image formation, 60
+
+calibration, 470
+global illumination, 67
+lighting, 60
+optics, 68
+radiosity, 67
+reﬂectance, 62
+shading, 65
+
+Photometric stereo, 582
+Photometry, 60
+Photomontage, 459
+Physically based models, 14
+Physics-based vision, 16
+Pictorial structures, 12, 19, 701
+Pixel transform, 103
+Pl¨ucker coordinates, 35
+Planar pattern tracking, 326
+Plane at inﬁnity, 34
+Plane equation, 33
+Plane plus parallax, 55, 405, 417, 540, 626
+Plane sweep, 540, 572
+Plane-based structure from motion, 376
+Plenoptic function, 628
+Plenoptic modeling, 623
+Plumb-line calibration method, 335, 341
+Point distribution model, 275
+Point operator, 101
+Point process, 101
+
+Point spread function (PSF), 78
+
+estimation, 476, 528
+
+Point-based representations, 595
+Points at inﬁnity, 32
+Poisson
+
+blending, 460
+equations, 597
+matting, 513
+noise, 76
+surface reconstruction, 597
+
+Polar coordinates, 33
+Polar projection, 59, 440
+Polyphase ﬁlter, 145
+Pop-out effect, 4
+Pose estimation, 321
+
+iterative, 324
+
+Power spectrum, 140
+Precision, see Error rates
+mean average, 229
+
+Preconditioning, 751
+Principal component analysis (PCA), 275,
+
+660, 671, 738, 758
+
+face modeling, 601
+generalized, 740
+missing data, 360, 740
+
+Prior energy (term), 181, 763
+Prior model, see Bayesian model
+Proﬁle curves, 543
+Progressive mesh (PM), 594
+Projections
+
+object-centered, 57
+orthographic, 46
+para-perspective, 48
+perspective, 48
+
+Projective (uncalibrated) reconstruction, 353
+Projective depth, 55, 540
+Projective disparity, 55, 540
+Projective space, 32
+
+950
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+PROSAC (PROgressive SAmple Consensus),
+
+319
+
+PSNR, see Peak signal-to-noise ratio
+Pyramid, 144, 200
+
+blending, 160, 200
+Gaussian, 150
+half-octave, 152
+Laplacian, 151
+motion estimation, 387
+octave, 150
+radial frequency implementation, 159
+steerable, 159
+
+Pyramid match kernel, 698
+
+QR factorization, 740
+Quadratic form, 177
+Quadrature mirror ﬁlter (QMF), 150
+Quadric equation, 33, 35
+Quadtree spline
+
+motion estimation, 407
+restricted, 407
+
+Quaternions, 43
+
+antipodal, 43
+multiplication, 44
+
+Query by image content (QBIC), 717
+Query expansion, 692
+Quincunx sampling, 152
+
+Radial basis function, 171, 176, 592
+Radial distortion, 58
+
+barrel, 58
+calibration, 334
+parameters, 58
+pincushion, 58
+Radiance map, 483
+Radiometric image formation, 60
+Radiometric response function, 470
+Radiometry, 60
+Radiosity, 68
+
+Random walker, 303, 771
+Range (of a function), 103
+Range data, see Range scan
+Range image, see Range scan
+Range scan
+
+alignment, 588, 617
+large scenes, 590
+merging, 589
+registration, 588, 617
+segmentation, 588
+volumetric, 590
+
+Range sensing (rangeﬁnding), 585
+
+coded pattern, 587
+light stripe, 586
+shadow stripe, 586, 616
+spacetime stereo, 587
+stereo, 587
+texture pattern (checkerboard), 587
+time of ﬂight, 587
+
+RANSAC
+
+(RAndom SAmple Consensus), 318
+inliers, 319
+preemptive, 319
+progressive (PROSAC), 319
+
+RAW image format, 77
+Ray space (light ﬁeld), 631
+Ray tracing, 68
+Rayleigh quotient, 297
+Recall, see Error rates
+Receiver Operating Characteristic
+
+area under the curve (AUC), 229
+mean average precision, 229
+ROC curve, 229, 260
+
+Recognition, 655
+
+3D models, 725
+category (class), 696
+color similarity, 717
+context, 712
+
+Index
+
+contour-based, 724
+data sets, 718
+face, 668
+instance, 685
+large scale, 715
+learning, 714
+part-based, 701
+scene understanding, 712
+segmentation, 704
+shape context, 724
+Rectangle detection, 257
+Rectiﬁcation, 538, 571
+
+standard rectiﬁed geometry, 539
+
+Recursive ﬁlter, 122
+Reference plane, 55
+Reﬂectance, 62
+Reﬂectance map, 580
+Reﬂectance modeling, 611
+Reﬂection
+
+di-chromatic, 67
+diffuse, 63
+specular, 64
+
+Region
+
+merging, 286
+splitting, 286
+
+Region segmentation, see Segmentation
+Registration, see Image Alignment
+
+feature-based, 311
+intensity-based, 384
+medical image, 408
+Regularization, 174, 407
+
+robust, 178
+
+951
+
+tion
+
+Robust least squares, 255, 256, 318, 384, 761
+iteratively reweighted, 318, 324, 398,
+
+761
+
+Robust penalty function, 178, 384, 397, 499,
+
+542, 547, 548, 553, 761
+
+Robust regularization, 178
+Robust statistics, 385, 760
+
+inliers, 319
+M-estimator, 318, 384, 761
+
+Rodriguez’s formula, 42
+Root mean square error (RMS), 92, 385
+Rotations, 41
+
+Euler angles, 41
+axis/angle, 41
+exponential twist, 43
+incremental, 45
+interpolation, 45
+quaternions, 43
+Rodriguez’s formula, 42
+
+Sampling, 77
+Scale invariant feature transform (SIFT), 223
+Scale-space, 13, 119, 152, 282
+Scatter matrix, 671
+
+between-class, 675
+within-class, 674
+
+Scattered data interpolation, 171, 592
+Scene completion, 709
+Scene ﬂow, 562, 644
+Scene understanding, 712
+
+Regularization parameter, 176
+Residual error, 312, 318, 346, 363, 384, 393,
+
+399, 410, 411, 742, 750
+RGB (red green blue), see Color
+Rigid body transformation, 36, 40
+Robust error metric, see Robust penalty func-
+
+gist, 709, 714
+scene alignment, 715
+
+Schur complement, 366, 748
+Scratch removal, 521
+Seam selection
+
+image stitching, 456
+
+952
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Second-order cone programming (SOCP),
+
+367
+Seed and grow
+stereo, 543
+structure from motion, 371
+
+Segmentation, 267
+
+active contours, 270
+afﬁnities, 296
+binary MRF, 182, 300
+CONDENSATION, 279
+connected components, 131, 198
+energy-based, 300
+for recognition, 704
+geodesic active contour, 282
+geodesic distance, 304
+GrabCut, 301, 513
+graph cuts, 300
+graph-based, 286
+hierarchical, 285, 288
+intelligent scissors, 280
+joint feature space, 294
+k-means, 289
+level sets, 281
+mean shift, 289, 292
+medical image, 304
+merging, 286
+minimum description length (MDL),
+
+300
+
+mixture of Gaussians, 289
+Mumford–Shah, 300
+non-parametric, 292
+normalized cuts, 296
+probabilistic aggregation, 288
+random walker, 303
+snakes, 270
+splitting, 286
+stereo matching, 556
+thresholding, 127
+
+tobogganing, 281, 285
+watershed, 284
+weighted aggregation (SWA), 300
+
+Seidel aberrations, 70
+Self-calibration, 355
+
+bundle adjustment, 357
+Kruppa equations, 356
+
+Sensing, 73
+
+aliasing, 77, 476
+color, 80
+color balance, 86
+gamma, 87
+pipeline, 74, 471
+sampling, 77
+sampling pitch, 75
+
+Sensor noise, 76, 473
+
+ampliﬁer, 76
+dark current, 76
+ﬁxed pattern, 76
+shot noise, 76
+
+Separable ﬁltering, 115, 197
+Shading, 65
+
+equation, 64
+shape-from, 580
+Shadow matting, 517
+Shape context, 249, 724
+Shape from
+
+focus, 584, 616
+photometric stereo, 582
+proﬁles, 543
+shading, 580
+silhouettes, 567
+specularities, 584
+stereo, 533
+texture, 583
+
+Shape parameters, 275, 681
+Shape-from-X, 14
+
+focus, 14
+
+Index
+
+photometric stereo, 14
+shading, 14
+texture, 14
+
+Shift invariance, 112
+Shiftable multi-scale transform, 159
+Shutter speed, 75
+Signed distance function, 281, 589, 595, 597
+Silhouette-based reconstruction, 567
+
+octree, 569
+visual hull, 567
+
+Similarity transform, 36, 40
+Simulated annealing, 182, 766
+Simultaneous
+
+localization and mapping
+
+(SLAM), 368
+
+Sinc ﬁlter
+
+interpolation, 148
+low-pass, 117
+windowed, 148
+
+Single view metrology, 331, 340
+Singular value decomposition (SVD), 736
+Skeletal set, 367, 372
+Skeleton, 130, 248
+Skew, 50, 52
+Skin color detection, 96
+Slant edge calibration, 476
+Slippery spring, 273
+Smoke matting, 516
+Smoothness constraint, 176
+Smoothness penalty, 176
+Snakes, 270
+
+ballooning, 271
+dynamic, 276
+internal energy, 270
+Kalman, 276
+shape priors, 274
+slippery spring, 273
+
+Soft assignment, 291
+Software, 780
+
+953
+
+Space carving
+
+multi-view stereo, 566
+
+Spacetime stereo, 587
+Sparse ﬂexible model, 703
+Sparse matrices, 747, 787
+
+compressed sparse row (CSR), 747
+skyline storage, 747
+
+Sparse methods
+
+direct, 747, 787
+iterative, 748, 787
+
+Spatial pyramid matching, 699
+Spectral response function, 85
+Spectral sensitivity, 85
+Specular ﬂow, 584
+Specular reﬂection, 64
+Spherical coordinates, 34, 253, 256, 439
+Spherical linear interpolation, 45
+Spin image, 589
+Splatting, see Forward warping
+
+volumetric, 595
+
+Spline
+
+controlled continuity, 175
+octree, 409
+quadtree, 407
+thin plate, 175
+
+Spline-based motion estimation, 404
+Splining images,
+blending
+
+see Laplacian pyramid
+
+Sprites
+
+image-based rendering, 626
+motion estimation, 415
+video, 642
+video compression, 436
+with depth, 627
+
+Statistical decision theory, 757, 760
+Steerable ﬁlter, 119, 198
+Steerable pyramid, 159
+Steerable random ﬁeld, 184
+
+954
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Stereo, 533
+
+aggregation methods, 549, 573
+coarse-to-ﬁne, 554
+cooperative algorithms, 554
+correspondence, 535
+curve-based, 543
+dense correspondence, 545
+depth map, 535
+dynamic programming, 554
+edge-based, 543
+epipolar geometry, 537
+feature-based, 543
+global optimization, 552, 573
+graph cut, 553
+layers, 558
+local methods, 548
+model-based, 599, 624
+multi-view, 558
+non-parametric similarity measures, 547
+photoconsistency, 540
+plane sweep, 540, 572
+rectiﬁcation, 538, 571
+region-based, 548
+scanline optimization, 556
+seed and grow, 543
+segmentation-based, 548, 556
+semi-global optimization, 556
+shiftable window, 560
+similarity measure, 546
+spacetime, 587
+sparse correspondence, 543
+sub-pixel reﬁnement, 550
+support region, 548
+taxonomy, 535, 545
+uncertainty, 551
+window-based, 548, 573
+winner-take-all (WTA), 550
+Stereo-based head tracking, 551
+
+Stiffness matrix, 177
+Stitching, see Image stitching
+Stochastic gradient descent, 182
+Structural Similarity (SSIM) index, 144
+Structure from motion, 345
+
+afﬁne, 359
+bas-relief ambiguity, 370
+bundle adjustment, 363
+constrained, 374
+factorization, 357
+feature tracks, 371
+iterative factorization, 360
+line-based, 374
+multi-frame, 357
+non-rigid, 377
+orthographic, 357
+plane-based, 362, 376
+projective factorization, 360
+seed and grow, 371
+self-calibration, 355
+skeletal set, 367, 372
+two-frame, 347
+uncertainty, 370
+
+Subdivision surface, 593
+
+subdivision connectivity, 594
+
+Subspace learning, 679
+Sum of absolute differences (SAD), 384, 422,
+
+547
+
+Sum of squared differences (SSD), 384, 422,
+
+547
+
+bias and gain, 386
+Fourier-based computation, 389
+normalized, 387
+surface, 210, 396
+weighted, 385
+windowed, 385
+
+Sum of sum of squared differences (SSSD),
+
+559
+
+Index
+
+Summed area table, 120
+Super-resolution, 497, 529
+
+example-based, 499
+faces, 501
+hallucination, 499
+prior, 499
+
+Superposition principle, 104
+Superquadric, 597
+Support vector machine (SVM), 662, 667
+Surface element (surfel), 595
+Surface interpolation, 592
+Surface light ﬁeld, 632
+Surface representations, 591
+
+non-parametric, 593
+parametric, 593
+point-based, 595
+simpliﬁcation, 594
+splines, 593
+subdivision surface, 593
+symmetry-seeking, 593
+triangle mesh, 593
+
+Surface simpliﬁcation, 594
+Swendsen–Wang algorithm, 766
+
+Telecentric lens, 48, 585
+Temporal derivative, 393, 410
+Temporal texture, 642
+Term frequency-inverse document frequency
+
+(TF-IDF), 689
+Testing algorithms, viii
+TextonBoost, 706
+Texture
+
+shape-from, 583
+
+Texture addressing mode, 115
+Texture map
+
+recovery, 610
+view-dependent, 611, 623
+
+Texture mapping
+
+955
+
+anisotropic ﬁltering, 168
+MIP-mapping, 167
+multi-pass, 169
+trilinear interpolation, 168
+
+Texture synthesis, 518, 531
+
+by numbers, 523
+hole ﬁlling, 521
+image quilting, 519
+non-parametric, 519
+transfer, 522
+
+Thin lens, 69
+Thin-plate spline, 175
+Thresholding, 127
+Through-the-lens camera control, 326, 368
+Tobogganing, 281, 285
+Tonal adjustment, 111, 196
+Tone mapping, 487
+adaptive, 488
+bilateral ﬁlter, 489
+global, 487
+gradient domain, 489
+halos, 489
+interactive, 493
+local, 488
+scale selection, 492
+
+Total least squares (TLS), 265, 398, 744
+Total variation, 179, 411, 597
+Tracking
+
+feature, 235
+head, 551
+human motion, 605
+multiple hypothesis, 279
+planar pattern, 326
+PTAM, 369
+
+Translational motion estimation, 384
+
+bias and gain, 386
+
+Transparency, 106
+Travelling salesman problem (TSP), 272
+
+956
+
+Computer Vision: Algorithms and Applications (September 3, 2010 draft)
+
+Tri-chromatic sensing, 81
+Tri-stimulus values, 81, 85
+Triangulation, 345
+Trilinear interpolation, see MIP-mapping
+Trimap (matting), 509
+Trust region method, 747
+Two-dimensional Fourier transform, 140
+
+Uncanny valley, 3
+Uncertainty
+
+correspondence, 313
+modeling, 319, 775
+weighting, 313
+Unsharp mask, 117
+Upsampling, see Interpolation
+
+Vanishing point
+
+detection, 254, 266
+
+Hough, 255
+least squares, 256
+
+modeling, 599
+uncertainty, 266
+
+Variable reordering, 748
+
+minimum degree, 748
+multi-frontal, 748
+nested dissection, 748
+
+3D video, 643
+animating pictures, 643
+sprites, 642
+video texture, 640
+virtual viewpoint video, 644
+walkthroughs, 645
+
+VideoMouse, 326
+View correlation, 368
+View interpolation, 357, 621, 650
+View morphing, 357, 623, 642
+View-based eigenspace, 678
+View-dependent texture maps, 623
+Vignetting, 72, 386, 474, 527
+
+mechanical, 73
+natural, 72
+
+Virtual viewpoint video, 644
+Visual hull, 567
+
+image-based, 569
+
+Visual illusions, 3
+Visual odometry, 368
+Visual words, 234, 688, 697
+Vocabulary tree, 234, 691
+Volumetric 3D reconstruction, 562
+Volumetric range image processing (VRIP),
+
+589
+
+Variable state dimension ﬁlter (VSDF), 367
+Variational method, 175
+Video compression
+
+Volumetric representations, 596
+Voronoi diagram, 455
+Voxel coloring
+
+motion compensated, 387
+
+Video compression (coding), 421
+Video denoising, 414
+Video matting, 518
+Video objects (coding), 415
+Video sprites, 642
+Video stabilization, 401, 423
+Video texture, 640
+Video-based animation, 639
+Video-based rendering, 638
+
+multi-view stereo, 566
+
+Watershed, 284, 292
+basins, 284, 292
+oriented, 285
+Wavelets, 154, 201
+
+compression, 201
+lifting, 156
+overcomplete, 155, 159
+second generation, 158
+
+Index
+
+957
+
+self-inverting, 159
+tight frame, 155
+weighted, 158
+Weaving wall, 544
+Weighted least squares (WLS), 493, 505
+Weighted prediction (bias and gain), 386
+White balance, 86, 97
+Whitening transform, 673
+Wiener ﬁlter, 140, 142, 198
+Wire removal, 521
+Wrapping mode, 115
+
+XYZ, see Color
+
+Zippering, 589
+
+

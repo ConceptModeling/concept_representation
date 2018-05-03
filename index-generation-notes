@@ -1,0 +1,53 @@
+All:
+  find any characters [^a-zA-Z\ \n\-\/0-9\.\'\`\’]
+  ﬁ|ﬀ
+  find ﬁ
+    replace fi
+  find ﬀ
+    replace ff
+
+A Course in Machine Learning.txt
+  find all ^(.*?),.*[0-9]+$
+  replace with \1
+
+A Probabilistic Theory of Pattern Recognition
+An Introduction to Statistical Learning with Applications in R
+Bayesian Reasoning and Machine Learning
+Bishop - Pattern Recognition And Machine Learning - Springer  2006
+Computer Age Statistical Inference
+Computer Vision - Algorithms and Applications
+Gaussian Process for Machine Learning
+Information Theory, Inference, and Learning Algorithms
+Machine Learning A Probabilistic Perspective
+Machine Learning, Neural and Statistical Classification
+Practical Artificial Intelligence Programming with Java
+Reinforcement Learning An Introduction
+Think Bayes - Bayesian Statistics Made Simple
+Understanding Machine Learning - From Theory to Algorithms
+  find all
+    ^([a-zA-Z].*?),.*[0-9]+,?$
+  replace with \1
+
+A Brief Introduction to Neural Networks
+  find all
+    ^([a-zA-Z].*?)(\ .)+[0-9, ]+$
+  replace with
+    \1
+  find all
+    \.$
+  replace with nothing
+
+Deep Learning
+  find all
+    \n(,.*)$
+  replace with
+    \1
+  find all
+    ^([a-zA-Z].*?),.*[0-9]+,?$
+  replace with \1
+
+Multiple View Geometry in Computer Vision (Second Edition)
+  (some manual processing)
+  find all
+    ^([a-zA-Z].*?)(\ [0-9\–]+,?)+
+  replace with \1

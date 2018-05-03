@@ -1,0 +1,257 @@
+ABC
+abstract type
+tion
+arrival rate
+Axtell
+bacteria
+Bayes factor
+Bayes’s theorem
+derivation
+odds form
+Bayesian framework
+System
+belly button
+Bernoulli process
+beta distribution
+Beta object
+biased coin
+binomial coefficient
+binomial distribution
+binomial likelihood function
+biodiversity
+bogus
+Boston
+Boston Bruins
+BRFSS
+bucket
+bus stop problem
+cache
+calibration
+Campbell-Ricketts
+carcinoma
+causation
+CDC
+Cdf
+Centers for Disease Control
+central credible interval
+classical estimation
+coefficient of variation
+coin toss
+collectively exhaustive
+College Board
+complementary CDF
+concrete type
+conditional distribution
+conditional probability
+conjoint probability
+conjugate prior
+conjunction
+continuous distribution
+convergence
+cookie problem
+cookie.py
+correlated random value
+coverage
+crank science
+credible interval
+Cromwell’s rule
+Cromwell
+cumulative distribution function
+cumulative probability
+cumulative sum
+Davidson-Pilon
+decision analysis
+degree of belief
+density
+dependence
+diachronic interpretation
+dice
+Dice problem
+dice problem
+Dirichlet distribution
+distribution
+operations
+divide-and-conquer
+doubling time
+Dungeons and Dragons
+efficacy
+enumeration
+error
+ESP
+Euro problem
+exception
+exponential distribution
+exponentiation
+extra-sensory perception
+fair coin
+forward problem
+gamma distribution
+Gaussian distribution
+Gaussian PDF
+Gee
+Geiger counter problem
+generator
+German tank problem
+growth rate
+heart attack
+height
+Heuer
+hierarchical model
+Hoag
+hockey
+horse racing
+Horsford
+Hume
+hypothesis testing
+implementation
+independence
+informative prior
+insect sampling problem
+inter-quartile range
+interface
+intuition
+inverse problem
+IQR
+item response theory
+iterative modeling
+iterator
+Jaynes
+Joint
+joint distribution
+Joint object
+Joint pmf
+KDE
+kernel density estimation
+Kidney tumor problem
+least squares fit
+light bulb problem
+Likelihood
+likelihood
+likelihood function
+likelihood ratio
+linspace
+lions and tigers and bears
+locomotive problem
+log scale
+log transform
+log-likelihood
+logarithm
+M and M problem
+MacKay
+MakeMixture
+marginal distribution
+maximum
+maximum likelihood
+mean squared error
+Meckel
+median
+memoization
+meta-Pmf
+meta-Suite
+microbiome
+mixture
+modeling
+modeling error
+Monty Hall problem
+Mosteller
+Mult
+multinomial coefficient
+multinomial distribution
+mutually exclusive
+National Hockey League
+navel
+NHL
+non-linear
+normal distribution
+normalize
+normalizing constant
+nuisance parameter
+numpy
+objectivity
+observer bias
+odds
+Olin College
+Oliver’s blood problem
+operational taxonomic unit
+optimization
+OTU
+overtime
+Paintball problem
+parameter
+PDF
+Pdf
+percentile
+Pmf
+Pmf class
+Pmf methods
+Poisson distribution
+Poisson process
+posterior
+posterior distribution
+power law
+predictive distribution
+prevalence
+Price is Right
+prior
+prior distribution
+suite
+Suite class
+summary statistic
+swamping the priors
+switch
+table method
+template method pattern
+total probability
+triangle distribution
+trigonometry
+tumor type
+tuple
+uncertainty
+underﬂow
+uniform distribution
+uniform distribution
+uninformative prior
+Unseen Species problem
+Update
+Vancouver Canucks
+Variability Hypothesis
+volume
+Weibull distribution
+word frequency
+Prob
+probability
+conditional
+conjoint
+probability density
+probability density function
+probability mass function
+process
+pseudocolor plot
+pyrosequencing
+radioactive decay
+random sample
+rarefaction curve
+raw score
+rDNA
+Red Line problem
+Reddit
+regression testing
+renormalize
+robust estimation
+sample bias
+sample statistics
+SAT
+scaled score
+scipy
+serial correlation
+Showcase
+simulation
+Sivia
+species
+sphere
+standardized test
+stick
+strafing speed
+subjective prior
+subjectivity
+sudden death

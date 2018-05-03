@@ -1,0 +1,297 @@
+K-nearest neighbors
+p-norms
+0/1 loss
+absolute loss
+activation function
+activations
+active learning
+AdaBoost
+algorithm
+all pairs
+all versus all
+architecture selection
+area under the curve
+AUC
+AVA
+averaged perceptron
+back-propagation
+bag of words
+bagging
+base learner
+batch
+batch learning
+Bayes error rate
+Bayes optimal classifier
+Bayes optimal error rate
+Bernouilli distribution
+bias
+binary features
+bipartite ranking problems
+boosting
+bootstrap resampling
+bootstrapping
+categorical features
+chain rule
+chord
+circuit complexity
+clustering
+clustering quality
+collective classification
+complexity
+concave
+concavity
+concept
+confidence intervals
+constrained optimization problem
+contour
+convergence rate
+convex
+cross validation
+cubic feature map
+curvature
+data covariance matrix
+data generating distribution
+decision boundary
+decision stump
+decision tree
+decision trees
+development data
+dimensionality reduction
+discrete distribution
+distance
+dominates
+dot product
+dual problem
+dual variables
+early stopping
+embedding
+ensemble
+error driven
+error rate
+Euclidean distance
+evidence
+example normalization
+examples
+expectation maximization
+expected loss
+exponential loss
+feasible region
+feature combinations
+feature mapping
+feature normalization
+feature scale
+feature space
+feature values
+feature vector
+features
+forward-propagation
+fractional assignments
+furthest-first heuristic
+Gaussian distribution
+Gaussian kernel
+Gaussian Mixture Models
+generalize
+generative story
+geometric view
+global minimum
+GMM
+gradient
+gradient ascent
+gradient descent
+graph
+hard-margin SVM
+hash kernel
+held-out data
+hidden units
+hidden variables
+hinge loss
+histogram
+hyperbolic tangent
+hypercube
+hyperparameter
+hyperplane
+hyperspheres
+hypothesis
+hypothesis class
+hypothesis testing
+i.i.d. assumption
+imbalanced data
+importance weight
+independently
+tributed
+indicator function
+induce
+induced distribution
+induction
+inductive bias
+iteration
+jack-knifing
+Jensen’s inequality
+joint
+K-nearest neighbors
+Karush-Kuhn-Tucker conditions
+kernel
+kernel trick
+kernels
+KKT conditions
+label
+Lagrange multipliers
+Lagrange variable
+Lagrangian
+layer-wise
+leave-one-out cross validation
+level-set
+license
+likelihood
+linear classifier
+linear classifiers
+linear decision boundary
+linear regression
+linearly separable
+link function
+log likelihood
+log posterior
+log probability
+log-likelihood ratio
+logarithmic transformation
+logistic loss
+logistic regression
+LOO cross validation
+loss function
+margin
+margin of a data set
+marginal likelihood
+maximum a posteriori
+maximum depth
+maximum likelihood estimation
+Mercer’s condition
+model
+modeling
+multi-layer network
+naive Bayes assumption
+nearest neighbor
+neural network
+neural networks
+neurons
+noise
+non-convex
+non-linear
+Normal distribution
+normalize
+null hypothesis
+objective function
+one versus all
+one versus rest
+online
+online learning
+optimization problem
+output unit
+OVA
+overfitting
+oversample
+p-value
+PAC
+paired t-test
+parametric test
+parity function
+patch representation
+PCA
+perceptron
+perpendicular
+pixel representation
+polynomial kernels
+positive semi-definite
+posterior
+precision
+precision/recall curves
+predict
+preference function
+primal variables
+principle components analysis
+prior
+probabilistic modeling
+Probably Approximately Correct
+projected gradient
+psd
+radial basis function
+random forests
+RBF kernel
+RBF network
+recall
+receiver operating characteristic
+reconstruction error
+reductions
+redundant features
+regularized objective
+regularizer
+representer theorem
+ROC curve
+sample complexity
+semi-supervised learning
+sensitivity
+separating hyperplane
+SGD
+shallow decision tree
+shape representation
+sigmoid
+sigmoid function
+sigmoid network
+sign
+single-layer network
+slack
+slack parameters
+smoothed analysis
+soft assignments
+soft-margin SVM
+span
+sparse
+specificity
+squared loss
+stacking
+StackTest
+statistical inference
+statistically significant
+stochastic gradient descent
+stochastic optimization
+strong learner
+strong learning algorithm
+strongly convex
+structural risk minimization
+sub-sampling
+subderivative
+subgradient
+subgradient descent
+support vector machine
+support vectors
+surrogate loss
+symmetric modes
+t-test
+test data
+test error
+test set
+text categorization
+the curse of dimensionality
+threshold
+Tikhonov regularization
+training data
+training error
+trucated gradients
+two-layer network
+unbiased
+underfitting
+unit hypercube
+unsupervised learning
+validation data
+Vapnik-Chernovenkis dimension
+variance
+VC dimension
+vector
+visualize
+vote
+voted perceptron
+voting
+weak learner
+weak learning algorithm
+weighted nearest neighbors
+weights
+zero/one loss

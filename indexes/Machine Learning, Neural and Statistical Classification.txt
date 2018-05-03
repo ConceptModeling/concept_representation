@@ -1,0 +1,761 @@
+Accuracy, 7, 8
+ACE, 46
+Algorithms
+
+function approximation, 230
+
+Algorithms
+
+instance-based, 230
+
+Algorithms
+
+symbolic learning, 230
+
+ALLOC80, 33, 214, 227, 263
+Alternating Conditional Expectation, 46
+Analysis of results, 176
+AOCDL, 56
+AQ, 56, 57, 74, 77
+Aq, 237
+AQ11, 50, 54
+Architectures, 86
+Assistant, 65
+Attribute coding, 124
+Attribute entropy, 174
+Attribute noise, 174
+Attribute reduction, 120
+Attribute types, 214
+Attribute vector, 17
+Attributes, 1
+
+Australian credit dataset, 134
+
+Background knowledge, 11, 241
+Backprop, 12, 110, 221, 263
+Bayes minimum cost rule, 13
+Bayes Rule, 40
+Bayes rule, 13, 14, 16, 17, 27
+Bayes theorem, 15
+Bayes Tree, 263
+Bayes tree, 12, 73, 123, 220
+Bayes-tree, 41
+Bayesian evidence, 100
+Bayesian methods, 29
+Bayesian Networks, 41
+Bayesian regularisation
+
+Cascade correlation, 98
+
+behavioural cloning, 261
+Belgian Power I dataset, 121, 163
+Belgian Power II dataset, 164
+Bias, 120, 122
+BIFROST, 43
+Binary attributes, 25
+Binomial, 26
+Bootstrap, 107–109
+BOXES, 234, 250
+
+C4.5, 12, 63–65, 79, 80, 209, 219, 264
+CAL5, 71, 72, 263
+Cal5, 12, 70, 219
+Canonical correlation, 114, 173
+Canonical discriminants, 114
+
+ò
+ò
+ò
+#
+õ
+ò
+Canonical variates, 20, 114
+CART, 12, 63, 64, 68, 123, 126, 132, 218,
+
+219, 225, 264
+
+Cascade, 110
+Cascade correlation, 12, 97, 98, 263
+CASTLE, 45, 217, 226, 263
+Categorical variables, 17
+Causal network, 41
+Causal Networks, 41
+CHAID, 62
+Chernobyl, 7
+Chi-square test of independence, 119
+Choice of variables, 11
+Chromosome dataset, 142
+Class, 8
+Class deﬁnitions, 7
+Class entropy, 173
+Class probability tree, 73
+Class probability trees, 61
+Classes, 1
+Classical discrimination techniques, 17
+Classiﬁcation, 1, 8
+Classiﬁcation rule, 6
+Classiﬁcation: deﬁnition, 6
+CLS, 52
+Clustering, 1, 6
+CN2, 12, 56, 57, 73–75, 77, 79, 218, 220
+Code vector, 101
+Coding of categories, 122
+Combination of attributes, 121
+Combinations of variables, 11
+Comparative trials, 110
+Complex, 56
+Comprehensibility, 7, 214
+Concept, 228
+Concept learning, 51
+Concept Learning System, 52
+Concept-recognisers, 62
+Condensed nearest neighbour, 35
+Conditional dependency, 53
+Conjugate gradient, 91
+Constructive algorithms, 88
+Constructive algorithms
+
+pruning, 96
+
+container cranes, 258
+
+INDEX 285
+
+controller design, 246
+Corr abs, 173
+Correlation, 113
+Correspondence Analysis, 185
+Cost datasets, 176, 183
+Cost matrices, 214, 224
+Cost matrix, 221
+Costs, 225
+Covariance, 113
+Covariance matrix, 19, 21
+Cover, 56
+Covering algorithm, 237
+Credit datasets, 7, 8, 122, 132–135, 176
+Credit management dataset, 122, 132
+Credit scoring, 132
+Cross validation, 107–109
+Cross-entropy, 89
+Cut20 dataset, 121, 146, 181
+Cut50 dataset, 121, 146, 181
+
+DAG (Directed acyclic graph), 41
+Data
+
+soybean, 50–52
+
+Dataset
+
+Australian credit, 134
+
+Dataset
+
+Belgian Power I, 163
+
+Dataset
+
+Belgian Power II, 164, 174
+
+Dataset
+
+chromosomes, 142
+
+Dataset
+
+credit management, 132
+
+Dataset
+
+cut, 146
+
+Dataset
+
+diabetes, 157
+
+Dataset
+
+DNA, 158
+
+Dataset
+
+German credit dataset, 153
+
+Dataset
+
+hand-written digits, 135
+
+Dataset
+
+head injury, 149
+
+286
+
+INDEX
+
+Dataset
+
+heart disease, 152
+
+Dataset
+
+image segmentation, 145
+
+Dataset
+
+Karhunen-Loeve Digits, 137
+
+Dataset
+
+letter recognition, 140
+
+Dataset
+
+machine faults, 165
+
+Dataset
+
+satellite image, 143
+
+Dataset
+
+shuttle control, 154
+
+Dataset
+
+Technical, 174
+
+Dataset
+
+technical, 161
+
+Dataset
+
+tsetse ﬂy distribution, 167
+
+Dataset
+
+vehicle recognition, 138
+
+Dataset
+
+Credit management, 124
+
+Dataset
+
+cut, 181
+
+Dataset
+
+Karhunen-Loeve Digits, 193
+
+Dataset
+
+shuttle control, 193
+
+Dataset
+
+Shuttle, 173
+
+Dataset characterisation, 112
+Dataset collection, 124
+Decision class, 14
+Decision problems, 1
+Decision trees, 5, 9, 56, 73, 109, 121, 161,
+
+217, 226
+
+Default, 57, 80
+Default rule, 13
+Density estimates, 12
+Density estimation, 30
+Diabetes dataset, 157
+Digits dataset, 135, 181, 223
+DIPOL92, 12, 103, 223, 225, 263
+
+Directed acyclic graph (DAG), 41
+Discrim, 17, 121, 126, 173, 214, 225
+Discrimination, 6, 8
+Distance, 161
+Distribution-free methods, 16
+DNA dataset, 23, 122, 124, 158, 161, 222,
+
+226
+
+domain knowledge, 255
+Dominators, 186
+
+EA, 111
+ECG, 52, 227
+Edited nearest neighbour, 35
+EN.attr, 118
+Entropy, 70, 76–78
+Entropy estimation, 117
+Entropy of attributes, 116
+Entropy of classes, 117
+Epistemologically adequate, 80
+Equivalent number of attributes, 118
+Error rate, 194
+Error rate estimation, 107
+Evaluation Assistant, 110, 111
+Examples of classiﬁers, 8
+Expert systems, 50
+Extensions to linear discrimination, 12
+
+Features, 1
+Feed-forward networks, 96
+Feedforward network, 88
+First order logic, 230
+Fisher’s linear discriminant, 9, 17
+fract k, 170, 173
+fractk, 114
+
+Gaussian distribution, 20
+General-to-speciﬁc, 54, 56, 57
+Generalised Delta Rule, 86
+Generalised linear models (GLM), 26
+Genetic, 65
+Genetic algorithms, 2, 5, 234
+genetic algorithms, 252
+German credit, 153
+Gini function, 68
+Gini index, 68
+
+GLIM, 26
+GOLEM, 81
+Golem, 244
+Gradient descent, 90
+Gradient descent
+
+MLP, 92
+
+Gradient descent
+
+second-order, 91
+Gradient methods, 93
+
+Head dataset, 149, 173
+head injury dataset, 23
+Heart dataset, 152, 173
+Heuristically adequate, 80
+Hidden nodes, 109
+Hierarchical clustering, 189, 192
+Hierarchical structure, 2
+Hierarchy, 120, 123
+Human brain, 3
+Hypothesis language, 54, 229
+
+ID3, 160, 218, 219
+ILP, 65, 81, 82
+Image datasets, 176, 179, 182
+Image segmentation, 112, 181
+Impure, 60
+Impure node, 57
+Impurity, 57, 58, 60
+IND Package, 40
+IND package, 73
+IndCART, 12, 219, 263
+Indicator variables, 26
+inductive learning, 254
+Inductive Logic Programming, 81, 82
+Inductive logic programming, 2, 5
+Inductive Logic Programming (ILP), 50
+Information measures, 116, 169
+Information score, 203
+Information theory, 116
+Instatnce-based learning (IBL), 230
+Iris data, 9
+Irrelevant attributes, 119, 226
+ISoft dataset, 123
+ITrule, 12, 56, 57, 77, 78, 220, 265
+
+J-measure, 56, 78
+
+INDEX 287
+
+Jackknife, 32
+Joint entropy, 117
+
+K nearest neighbour, 160
+K-Means clustering, 102
+K-means clustering, 101
+K-Nearest Neighbour, 35
+K-Nearest neighbour, 10–12, 16, 126
+k-Nearest neighbour, 29
+k-NN, 160, 182, 216, 224, 227, 265
+k-NN
+
+Cross validation, 36
+
+K-R-K problem, 80–82
+Kalman ﬁlter, 96
+KARDIO, 52, 227
+Kernel
+
+classiﬁer, 33
+
+Kernel
+
+window width, 33
+
+Kernel density (ALLOC80), 12
+Kernel density estimation, 30, 214
+Kernel function, 31
+Kernels, 32
+KL digits dataset, 27, 121, 137, 170
+Kohonen, 160, 222, 265
+Kohonen networks, 85, 102
+Kohonen self-organising net, 12
+Kullback-Leibler information, 112
+Kurtosis, 22, 115, 170
+
+Layer
+
+hidden, 87
+
+Layer
+
+input, 86
+
+Layer
+
+output, 86
+
+learning curves, 127
+Learning graphical representations, 43
+Learning vector quantization (LVQ), 12
+Learning Vector Quantizer, 102
+Learning vector quantizers, 102
+Leave-one-out, 108
+Letters dataset, 140, 208
+Likelihood ratio, 27
+Linear decision tree, 156
+
+288
+
+INDEX
+
+Linear discriminant, 11, 12, 17, 104, 214
+Linear discrimination, 27
+Linear independent, 121
+Linear regression, 26, 104
+Linear threshold unit (LTU), 233
+Linear transformation, 115
+Linear trees, 56
+Linesearches, 91
+Link function, 26
+Log likelihood, 32
+Logdisc, 24, 121, 263
+Logistic discriminant, 17, 24
+Logistic discrimination, 27
+Logistic discrimination - programming, 25
+LVQ, 102, 126, 221, 222, 264
+
+M statistic, 113
+Machine faults dataset, 165
+Machine learning approaches, 16
+Machine learning approaches to classiﬁca-
+
+tion, 2
+
+MADALINE, 223
+Manova, 20, 114, 173
+Many categories, 121
+Marginalisation, 98
+MARS, 47
+Maximum conditional likelihood, 25
+Maximum likelihood, 20, 25, 32
+McCulloch-Pitts neuron, 84
+MDL, 80
+Measure of collinearity, 114
+Measures, 112, 209
+Measures
+
+Information-based, 169
+
+Measures
+
+statistical, 169
+
+Measures of normality, 114
+Medical datasets, 217
+Memory, 223
+Mental ﬁt, 50–52, 56, 79, 80
+mental ﬁt, 79
+Metalevel learning, 197
+Minimisation methods, 90
+Minimum cost rule, 14
+
+Minimum Description Length (MDL) Prin-
+
+ciple, 80
+
+Minimum risk rule, 14
+Misclassiﬁcation costs, 13, 14, 17, 58, 177
+Missing values, 17, 66, 70, 76, 120, 214,
+
+216
+
+ML on ML, 211
+MLP, 85–88
+Mntal ﬁt, 51
+Multi Layer Perceptron, 85–88
+Multi Layer Perceptron
+
+functionality, 87
+
+Multi-class trees, 58, 62
+Multidimensional scaling, 187, 190
+Multimodality, 112
+Multivariate analysis of variance (Manova),
+
+20
+
+Multivariate kurtosis, 115, 170
+Multivariate normality, 114
+Multivariate skewness, 115
+Mutual information, 117, 119
+
+Naive Bayes, 12, 40, 216, 263
+Nearest neighbour, 7, 35
+Nearest neighbour
+example, 36
+
+Neural network approaches, 3, 16
+Neural networks, 5, 221, 227
+Neurons, 3
+NewID, 12, 65, 66, 68, 122, 160, 218
+No data rule, 13
+Node
+
+hidden, 87
+
+Node
+
+impure, 57
+
+Node
+
+input, 87
+
+Node
+
+output, 87
+
+Node
+
+purity, 61
+
+Node
+
+winning, 102
+
+Noise, 56, 61, 73, 79, 216, 219, 223
+Noise signal ratio, 119
+
+Noisy, 57
+Noisy data, 61
+Nonlinear regression, 89
+Nonparametric density estimator, 35
+Nonparametric methods, 16, 29
+Nonparametric statistics, 5
+Normal distribution, 20
+NS.ratio, 119, 174
+
+Object recognition datasets, 180
+Observation language, 53, 229
+Odds, 25
+Optimisation, 94
+Ordered categories, 25
+Over-ﬁtting, 107
+Overﬁtting, 63, 64
+
+Parametric methods, 16
+Partitioning as classiﬁcation, 8
+Parzen window, 30
+Pattern recognition, 16
+Perceptron, 86, 109, 232
+Performance measures, 4
+Performance prediction, 210
+Plug-in estimates, 21
+Polak-Ribiere, 92
+pole balancing, 248
+Polytrees, 43
+Polytrees (CASTLE), 12
+Polytrees
+
+as classiﬁers, 43
+
+Pooled covariance matrix, 19
+Prediction as classiﬁcation, 8
+Preprocessing, 120, 123
+Primary attribute, 123
+Prior
+
+uniform, 100
+
+Prior probabilities, 13, 133
+Probabilistic inference, 42
+Products of attributes, 25
+Projection pursuit, 37, 216
+Projection pursuit (SMART), 12
+Projection pursuit
+
+classiﬁcation, 38
+
+Propositional learning systems, 237
+
+INDEX 289
+
+Prototypes, 230
+Pruning, 61, 63, 67–69, 96, 107, 109, 194
+Pruning
+
+backward, 61, 64
+
+Pruning
+
+cost complexity, 69
+
+Pruning
+
+forward, 61
+
+Purity, 61, 62
+Purity
+
+measure, 61
+
+Purity measure, 59
+
+Quadisc, 22, 121, 170, 173, 193, 263
+Quadiscr, 225, 226
+Quadratic discriminant, 12, 17, 22, 27, 214
+Quadratic discriminants, 193
+Quadratic functions of attributes, 22
+
+Radial Basis Function, 85
+Radial basis function, 93, 126, 223, 263
+Radial Basis Function Network, 93
+RAMnets, 103
+RBF, 12, 85, 93, 223, 263
+Recurrent networks, 88
+Recursive partitioning, 9, 12, 16
+Reduced nearest neighbour, 35
+Reference class, 26
+regression tree, 260
+Regularisation, 23
+Relational learning, 241
+RETIS, 260
+RG, 56
+Risk assessment, 132
+Rule-based methods, 10, 220
+Rule-learning, 50
+
+Satellite image dataset, 121, 143, 173
+Scaling parameter, 32
+Scatterplot smoother, 39
+SDratio, 113, 170
+Seciﬁc-to-general, 54
+Secondary attribute, 123
+Segmentation dataset, 145, 218
+Selector, 56
+
+Time, 223, 224
+Time to learn, 7
+Time to test, 7
+Train-and-test, 108
+Training
+
+optimisation, 94
+
+Training set, 8, 17, 35, 108
+Transformation, 121
+Transformation of attributes, 25
+Transformations of variables, 11
+Tree-learning, 50
+Trees-into-rules, 79
+Tsetse dataset, 167, 218
+Tuning of parameters, 109
+
+UK credit dataset, 121
+Uniform distribution, 32
+Univariate kurtosis, 116
+Univariate skewness, 116
+Universal approximators, 88
+Universal Computers, 88
+Unsupervised learning, 1, 6, 85, 101
+Upstart, 96
+User’s guide to algorithms, 214
+
+Vector Quantizers, 101
+Vehicle, 170
+Vehicle dataset, 138
+Vertebrate, 53, 54, 57
+Vertebrate species, 57
+Voronoi tessellation, 101
+
+XpertRule, 65, 80, 82
+
+Yardstick methods, 210
+
+Zero variance, 22
+
+290
+
+INDEX
+
+Shuttle, 107
+Shuttle dataset, 154, 218
+Simulated digits data, 45
+Skew abs, 115
+Skewness, 28, 115, 170
+SMART, 39, 216, 224, 225, 263
+Smoothing parameter, 32
+Smoothing parameters, 214
+SNR, 119
+Speciﬁc-to-general, 54, 57, 58, 79
+Speed, 7
+Splitiing criteria, 61
+Splitting criteria, 61
+Splitting criterion, 62, 67, 70, 76
+Splus, 26
+Statistical approaches to classiﬁcation, 2
+Statistical measures, 112, 169
+StatLog, 1, 4
+StatLog
+
+collection of data, 53
+
+StatLog
+
+objectives, 4
+
+StatLog
+
+preprocessing, 124
+
+Stepwise selection, 11
+Stochastic gradient, 93
+Storage, 223
+Structured induction, 83
+Subset selection, 199
+Sum of squares, 18
+Supervised learning, 1, 6, 8, 85
+Supervised networks, 86
+Supervised vector, 102
+Supervisor, 8
+Symbolic learning, 52
+Symbolic ML, 52
+
+Taxonomic, 58
+Taxonomy, 54, 57, 58, 79
+Technical dataset, 120, 161, 218
+Tertiary attribute, 123
+Test environment, 214
+Test set, 8, 17, 108
+Three-Mile Island, 7
+Tiling algorithm, 96
+
+

@@ -1,0 +1,506 @@
+Cp
+R2
+additive
+additivity
+adjusted R2
+Advertising data set
+agglomerative clustering
+Akaike information criterion
+alternative hypothesis
+analysis of variance
+area under the curve
+argument
+AUC
+Auto data set
+backfitting
+backward stepwise selection
+bagging
+baseline
+basis function
+classifier
+decision boundary
+error
+Bayes’ theorem
+Bayesian
+best subset selection
+bias
+decomposition
+trade-off
+binary
+biplot
+Springer Texts in Statistics
+Boolean
+boosting
+bootstrap
+cross-validation
+k-fold
+leave-one-out
+Boston data set
+curse of dimensionality
+bottom-up clustering
+boxplot
+branch
+Caravan data set
+Carseats data set
+categorical
+classification
+error rate
+tree
+classifier
+cluster analysis
+clustering
+K-means
+agglomerative
+bottom-up
+hierarchical
+coeﬃcient
+College data set
+collinearity
+conditional probability
+confidence interval
+confounding
+confusion matrix
+continuous
+contour plot
+contrast
+correlation
+Credit data set
+data frame
+Advertising
+Auto
+Boston
+Caravan
+Carseats
+College
+Credit
+Default
+Heart
+Hitters
+Income
+Khan
+NCI60
+OJ
+Portfolio
+Smarket
+USArrests
+Wage
+Weekly
+decision tree
+Default data set
+degrees of freedom
+dendrogram
+density function
+dependent variable
+derivative
+deviance
+dimension reduction
+discriminant function
+dissimilarity
+correlation-based
+Euclidean
+dummy variable
+effective degrees of freedom
+elbow
+entropy
+irreducible
+rate
+reducible
+term
+Euclidean distance
+expected value
+exploratory data analysis
+F-statistic
+factor
+false discovery proportion
+false negative
+false positive
+false positive rate
+feature
+feature selection
+Fisher’s linear discriminant
+for loop
+forward stepwise selection
+function
+generalized additive model
+generalized linear model
+Gini index
+Heart data set
+heatmap
+heteroscedasticity
+hierarchical clustering
+dendrogram
+inversion
+linkage
+hierarchical principle
+high-dimensional
+hinge loss
+histogram
+Hitters data set
+hold-out set
+hyperplane
+hypothesis test
+Income data set
+independent variable
+indicator function
+inference
+inner product
+input variable
+integral
+interaction
+intercept
+interpretability
+inversion
+irreducible error
+K-means clustering
+classifier
+regression
+kernel
+linear
+non-linear
+polynomial
+radial
+Khan data set
+knot
+Laplace distribution
+lasso
+leaf
+least squares
+line
+weighted
+level
+leverage
+likelihood function
+linear
+linear combination
+linear discriminant analysis
+linear kernel
+linear model
+linear regression
+multiple
+simple
+linkage
+average
+centroid
+complete
+single
+local regression
+function
+logistic regression
+multiple
+logit
+loss function
+low-dimensional
+main effects
+majority vote
+Mallow’s Cp
+margin
+matrix multiplication
+classifier
+hyperplane
+maximum likelihood
+mean squared error
+misclassification error
+missing data
+mixed selection
+model assessment
+model selection
+multicollinearity
+multivariate Gaussian
+multivariate normal
+natural spline
+NCI60 data set
+negative predictive value
+internal
+purity
+terminal
+noise
+non-linear
+decision boundary
+kernel
+non-parametric
+null
+hypothesis
+model
+odds
+OJ data set
+one-standard-error rule
+one-versus-all
+one-versus-one
+optimism of training error
+ordered categorical variable
+orthogonal
+basis
+out-of-bag
+outlier
+output variable
+overfitting
+p-value
+parameter
+parametric
+partial least squares
+path algorithm
+perpendicular
+kernel
+regression
+population regression line
+Portfolio data set
+positive predictive value
+distribution
+mode
+probability
+power
+precision
+prediction
+interval
+predictor
+principal components
+analysis
+loading vector
+explained
+regression
+score vector
+scree plot
+distribution
+probability
+projection
+pruning
+cost complexity
+weakest link
+quadratic
+qualitative
+variable
+quantitative
+x2
+abline()
+anova()
+apply()
+as.dist()
+as.factor()
+attach()
+biplot()
+boot()
+bs()
+c()
+cbind()
+coef()
+confint()
+contour()
+contrasts()
+cor()
+cumsum()
+cut()
+cutree()
+cv.glm()
+cv.glmnet()
+cv.tree()
+data.frame()
+dev.off()
+dim()
+dist()
+fix()
+for()
+gam()
+gbm()
+glm()
+glmnet()
+hatvalues()
+hclust()
+hist()
+I()
+identify()
+ifelse()
+image()
+importance()
+is.na()
+jitter()
+jpeg()
+kmeans()
+knn()
+lda()
+legend()
+length()
+library()
+lines()
+lm()
+lo()
+loadhistory()
+loess()
+ls()
+matrix()
+mean()
+median()
+model.matrix()
+na.omit()
+names()
+ns()
+pairs()
+par()
+pcr()
+pdf()
+persp()
+plot()
+plot.gam()
+plot.svm()
+plsr()
+points()
+poly()
+prcomp()
+predict()
+print()
+prune.misclass()
+prune.tree()
+q()
+qda()
+quantile()
+rainbow()
+randomForest()
+range()
+read.csv()
+read.table()
+regsubsets()
+residuals()
+return()
+rm()
+rnorm()
+rstudent()
+runif()
+s()
+sample()
+savehistory()
+scale()
+sd()
+seq()
+set.seed()
+smooth.spline()
+sqrt()
+sum()
+summary()
+svm()
+table()
+text()
+title()
+tree()
+tune()
+update()
+var()
+varImpPlot()
+vif()
+which.max()
+which.min()
+write.table()
+radial kernel
+random forest
+recall
+recursive binary splitting
+reducible error
+regression
+local
+piecewise polynomial
+polynomial
+spline
+tree
+regularization
+replacement
+resampling
+residual
+plot
+standard error
+studentized
+sum of squares
+residuals
+response
+ridge regression
+robust
+ROC curve
+rug plot
+scale equivariant
+scatterplot
+scatterplot matrix
+scree plot
+elbow
+seed
+semi-supervised learning
+sensitivity
+separating hyperplane
+shrinkage
+penalty
+signal
+slack variable
+slope
+Smarket data set
+smoother
+smoothing spline
+soft margin classifier
+soft-thresholding
+sparse
+sparsity
+specificity
+spline
+cubic
+linear
+natural
+regression
+smoothing
+thin-plate
+standard error
+standardize
+statistical model
+step function
+stepwise model selection
+stump
+subset selection
+subtree
+supervised learning
+support vector
+classifier
+machine
+regression
+synergy
+systematic
+t-distribution
+t-statistic
+error
+MSE
+observations
+set
+time series
+total sum of squares
+tracking
+train
+data
+error
+MSE
+tree
+tree-based method
+true negative
+true positive
+true positive rate
+truncated power basis
+tuning parameter
+Type I error
+Type II error
+unsupervised learning
+USArrests data set
+validation set
+approach
+variable
+dependent
+dummy
+importance
+independent
+indicator
+input
+output
+qualitative
+selection
+variance
+inﬂation factor
+varying coeﬃcient model
+vector
+Wage data set
+weakest link pruning
+Weekly data set
+weighted least squares
+within class covariance
+workspace
+wrapper
