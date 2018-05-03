@@ -6,7 +6,7 @@ import sys
 from pprint import pprint
 
 """
-python find_coverage.py "cluster_topics.json" "sentence_topics.json" 5
+python find_coverage.py "comp_vis_cluster_topics.json" "comp_vis_sentence_topics.json" 5 "comp_vis_coverage_dict.json"
 """
 
 """ Given the probability distributions of topics for each cluster and for each sentence in the 
@@ -23,7 +23,7 @@ def topNsentences(cluster_topics, sentence_topics, N):
 
 	# pprint(C_topics)
 	# pprint(S_topics)
-
+	print "Loaded topics..."
 	numClustr = len(C_topics)
 
 
@@ -42,6 +42,7 @@ def topNsentences(cluster_topics, sentence_topics, N):
 			scores[i][j] = mutual_info_score(ct, st)
 
 	pprint(scores)
+	print "Scores matrix done..."
 
 	(c,s) = np.shape(scores)
 	coverage_dict = {}
@@ -56,8 +57,9 @@ def topNsentences(cluster_topics, sentence_topics, N):
 			coverage_dict[con].append(sent)
 	
 	pprint(coverage_dict)
-	json.dump(coverage_dict, codecs.open('coverage_dict.json', 'w', encoding='utf-8'), separators=(',', ':'), indent=4) ### this saves the array in .json format
-	
+	print "Coverage dictionary done..."
+	json.dump(coverage_dict, codecs.open(sys.argv[4], 'w', encoding='utf-8'), separators=(',', ':'), indent=4) ### this saves the array in .json format
+	print "Saved to json. Done!"
 	return
 
 # coverage = topNsentences("cluster_topics.json", "sentence_topics.json", 5)

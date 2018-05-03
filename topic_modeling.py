@@ -16,7 +16,7 @@ from operator import itemgetter
 import codecs, json
 import sys
 
-""" python3 topic_modeling.py "computer_vision_clusters.json" "./original_txt/Computer Vision - Algorithms and Applications.txt" 'cluster_topics.json' 'sentence_topics.json'
+""" python3 topic_modeling.py "computer_vision_clusters.json" "./original_txt/Computer Vision - Algorithms and Applications.txt" 'comp_vis_cluster_topics.json' 'comp_vis_sentence_topics.json'
 """
 
 """ Topic modeling: given a set of keyword clusters and their word distributions: use plsa/lda to 
@@ -25,17 +25,23 @@ into sentences ( paragraphs ?), then match keyword clusters to the N most probab
 """
 
 def topicModeling(clusteredKeywords, original_txt):
-	
+	print("Begin...")
 	p_stemmer = PorterStemmer()
-	# tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-	tokenizer = nltk.tokenize.TextTilingTokenizer()
+	tokenizer1 = nltk.data.load('tokenizers/punkt/english.pickle')
+	# tokenizer1 = nltk.tokenize.TextTilingTokenizer()
 	tokenizer2 = nltk.tokenize.RegexpTokenizer(r'\w+')
+	print("Loaded tokenizers...")
 
 	fp = open(original_txt)
 	data = fp.read()
-	sentences = [s.lower().replace('-\n','').replace('\n', ' ') for s in tokenizer.tokenize(data) if len(s)>3]
-	stemmedSent = {} 
+	print("Read original_txt...")
+	tokens_1 = tokenizer1.tokenize(data)
+	print(len(tokens_1))
+	sentences = [s.lower().replace('-\n','').replace('\n', ' ') for s in tokens_1 if len(s)>3]
+	# pprint(sentences)
+	print("Finished sentences...")
 	
+	stemmedSent = {} 
 	for s in sentences:
 		stemmed = p_stemmer.stem(s)
 		stemmedNoStop = [w for w in tokenizer2.tokenize(stemmed) if w not in stopwords.words('english')]
@@ -43,8 +49,30 @@ def topicModeling(clusteredKeywords, original_txt):
 
 	# print('\n-----\n'.join(stemmedSent.keys()))
 	# print(stemmedSent)
+	print("Finished stemmedSent...")
 
-	docs = stemmedSent.values()
+	
+	parag_len = 5
+	paragraphs = {}
+	counter = 0
+	current_key = []
+	current_value = []
+	for s in stemmedSent:
+		if counter<5:
+			current_key.append(s)
+			current_value.extend(stemmedSent[s])
+			counter+=1
+		else:
+			k = ' '.join(current_key)
+			paragraphs[k] = current_value
+			counter=0
+			current_key = []
+			current_value = []
+
+	print(paragraphs)
+	print("Finished paragraphs...")
+	# docs = stemmedSent.values()
+	docs = paragraphs.values()
 	print(len(docs))
 
 	
@@ -58,7 +86,8 @@ def topicModeling(clusteredKeywords, original_txt):
 	C = len(clusters)
 
 	ldamodel = models.ldamodel.LdaModel(corpus, num_topics=C, minimum_probability=0.0, id2word = dictionary, passes=20)
-	pprint(ldamodel.print_topics(num_topics=C))
+	# pprint(ldamodel.print_topics(num_topics=C))
+	print("Finished topic modeling...")
 
 	# CLUSTER TOPICS
 	cluster_topics = {}
@@ -69,25 +98,27 @@ def topicModeling(clusteredKeywords, original_txt):
 		# topic.sort(key=itemgetter(1), reverse=True)
 		topic.sort(key=itemgetter(0))
 		cluster_topics[current] = topic
-	pprint(cluster_topics)
+	# pprint(cluster_topics)
 
 	# TOPICS PER SENTENCE
 	sentence_topics = {}
-	for d in stemmedSent.keys():
+	# for d in stemmedSent.keys():
+	for d in paragraphs:
 		# current = ' '.join(d)
 		current = d 
-		doc_bow = dictionary.doc2bow(stemmedSent[d])
+		doc_bow = dictionary.doc2bow(paragraphs[d])
 		topic = ldamodel[doc_bow]
 		# topic.sort(key=itemgetter(1), reverse=True)
 		topic.sort(key=itemgetter(0))
 		sentence_topics[current] = topic
-	pprint(sentence_topics)
+	# pprint(sentence_topics)
 
 	# 'cluster_topics.json'
 	# 'sentence_topics.json'
+	print("Writing to json...")
 	json.dump(cluster_topics, codecs.open( sys.argv[3], 'w', encoding='utf-8'), separators=(',', ':'), indent=4) ### this saves the array in .json format
 	json.dump(sentence_topics, codecs.open(sys.argv[4], 'w', encoding='utf-8'), separators=(',', ':'), indent=4) ### this saves the array in .json format
-
+	print("Done!")
 	return
 
 
