@@ -10,6 +10,9 @@ import numpy as np
 import codecs, json
 import sys
 
+""" python3 get_neighborhoods.py "./tagged_txt/Computer Vision - Algorithms and Applications.txt" 20 "./original_txt/Computer Vision - Algorithms and Applications.txt" "computer_vision_distributions.json"
+"""
+
 """ Returns a dictionary of {keyword: neighborhood word distribution}
 M is the range of the word neighborhood: M words before the keyword + M words after.
 """
